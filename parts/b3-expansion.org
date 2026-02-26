@@ -1,0 +1,637 @@
+#+TITLE: Flag Empires Book III: Surface and Last Year - Expansion
+#+AUTHOR: Supplementary Chronicle
+#+DATE: Terminal Age Records
+
+* Supplementary: The Road-Warden's Mutiny
+
+[Canon: FE-TA-B3-ANN-001 | Year: TA 2387]
+
+In the waning months before the final collapse, when the great roads that had been the arteries of empire began to pulse with the fever of rebellion rather than the steady beat of commerce, there came to pass an event that would be remembered as the first crack in the foundation of imperial order—though by then, those who paid attention to such subtleties could see that the foundation had been undermining itself for decades, grain by grain, like sand castles built too close to an incoming tide.
+
+Kellan Grid-Maker had served the Road-Wardens for seventeen years, rising through the ranks from a simple pathway patrol to command of the Granary Route—that vital corridor which connected the fertile valleys of Thessian Province to the great cities of the western seaboard. His surname was not inherited but earned, for he had been among those who laid out the complex grid system that allowed grain wagons to move efficiently through the mountain passes, calculating grades and angles with the precision that marked all Road-Warden engineering. He was, by all accounts that have survived, a man who believed in the mathematics of empire: that order could be imposed upon chaos through careful measurement, proper planning, and unwavering discipline.
+
+** The Arithmetic of Famine
+
+[Canon: FE-TA-B3-ANN-002 | Year: TA 2387]
+
+It was in the third week of Harvest Month that Kellan Grid-Maker first began to understand that mathematics could become a weapon turned against itself. His patrol had been assigned to escort a convoy of forty-seven grain wagons from the collection depot at Millhaven to the distribution centers in Port Aldrich and New Byzantia. Standard procedure, routine as sunrise, except that the numbers had begun to tell a story that the official dispatches refused to acknowledge.
+
+The harvest reports showed yields down by thirty percent across Thessian Province, yet the requisition orders from the coastal cities had increased by fifteen percent over the previous year. When Kellan had raised this discrepancy with his superior, Captain Marcus Ironhand, he had been told that supply chains were none of his concern—his job was to ensure safe passage, not to question imperial logistics. But Kellan Grid-Maker had built his career on understanding how systems worked, and he could see that this system was consuming itself.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-001 | Year: TA 2387 | Reliability: High | Source: Personal journal of Kellan Grid-Maker, recovered from roadside cache]
+
+The children gathered at the roadside again today, as they have for the past week. Their eyes follow our wagons with a hunger that cuts deeper than any blade I have carried. When we stopped to water the horses at Crow's Crossing, an old woman approached me—bent nearly double with age, her hands like dried branches. She asked if we could spare a single sack of grain, just one, for her village. She said they had given everything to the tax collectors three months ago and now had nothing left for winter.
+
+I told her, as regulations require, that the cargo was sealed and accounted for, destined for the coastal cities where it was needed to feed the empire's great works. But I could not meet her eyes when I said it. How do you explain to a starving grandmother that her grain must travel past her empty granaries to feed the appetites of distant bureaucrats?
+
+The mathematics are simple. The coastal cities have grown fat on tribute while the provinces that feed them waste away. We are robbing Peter to pay Paul, except Peter is already starving and Paul grows more gluttonous with each passing season.
+#+end_quote
+
+** The Weight of Orders
+
+[Canon: FE-TA-B3-ANN-003 | Year: TA 2387]
+
+The breaking point came not with dramatic revelation but with the accumulation of small cruelties, the way a rope frays strand by strand until one final stress causes it to snap completely. Kellan's company had been escorting the weekly convoy for two months when they encountered the roadblock at Thornvale—not bandits, as their training had prepared them to expect, but the villagers themselves, standing across the road with nothing more threatening than empty hands and empty bellies.
+
+The spokesman for the villagers was Thomas Millwright, a man Kellan recognized from previous passages through the region. Thomas had always been among those who ensured the road was properly maintained, who provided fresh horses and supplies for the Road-Wardens, who exemplified the cooperative relationship between empire and province that had sustained the system for generations. Now Thomas stood in the middle of the imperial highway with tears streaming down his weathered face.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-002 | Year: TA 2387 | Reliability: High | Source: Report of Sergeant Willem Blackwood, corroborated by multiple witness accounts]
+
+The miller—Thomas Millwright—stepped forward when we called the halt. Kellan dismounted to speak with him, which was proper procedure for dealing with civilian obstruction. But what the miller said... it stays with you, you know? He said his daughter had died three days prior, not from disease or accident, but from hunger. Eight years old, and she starved to death while we marched tons of grain past her door every week.
+
+"I'm not asking you to steal," the miller said to Kellan. "I'm asking you to see. My neighbors and I, we've been loading these wagons ourselves. We've been watching our own grain march away while our children waste to nothing. How long are we supposed to pretend this makes sense?"
+
+Kellan... he stood there for the longest time, just looking at the wagons, then at the villagers, then back at the wagons. You could see him thinking, calculating, the way he always did when he was working out some engineering problem. But this wasn't a problem that could be solved with mathematics.
+#+end_quote
+
+The confrontation lasted three hours. Captain Ironhand, riding with the convoy that day to investigate reports of "irregular conduct" among the Road-Wardens, ordered Kellan to disperse the villagers by force if necessary. The regulations were clear: interference with imperial supply lines was treasonous activity, punishable by immediate conscription of all able-bodied men and confiscation of village grain stores. 
+
+But Kellan Grid-Maker, who had spent his career building roads that connected the empire's scattered territories, who had believed that infrastructure could bind disparate peoples into a functioning whole, found himself facing a question that no amount of engineering training had prepared him to answer: What do you do when the system you serve has become the instrument of its own destruction?
+
+** The Mathematics of Rebellion
+
+[Canon: FE-TA-B3-ANN-004 | Year: TA 2387]
+
+The mutiny, when it came, was as methodical as everything else Kellan Grid-Maker had ever done. He did not raise his sword against Captain Ironhand in a moment of passion; instead, he turned to his men and spoke with the same calm precision he had always used when explaining how to calculate bridge load tolerances or optimal road gradients.
+
+"Gentlemen," he said, his voice carrying across the morning air with crystalline clarity, "we have a choice to make. We can follow our orders and escort this grain to the coastal cities, where it will feed bureaucrats and courtiers while the people who grew it starve. Or we can remember that our oath was to protect the empire—not its corruption, but its people. The choice is yours, but I will not be party to genocide wrapped in the rhetoric of duty."
+
+Of the forty-three men under Kellan's command, thirty-seven chose to follow him. They unhitched the grain wagons and began distributing their contents to the villages along the route, calculating portions with the same mathematical precision they had once applied to engineering projects. Each family received exactly what they needed to survive the winter, no more and no less, with careful records kept of every sack distributed.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-003 | Year: TA 2387 | Reliability: Moderate | Source: Account of Marcus Ironhand, recorded during court-martial proceedings]
+
+Grid-Maker had always been trouble—too thoughtful, too questioning. A good engineer, I'll grant you that, but he never learned that sometimes you follow orders because they're orders, not because they make sense to your provincial mind. When he started spouting that nonsense about protecting the empire by betraying it, I knew we had lost him completely.
+
+The worst part wasn't the mutiny itself—soldiers have been deserting for months, and at least Grid-Maker kept his men organized and disciplined. The worst part was how reasonable he made it sound. Even some of my own loyal men were nodding along as he laid out his justifications. He turned rebellion into a mathematical proof, as if treason could be solved like a bridge-building problem.
+
+When I threatened to have him executed for mutiny, he just looked at me with those engineer's eyes and said, "Captain, if following orders requires us to starve the people who feed us, then our orders are strategically unsound. I'm not betraying the empire—I'm trying to save it from itself."
+#+end_quote
+
+** The Spreading Calculation
+
+[Canon: FE-TA-B3-ANN-005 | Year: TA 2387]
+
+News of Kellan's rebellion spread along the road networks with the same efficiency that had once carried imperial dispatches, but now the infrastructure that had been designed to strengthen central authority became the medium through which revolutionary ideas propagated. Other Road-Warden companies began to question their orders, to perform their own calculations about the sustainability of a system that consumed its own foundations.
+
+The mathematical precision of Kellan's approach proved more dangerous to imperial authority than any number of passionate uprisings. He had not simply rebelled—he had demonstrated that rebellion could be logical, systematic, and morally necessary. Within six weeks, fourteen separate Road-Warden companies had followed his example, turning the empire's own supply lines into instruments of wealth redistribution.
+
+The empire's response was swift and brutal. Elite legions were diverted from frontier campaigns to hunt down the rebellious Road-Wardens, while new regulations required all grain convoys to be escorted by regular army units rather than the supposedly unreliable road guards. But the damage had been done—not just to the supply chain, but to the fundamental belief that the system was worth preserving.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-004 | Year: TA 2387 | Reliability: High | Source: Final dispatch of Kellan Grid-Maker, found on his body after the Battle of Crow's Crossing]
+
+To whoever finds this record: I die without regret, though I grieve for the empire that could have been. We had the infrastructure, the knowledge, the resources to build something magnificent—a civilization that could feed all its children and honor all its peoples. Instead, we built a machine that devoured itself in service to the appetites of the few.
+
+I have done the mathematics. The system as it exists cannot survive another winter. Either it transforms itself, or it collapses under the weight of its own contradictions. My rebellion was not an act of destruction but an attempt at correction, a desperate effort to adjust the calculations before total system failure became inevitable.
+
+The roads will outlast the empire. The bridges will remain when the banners have been burned. Perhaps someday, those who come after will build something better on the foundations we have laid. Perhaps they will remember that infrastructure serves people, not the other way around.
+
+Calculate carefully. Build wisely. Question everything.
+#+end_quote
+
+The Battle of Crow's Crossing lasted two days. Kellan Grid-Maker died with a sword in his hand and a slide rule in his pocket, still trying to solve the problem of how to hold a defensible position against overwhelming odds. His rebellion was crushed, his men scattered, and his name struck from official records. But the questions he had raised—about duty and conscience, about systems and their purposes—those calculations continued to spread through the empire's dying networks, preparing the ground for everything that would follow.
+
+* Supplementary: The Lantern Riots — Three Nights
+
+[Canon: FE-TA-B3-ANN-006 | Year: TA 2388]
+
+In the final winter of the empire, when the grip of central authority had loosened enough that local customs could once again breathe in the spaces between official decrees, the people of Valdris returned to an ancient practice that had been dormant for three centuries: the Lighting of Remembrance, when families would gather in the city's great square to kindle lanterns for their honored dead and speak their names into the winter darkness, believing that on this longest night, the veil between worlds grew thin enough for love to reach across the final threshold.
+
+The festival had been suppressed during the early years of imperial consolidation, when the bureaucracy determined that public gatherings for any purpose other than tax collection or military recruitment represented potential threats to public order. But now, with imperial resources stretched beyond breaking and local governors more concerned with securing their own territories than enforcing cultural regulations from the distant capital, old traditions began to resurface like spring flowers pushing through the cracks in winter pavements.
+
+** The First Night: Gathering Light
+
+[Canon: FE-TA-B3-ANN-007 | Year: TA 2388]
+
+December 21st had dawned clear and bitter cold, with the kind of crystalline air that made every breath visible and turned the city's stone buildings into sculptures carved from accumulated frost. By evening, families had begun gathering in Memorial Square—not the grand Imperial Plaza where official ceremonies were conducted, but the smaller, older space at the heart of the original settlement, where weathered stones still bore inscriptions in the ancient script that predated imperial standardization.
+
+They came bearing lanterns of every description: elaborate glass constructions that had been family heirlooms for generations, simple paper shells wrapped around candle stubs, oil lamps that cast warm amber pools in the gathering darkness. Each lantern bore the name of someone lost—in the endless frontier wars, in the recent famines, in childhood diseases that still claimed too many despite imperial medicine, in the simple accumulation of years that eventually claims everyone.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-005 | Year: TA 2388 | Reliability: High | Source: Journal of Elena Brightwater, local merchant]
+
+My grandmother's lantern had not been lit for thirty-seven years, not since the Suppression Edicts made such gatherings illegal. But I remembered her voice telling me about the old nights, when the whole city would glow like a constellation fallen to earth. Tonight, with the imperial garrison reduced to a skeleton crew and the governor more interested in his wine than his duties, we dared to remember.
+
+I wrote my husband's name on rice paper and slipped it into the lantern just as grandmother had taught me. Marcus had fallen in the Border Wars five years ago, but tonight he felt close enough to touch. Around me, hundreds of other families were performing their own rituals of remembrance, whispering stories to the winter air, letting their grief become light.
+
+The children didn't understand why the adults were crying. They just knew that something beautiful was happening, something that made the darkness warm and the winter night feel less empty. My daughter asked if we could do this every year, and I promised her we would—though I had no idea if we would still be here, or if there would still be a city to gather in.
+#+end_quote
+
+By midnight, Memorial Square held nearly three thousand people, far more than had gathered for any public event since the Imperial Victory Parade of TA 2385. The crowd was peaceful, contemplative, united in a shared ritual that connected them not to empire or authority but to each other and to the long chain of human memory that stretched back before governments and would continue after they fell. For several hours, it seemed that Valdris had found its way back to something essential that it had lost during the centuries of imperial rule.
+
+Then the soldiers arrived.
+
+** The Kindling of Anger
+
+[Canon: FE-TA-B3-ANN-008 | Year: TA 2388]
+
+Captain Lucius Blackthorne of the Valdris garrison had been drinking since sunset—not unusual for him during the dark months of winter, but unfortunately timed on this particular evening. His orders from Governor Septimus were vague enough to allow for interpretation: maintain public order, disperse illegal gatherings, ensure that no activity occurred which might encourage seditious sentiment among the population. The specific mention of "ancient practices" in the dispatch suggested that someone in the provincial administration was nervous about the revival of pre-imperial customs.
+
+What Captain Blackthorne saw when he arrived with two dozen soldiers was not a peaceful remembrance ceremony but a potentially dangerous concentration of citizens engaged in unauthorized assembly. What the crowd saw when the soldiers marched into the square in full battle gear was an imperial fist raised against their moment of sacred vulnerability.
+
+The first lantern fell when Sergeant Marcus Ironwill tried to disperse a cluster of families near the eastern edge of the square. An elderly woman named Sarah Threadkeeper had been telling her granddaughter about the brother who had died in the Plague of TA 2371, holding a lantern that had been in their family for six generations. When the sergeant ordered her to extinguish the light and disperse, she explained that the ceremony required the lanterns to burn until dawn—it was a matter of religious obligation, not political defiance.
+
+Sergeant Ironwill, following standard procedures for dealing with civilian non-compliance, knocked the lantern from her hands.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-006 | Year: TA 2388 | Reliability: High | Source: Testimony of Marcus Brightwater, age 14, recorded by city magistrate]
+
+The lantern broke when it hit the cobblestones, and the oil spread out in a pool of fire. But that wasn't the worst part. The worst part was watching grandmother Sarah's face when she saw her brother's name burning on the ground, the rice paper curling up and turning to ash.
+
+She didn't scream or cry or fight. She just stood there looking at the flames, and then she said, very quietly, "His name was Robert, and he was seven years old when the plague took him, and now you've burned him again." Her voice was so calm it was terrifying.
+
+That's when other people started shouting. My father stepped forward—he's not a big man, but he seemed huge in that moment—and he said to the sergeant, "You have no right to extinguish our dead." Other voices joined his, and suddenly hundreds of people were moving toward the soldiers, not to attack them but just to stand between them and the lanterns.
+
+The sergeant must have gotten scared, because he drew his sword. That's when everything changed.
+#+end_quote
+
+The violence that followed was brief but transformative. When Captain Blackthorne ordered his men to begin systematically extinguishing lanterns, treating them as illegal fires that posed a threat to public safety, the crowd's mood shifted from grief to rage with the sudden intensity of summer lightning. The citizens of Valdris had endured decades of imperial taxation, conscription, and cultural suppression with the stoic resignation that characterized most provincial populations. But attacking their moment of connection with their beloved dead crossed a line that many had not known existed.
+
+** The Second Night: Barricades and Broken Glass
+
+[Canon: FE-TA-B3-ANN-009 | Year: TA 2388]
+
+December 22nd dawned to find Memorial Square occupied by protesters who had spent the night rebuilding their lantern display with defiant determination. The broken glass and scattered oil from the previous evening's confrontation had been carefully cleaned away, but the emotional damage could not be so easily repaired. Word of the soldiers' actions had spread through the city with the speed of scandal, and by sunrise the square held not just the original mourning families but hundreds of additional citizens who had come to express their solidarity.
+
+The barricades went up during the afternoon, constructed not by professional revolutionaries but by ordinary people who had decided they were no longer willing to accept official interference with their most sacred practices. Helena Ironmonger, who ran a small metalworking shop near the square, donated the iron framework. Thomas Stonewright provided the paving stones that had been stored in his warehouse for a delayed street repair project. Even the children contributed, gathering every piece of broken pottery and scrap wood they could find to help seal the gaps.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-007 | Year: TA 2388 | Reliability: Moderate | Source: Account of Helena Ironmonger, recorded during post-riot interrogation]
+
+I'd never built a barricade before—who has? But when they asked me for iron to help protect the square, I couldn't refuse. My brother's lantern had been one of those they destroyed, and I still had his name written on my palm in charcoal ink because I hadn't been able to wash it off without crying.
+
+We weren't trying to start a revolution. We just wanted to light our lanterns without soldiers stomping on them. But once you start building walls against authority, you discover that authority doesn't much like walls it doesn't control. By noon, we had half the square blocked off with anything we could find—cart wheels, lumber, broken furniture, iron grating from the old well cover.
+
+The strangest part was how normal it felt. Neighbors working together, everyone contributing what they could, people sharing food and watching each other's children. It was like a barn-raising, except we were building fortifications against our own government. When you put it like that, it sounds insane. But in the moment, it was the most reasonable thing in the world.
+#+end_quote
+
+The second confrontation came at sunset, when Captain Blackthorne returned with reinforcements—two additional companies borrowed from the garrison at Port Aldrich, bringing his total force to nearly one hundred men. Governor Septimus had received angry dispatches from the capital inquiring why a provincial city was being allowed to descend into open rebellion, and he had made it clear that the situation needed to be resolved quickly and definitively.
+
+The crowd had grown as well. Nearly five thousand people now occupied Memorial Square and the surrounding streets, far more than could be accommodated by the makeshift barricades. Many carried weapons—not swords or military equipment, but the tools of their trades: hammers, axes, kitchen knives, woodworking chisels. A few veterans of the frontier wars had managed to retain their military gear despite regulations requiring all weapons to be surrendered upon completion of service.
+
+The battle lines were drawn not between armies but between two different visions of what civilization should mean: imperial order imposed from above, versus community solidarity rising from below. Neither side wanted the violence that was about to engulf them, but both had reached positions from which retreat seemed impossible.
+
+The riot leaders who emerged during the second night were not professional agitators but ordinary citizens who found themselves thrust into positions of command by circumstance and moral clarity. Marcus Brightwater, Elena's father-in-law, became the unofficial coordinator of the barricade defenders simply because he was one of the few people present who had military experience and could think strategically about defensive positions. Sister Margaret of the local Temple of Compassion took charge of the medical station, while young David Lampmaker organized the runners who carried messages between different sections of the occupied area.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-008 | Year: TA 2388 | Reliability: High | Source: Field report of Brother Timothy, Temple scribe and witness]
+
+The improvised weapons were everywhere—barrel staves turned into clubs, kitchen knives lashed to broomsticks as makeshift spears, slingshots made from leather scraps and stones collected from the old riverbed. But what struck me most was how carefully they were being distributed. Marcus Brightwater had organized the defenders into small groups, each responsible for one section of the perimeter, each equipped according to their abilities and experience.
+
+The glassworkers had brought bags of sharp shards that could be scattered in front of the barricades to slow charging soldiers. The bakers had contributed their long oven paddles, which made excellent shields when held properly. Even the children had roles—carrying water to put out fires, tending the wounded, keeping the signal lanterns lit so the different sections could coordinate.
+
+It was horrifying and beautiful at the same time. A community organizing itself for war against its own government, but doing it with the same cooperative spirit they would have brought to any community project. These were not mindless rioters but neighbors defending their right to honor their dead.
+#+end_quote
+
+The second night's fighting lasted until dawn and left twelve soldiers and twenty-three civilians dead. The casualties were not the result of military assault but of a grinding siege punctuated by brief, savage clashes when imperial forces attempted to break through particular sections of the barricade line. The defenders proved surprisingly effective at urban warfare, using their intimate knowledge of the city's layout to harass soldiers from rooftops and side streets while falling back to prepared positions when necessary.
+
+But the most significant development of the second night was not military but symbolic: the spontaneous organization of lantern brigades that moved throughout the occupied area, ensuring that memorial lights continued to burn despite the chaos. Even as people fought and died in the streets, the original purpose of the gathering—remembering the dead—continued with ritualistic determination.
+
+** The Third Night: The Fire That Ate the Empire
+
+[Canon: FE-TA-B3-ANN-010 | Year: TA 2388]
+
+By December 23rd, the situation in Valdris had attracted attention from across the province and beyond. Merchants who should have been traveling the winter roads had instead gathered in nearby towns to watch for news from the besieged city. Riders carrying messages between the capital and regional governors found their usual routes blocked by crowds of onlookers and sympathizers. The riot had become a symbol of broader discontent that extended far beyond the original grievance about religious freedom.
+
+Governor Septimus faced an impossible choice. He could escalate the military response, calling in full legion support to crush the rebellion decisively—but that would require admitting to the capital that a provincial city had successfully resisted imperial authority for three days. Or he could negotiate with the rebels, offering concessions that might end the violence—but any compromise would set a precedent that could encourage similar uprisings throughout the empire.
+
+He chose escalation.
+
+The final assault began at sunset with a coordinated attack on all four sides of the occupied zone. Three full companies of soldiers, supported by archers positioned on surrounding rooftops and a battering ram constructed from a requisitioned tree trunk, moved simultaneously to overwhelm the barricades. The plan was to end the rebellion in a single devastating blow that would discourage further resistance while demonstrating imperial power to the watching province.
+
+Instead, the assault triggered the event that would be remembered as the Night the Empire Burned.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-009 | Year: TA 2388 | Reliability: High | Source: Account of David Lampmaker, recorded in exile three years later]
+
+The fire started by accident—at least, I think it was an accident. During the final assault, when soldiers were trying to break through the eastern barricade, someone knocked over one of the signal braziers we'd been using for communication. The oil spilled across a pile of administrative papers that people had brought from their homes—tax notices, conscription orders, all the documents of imperial control that families had been forced to keep.
+
+Those papers burned so easily, like they were made of tinder instead of parchment. And once they caught fire, the flame spread to the other documents people had brought: more tax records, property deeds, military service certificates, birth registrations. Within minutes, decades of imperial paperwork was turning to ash and smoke.
+
+That's when someone—I never found out who—shouted, "If we're burning papers, let's burn the right ones!" And suddenly people were running toward the Administrative Quarter, carrying torches and oil lanterns, heading for the buildings where the real records were kept.
+#+end_quote
+
+The Administrative Quarter of Valdris housed the regional offices responsible for tax collection, military recruitment, judicial proceedings, and the thousand other functions that connected provincial life to imperial authority. It contained copies of every important document generated during three centuries of imperial rule: property registries, census records, military rosters, commercial licenses, marriage certificates, inheritance claims. The destruction of these archives would not merely inconvenience the local government but would effectively erase the documentary foundation upon which imperial administration depended.
+
+The crowd that surged toward the Administrative Quarter was not the same peaceful assembly that had gathered three nights earlier to honor their dead. These were people who had watched soldiers destroy their sacred ceremony, who had spent two days building barricades against their own government, who had seen friends and neighbors die in defense of basic human dignity. They moved with the focused rage of a community that had finally decided to stop accepting the unacceptable.
+
+The imperial garrison made a desperate attempt to defend the government buildings, but they were vastly outnumbered and caught completely off-guard by the sudden shift in objectives. Captain Blackthorne managed to get word to Governor Septimus, but the governor's reinforcements were still positioning themselves for the assault on Memorial Square when the first building burst into flames.
+
+** The Consuming Light
+
+[Canon: FE-TA-B3-ANN-011 | Year: TA 2388]
+
+The fire that consumed Valdris's Administrative Quarter burned for seven hours and could be seen from twenty miles away. It began with the Tax Collection Office, where three centuries of revenue records turned to ash and smoke in less than thirty minutes. From there, the flames spread to the Registry of Deeds, the Military Recruitment Center, the Judicial Archive, and finally the Governor's Palace itself, where centuries of correspondence between provincial administrators and the imperial capital provided kindling for the most spectacular blaze of all.
+
+But the most significant aspect of the fire was not its physical destruction but its symbolic power. As news spread throughout the empire that an entire provincial administration had been burned out by its own citizens, other communities began to realize that imperial authority was not the immutable force it had always seemed. If the people of Valdris could destroy the documentary apparatus that bound them to the empire, perhaps others could do the same.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-010 | Year: TA 2388 | Reliability: Moderate | Source: Letter from Governor Septimus to Imperial Chancellor Marcus Goldenheart, recovered from palace ruins]
+
+Your Excellency, I write this dispatch by candlelight from a commandeered merchant's house, as the Governor's Palace has been reduced to smoking rubble by the mob that has taken control of my city. The situation here has deteriorated beyond any possibility of local resolution and will require immediate intervention by full legion force to restore imperial authority.
+
+The rebels have not merely rioted but have systematically destroyed the entire administrative infrastructure of the province. Tax records going back three centuries have been burned, along with all property deeds, military service records, and judicial precedents. We have, in effect, lost the legal foundation for imperial governance in this region.
+
+What is worse, the rebellion appears to be spreading. Riders from other cities report similar uprisings beginning in response to news from Valdris. The destruction of our archives seems to have inspired copycat actions, as if the very act of burning imperial paperwork has become a form of revolutionary contagion.
+
+I fear we are witnessing something far more dangerous than civil unrest. This feels like the beginning of systematic resistance to imperial authority itself. Unless decisive action is taken immediately, we may lose not just a single province but the very concept of imperial legitimacy.
+
+The irony is that this all began with a religious ceremony—people wanting to light lanterns for their dead. How did honoring the deceased become an act of treason against the state? Perhaps we have forgotten the difference between governing and oppressing, between authority and tyranny. But it may be too late for such philosophical reflections.
+
+Send legions. Send them quickly. Before the fire spreads beyond our ability to contain it.
+#+end_quote
+
+By dawn on December 24th, the Valdris uprising had effectively ended imperial control over the city and its surrounding territory. The garrison had retreated to a fortified position outside the city walls, Governor Septimus had fled to the provincial capital at Port Aldrich, and the citizens found themselves in the unprecedented position of governing their own affairs without imperial oversight.
+
+The aftermath of the Lantern Riots revealed both the possibilities and the challenges of life beyond empire. Without imperial tax collectors, families could keep more of their harvest—but without imperial infrastructure, the roads began to deteriorate and trade relationships collapsed. Without imperial conscription, young men remained home to help with farming and crafts—but without imperial military protection, border raids by opportunistic neighbors became a constant threat.
+
+Most significantly, the destruction of the administrative archives created a legal vacuum that would take years to resolve. Property ownership, marriage validity, inheritance rights, commercial agreements—all the documentary foundations of civilized life had gone up in smoke during those seven hours of revolutionary fire. The community that emerged from the ashes would have to rebuild not just their government but their entire system of social organization.
+
+But in the immediate aftermath, as people gathered in Memorial Square for the fourth consecutive night to tend their lanterns and count their dead, there was a sense of profound liberation mixed with profound uncertainty. They had proven that imperial authority could be resisted, but they had not yet discovered what would replace it.
+
+The lanterns burned until dawn on Christmas morning, and for the first time in centuries, they burned without fear of interference.
+
+* Supplementary: The Dissolution Decrees
+
+[Canon: FE-TA-B3-ANN-012 | Year: TA 2389]
+
+When the final documents were prepared in the waning days of the Terminal Age, when the last emperors had retreated to their island fortress and the provincial governors had begun declaring independence with increasingly bold proclamations, the bureaucratic apparatus that had sustained imperial administration for four centuries faced the unprecedented task of formally dissolving itself. The Dissolution Decrees represented not merely the end of political authority but the careful dismantling of the legal and administrative framework that had defined civilization itself for longer than most people could remember.
+
+The language of dissolution required a precision that the imperial chancellery had never before attempted. How do you declare the end of everything in terms that will be legally binding even after the law itself ceases to exist? How do you distribute the assets of an empire to territories that will no longer acknowledge your authority to make such distributions? How do you officially end your own power to make official declarations?
+
+These questions occupied the finest legal minds in the capital for three months, producing draft after draft of dissolution language that struggled to balance the competing demands of legal formalism, practical necessity, and imperial dignity. The final versions, promulgated on the Ides of Last Month in TA 2389, represented a masterpiece of bureaucratic precision applied to the impossibility of its own termination.
+
+** Imperial Decree of Provincial Autonomy
+
+[Canon: FE-TA-B3-DIS-001 | Year: TA 2389]
+
+*Proclaimed by His Imperial Majesty Aurelius XXIII, Last of the Dragon Throne, Keeper of the Sacred Seal, Guardian of the Ancient Ways, by the Grace of the Gods Emperor of All Civilized Lands, in the Final Year of His Reign and in the Terminal Age of the Imperial Calendar.*
+
+WHEREAS, the territories comprising the Sacred Empire have grown beyond the capacity of central administration to govern effectively and with justice toward all peoples;
+
+AND WHEREAS, the distances separating the Imperial Capital from the furthest provinces have rendered timely communication and responsive governance impossible under current constitutional arrangements;
+
+AND WHEREAS, the diverse peoples of the Empire have demonstrated their capacity for self-governance through their management of local affairs during the recent period of reduced central oversight;
+
+AND WHEREAS, the Sacred Throne recognizes that the highest duty of imperial authority is to serve the welfare of all citizens, even when such service requires the voluntary relinquishment of imperial prerogatives;
+
+NOW THEREFORE, by this Irrevocable Decree, We do hereby proclaim:
+
+**ARTICLE I: DISSOLUTION OF IMPERIAL AUTHORITY**
+
+The Sacred Empire, as a political entity exercising direct governance over provincial territories, is hereby dissolved. All claims to imperial sovereignty over lands beyond the Sacred Island are formally relinquished. The Dragon Throne acknowledges the right of each province to determine its own form of government and allegiances without interference from the former Imperial Authority.
+
+**ARTICLE II: TRANSFER OF GOVERNMENTAL POWERS**
+
+All powers previously exercised by Imperial Governors, Imperial Magistrates, Imperial Tax Collectors, and other officers of the Central Administration are hereby transferred to such local authorities as each province shall establish for itself. This transfer includes but is not limited to: taxation powers, judicial authority, military command, commercial regulation, infrastructure maintenance, and the administration of justice according to local custom and law.
+
+**ARTICLE III: DISTRIBUTION OF IMPERIAL ASSETS**
+
+The physical assets of Imperial Administration located within each province—including government buildings, road maintenance equipment, stored grain reserves, military supplies, and accumulated tax revenues—become the property of the local authorities in each region. The Sacred Throne claims no further right to such materials and explicitly renounces any future claim upon them.
+
+**ARTICLE IV: MILITARY REORGANIZATION**
+
+All Imperial Legions are hereby disbanded as units of Imperial service. Individual soldiers may choose to: (a) return to their provinces of origin with full military honors and such equipment as they can reasonably transport; (b) remain on the Sacred Island as members of the Royal Guard; or (c) enter the service of whatever local authority they deem worthy of their loyalty. No soldier shall be compelled to serve beyond the term of his original enlistment, and all are released from their oaths of imperial loyalty with gratitude for faithful service.
+
+**ARTICLE V: JUDICIAL CONTINUITY**
+
+Legal contracts, property deeds, marriage certificates, and other documents previously validated by Imperial Authority shall retain their legal force under the laws of each province. However, each province is granted full authority to modify, supplement, or replace Imperial legal precedents with local legal traditions as they see fit. The Sacred Throne will not intervene in legal disputes arising from such modifications.
+
+**ARTICLE VI: FUTURE RELATIONS**
+
+The Sacred Island shall maintain diplomatic relations with all former provinces that desire such contact, but as equals rather than as superior to subordinates. Trade agreements, mutual defense pacts, and cultural exchanges may be negotiated between the Sacred Throne and provincial authorities according to the principles of mutual benefit and respect.
+
+**ARTICLE VII: IRREVOCABILITY**
+
+This Decree is intended to be permanent and irrevocable. Even should future circumstances make imperial reunification theoretically possible, the Sacred Throne hereby pledges never to attempt the restoration of direct imperial control over territories that have accepted autonomy under this Decree. The age of Empire has ended; the age of confederation may now begin.
+
+Given under Our Hand and Sealed with the Dragon Seal, in the presence of the full Imperial Court and the High Priests of the Sacred Temple, this Fifteenth Day of Last Month, in the Year TA 2389, being the Final Year of Our Reign and the Last Year of the Imperial Era.
+
+*AURELIUS XXIII IMPERATOR*
+
+*Witnessed by: Marcus Goldenheart, Imperial Chancellor; Helena Dragonkeeper, High Priestess of the Sacred Temple; Gaius Ironwill, Commander of the Royal Guard; Lucinda Truthseer, Keeper of the Sacred Seal*
+
+** The Reading of the Decrees
+
+[Canon: FE-TA-B3-ANN-013 | Year: TA 2389]
+
+The proclamation of the Dissolution Decrees required a coordination effort that represented one final display of imperial organizational capability. Copies had to be prepared for every provincial capital, every significant town, every military garrison, and every administrative outpost throughout the Empire. The logistics of ensuring simultaneous delivery across territories spanning three continents tested the imperial postal system to its absolute limits—and succeeded, barely, in what would be its final major operation.
+
+The decrees were read aloud in public squares throughout the Empire on the same day: the Winter Solstice of TA 2389, chosen because it represented both an ending and a beginning, both the darkest day and the promise of returning light. In each location, the reading followed an identical ceremonial protocol: the local imperial representative would appear in full official regalia, announce the purpose of the gathering, read the complete text of the relevant decree, formally transfer authority to designated local leaders, and then ceremonially remove the imperial insignia that had marked their office.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-011 | Year: TA 2389 | Reliability: High | Source: Personal account of Marcus Stoneheart, former Imperial Governor of Thessian Province]
+
+I had governed Thessian for twelve years, had raised taxes and levied troops and adjudicated disputes with the confidence that came from representing something larger than myself. But when I stood in the great square at Millhaven to read the words that would end my authority, I felt more like a priest delivering last rites than a politician making an announcement.
+
+The crowd was enormous—perhaps fifteen thousand people had gathered to witness the end of Empire. Some had traveled for days to be present for this moment. As I spoke the words that formally dissolved their connection to the Sacred Throne, I could see faces that reflected every possible emotion: relief, terror, excitement, grief, confusion, anger, hope.
+
+When I reached Article II and announced the transfer of governmental powers, a cheer went up from one section of the crowd—former rebels who saw this as vindication of their resistance. But other parts of the square remained silent, families who had served the Empire for generations and now faced an uncertain future without the protection and stability that imperial order had provided.
+
+The hardest part was the ceremonial removal of my governor's chain—the symbol of imperial authority that I had worn every day for over a decade. As I lifted it from my shoulders and handed it to Helena Brightwater, the newly elected leader of the Provincial Council, I felt the weight of centuries lifting from my shoulders and settling onto hers. She was a good choice—practical, fair-minded, respected by all factions—but I wondered if she truly understood what she was accepting.
+
+"The Empire is dead," I announced as the protocol required. "Long live the Province." But the words felt strange in my mouth, like speaking a foreign language after years of fluency in imperial rhetoric.
+#+end_quote
+
+The public reactions to the dissolution proclamations varied dramatically from province to province, reflecting the diverse relationships that different regions had developed with imperial authority over the centuries. In areas that had prospered under imperial protection and infrastructure investment, the announcements were often met with shock and dismay. Citizens who had built their lives around imperial institutions—military families, government clerks, merchants who depended on imperial trade networks—found themselves suddenly displaced from the only system they had ever known.
+
+But in regions that had chafed under imperial taxation and regulation, where local traditions had been suppressed and local autonomy restricted, the dissolution decrees were welcomed as liberation. These communities had been preparing for independence since the first signs of imperial weakness became apparent, and they were ready to assume the responsibilities of self-governance.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-012 | Year: TA 2389 | Reliability: Moderate | Source: Collective statement of the Valdris Council of Citizens, recorded by city scribe]
+
+When word reached us that the Emperor himself had officially dissolved the Empire, our first reaction was laughter—not mockery, but the kind of relieved laughter that comes when a fear you've been carrying finally proves groundless. We had been governing ourselves for over a year since the Lantern Riots, and we had been terrified that imperial legions would eventually arrive to punish our rebellion and restore imperial authority by force.
+
+Now we discovered that there would be no imperial legions, no punishment, no restoration. The Empire had ended itself, had formally acknowledged what we had already proven: that people could govern their own affairs without distant authority telling them how to live.
+
+The decree's promise that our local laws and customs would be respected was particularly meaningful. For the first time in three centuries, we could practice our traditional festivals without fear, could make decisions based on our own values rather than imperial regulations, could raise our children to honor their ancestors without having to explain why the government disapproved of our religious practices.
+
+But we also understood the challenges ahead. Imperial infrastructure had connected us to markets throughout the known world. Imperial military protection had shielded us from various external threats. Imperial administration had provided standardized weights, measures, and currency that facilitated trade with distant territories. We would have to rebuild all of these systems from the ground up, and we would have to do it without the resources and expertise that only a large empire could provide.
+
+Still, we had chosen this path during the riots, and we did not regret it now. Freedom is worth the price of uncertainty. Self-determination is worth the price of isolation. And dignity is worth any price at all.
+#+end_quote
+
+** The Last Banner-Lord's Speech
+
+[Canon: FE-TA-B3-ANN-014 | Year: TA 2389]
+
+In the mountain fortress of Drakmoor, where the ancient banners of the Empire's founding families had been preserved since the earliest days of imperial expansion, Banner-Lord Maximilian Ironheart faced the unprecedented task of formally ending a tradition that his family had maintained for eight centuries. As the hereditary keeper of the imperial war banners, he held responsibility for the physical symbols that connected the current Empire to its legendary origins.
+
+The banners themselves were more than mere flags—they were relics that carried the accumulated spiritual weight of imperial history. Each had been blessed by high priests, had flown over decisive battles, had been carried by heroes whose names were still celebrated in imperial poetry. The Dragon Banner of the First Emperor, the Victory Standard of the Conquest Wars, the Memorial Flag of the Fallen Legions—these were not simply pieces of colored cloth but repositories of collective memory and shared identity.
+
+Maximilian had received specific instructions from the capital regarding the disposition of the banners following the formal dissolution. Some were to be distributed to provincial governments as historical artifacts. Others were to be returned to their regions of origin, where local communities could decide how to honor or dispose of them. A few of the most sacred banners were to be retained by the Sacred Throne for preservation in the royal archives.
+
+But Maximilian Ironheart, whose ancestors had died defending these symbols and whose family had dedicated eight generations to their preservation, could not simply treat them as bureaucratic assets to be distributed according to administrative convenience. On the evening before the formal transfer ceremony, he gathered his household retainers and delivered a speech that would be remembered as the final statement of imperial idealism.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-013 | Year: TA 2389 | Reliability: High | Source: Complete transcript preserved by family retainer Gerald Loyalheart]
+
+My friends, tomorrow we will lower these banners for the last time, and an age that has lasted longer than any of our bloodlines will come to its end. You have served faithfully as guardians of our empire's most sacred symbols, and now you must witness their distribution to peoples who may or may not understand their significance.
+
+I will not pretend that this ending comes without grief. These banners have flown over the greatest achievements of human civilization: the establishment of laws that protected the weak, the construction of roads that connected distant peoples, the creation of institutions that allowed diverse cultures to flourish under common protection. For eight hundred years, these symbols represented humanity's highest aspirations toward unity, order, and justice.
+
+But I will also not pretend that the Empire has always lived up to those aspirations. In recent decades—perhaps in recent centuries—we have too often confused unity with uniformity, order with oppression, justice with the mere enforcement of imperial will. We have forgotten that the purpose of empire was to serve its people, not to demand their service. We have forgotten that strength comes from the voluntary cooperation of free peoples, not from the enforced submission of conquered territories.
+
+Perhaps this ending is not a tragedy but a completion. Perhaps the Empire was always meant to be temporary—a scaffolding that could be removed once the building was strong enough to stand on its own. Perhaps these provinces, now preparing to govern themselves, will build something better than what they inherit from us.
+
+Tomorrow, when we hand over the Victory Standard to the delegation from Thessian Province, we are not merely transferring a piece of cloth. We are acknowledging that the victories that matter most—the defeats of hunger, ignorance, cruelty, and despair—will now be won by local communities working together rather than by distant imperial authority imposing solutions from above.
+
+When we present the Memorial Flag to the representatives of the Border Territories, we are not abandoning our duty to honor the fallen. We are trusting that those who inherit this land will remember the sacrifices made for their freedom and will prove worthy of that sacrifice through their own courage and compassion.
+
+And when we finally lower the Dragon Banner that has flown over this fortress for three centuries, we are not surrendering to defeat. We are completing a transformation that began the day the first Emperor declared that his authority came from the consent of the governed rather than from the mere power to compel obedience.
+
+The Empire ends tomorrow. But the ideals that inspired its creation—the dream of a world where all peoples could live in peace and prosperity—those ideals are immortal. They will outlive every government, every flag, every human institution. And perhaps, freed from the weight of imperial authority, those ideals will finally have the chance to flourish as they were always meant to.
+
+Guard these banners well in their new homes. Teach those who inherit them to honor what they represent. And remember that we were privileged to serve something greater than ourselves, even as we acknowledge that the time for such service has passed.
+
+The age of Empire is ending. The age of freedom is beginning. May future generations prove wiser than we have been.
+#+end_quote
+
+The ceremony of banner transfer took place at dawn on the winter solstice, with representatives from all major provinces present to receive their assigned symbols. The process was conducted with military precision and ceremonial dignity, but it could not disguise the profound emotional weight of watching eight centuries of imperial tradition formally come to an end.
+
+Each banner was presented with a complete historical record documenting its origins, its military service, and its symbolic significance. The provincial representatives who received them understood that they were accepting responsibility for preserving not just physical artifacts but the memory of what the Empire had meant to countless generations of citizens, soldiers, and servants.
+
+** The Moment the Final Banner Fell
+
+[Canon: FE-TA-B3-ANN-015 | Year: TA 2389]
+
+The Dragon Banner was the last to be lowered, not because it held any special legal significance but because tradition demanded that the symbol of imperial authority should be the final element of empire to be formally dissolved. As Banner-Lord Maximilian personally untied the cords that had held it aloft for three centuries, witnesses described a moment of profound silence that seemed to encompass not just the assembled crowd but the entire world.
+
+The banner itself was magnificent even in its final moment—silk and gold thread woven into the image of the Great Dragon whose legendary strength had inspired the first emperors, whose wings had symbolically protected all the peoples of the empire, whose fire had represented the passion for justice that should burn in every ruler's heart. As it descended slowly through the morning air, folding upon itself with the gentle grace of a settling bird, those present reported feeling as though they were witnessing the end not just of a government but of an entire way of understanding human possibility.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-014 | Year: TA 2389 | Reliability: High | Source: Account of Sister Margaret, representing the Temple of Compassion]
+
+When the Dragon Banner finally settled onto the ceremonial table where it would be prepared for transport to the Sacred Island archives, I felt something break inside my chest—not my heart, exactly, but something deeper. Some connection to permanence, to the belief that certain things could be counted on to endure beyond individual lifetimes.
+
+I had been born under that banner. My parents had been married under its protection. My brothers had died fighting to defend what it represented. And now it was just a piece of fabric on a table, beautiful but powerless, symbolic but no longer active in the world.
+
+But then I looked around at the faces of the provincial representatives who had come to witness this ceremony, and I saw something unexpected: not despair but determination, not fear but hope. These people had not come to gloat over the Empire's defeat but to accept the responsibility of carrying forward whatever was worth preserving from imperial civilization.
+
+They understood that the banner itself had never been the source of imperial power—the people's willingness to honor what it represented had been the true foundation of imperial authority. And that willingness, that capacity for cooperation and shared sacrifice, was not disappearing with the Empire. It was being distributed to smaller, more manageable communities where it might flourish with greater authenticity.
+
+As Banner-Lord Maximilian folded the Dragon Banner for its final journey to the archives, he performed each crease with the reverence of a priest handling sacred relics. But he was not preparing a corpse for burial—he was carefully preserving a seed that might someday grow into something new and better.
+
+The Empire was ending, but the human capacity for creating order out of chaos, for building institutions that serve justice rather than power, for dreaming of a world where all people could flourish—that capacity was as strong as ever. It was simply changing form, adapting to new circumstances, preparing to express itself in ways that the Empire's founders could never have imagined.
+
+The last banner had fallen, but the best of what it represented would rise again.
+#+end_quote
+
+By sunset on the winter solstice of TA 2389, the formal dissolution of the Empire was complete. The provincial representatives had departed for their home territories, carrying with them not just historical artifacts but the legal and moral authority to begin the unprecedented experiment of post-imperial governance. The fortress at Drakmoor stood empty for the first time in three centuries, its flagpoles bare against the winter sky.
+
+But in the provinces themselves, new banners were already being raised—simpler designs that reflected local traditions rather than imperial grandeur, symbols that belonged to specific communities rather than vast administrative territories. The age of empire had ended, but the age of human civilization was just beginning its next chapter.
+
+* Supplementary: Memory Politics After the Fall
+
+[Canon: FE-TA-B3-ANN-016 | Year: TA 2390]
+
+In the months following the formal dissolution of the Empire, when the practical work of establishing new governments and trade relationships had begun to occupy the attention of provincial leaders, a different kind of struggle emerged around the question of historical memory. What story would be told about the Empire's rise and fall? Which aspects of imperial history deserved preservation, and which should be deliberately forgotten? Who had the right to define the meaning of the past for future generations?
+
+These questions proved to be far more contentious than anyone had anticipated. The Empire, whatever its flaws, had provided a unified narrative framework that helped diverse peoples understand their place in a larger historical trajectory. With that framework dissolved, every community suddenly faced the need to construct its own version of history—and those versions often conflicted dramatically with the stories told by neighboring regions.
+
+** The Archive Wars
+
+[Canon: FE-TA-B3-ANN-017 | Year: TA 2390]
+
+The Imperial Archives at Port Aldrich contained the most comprehensive collection of historical documents, administrative records, and cultural artifacts in the known world. Four centuries of imperial bureaucracy had produced an enormous accumulation of written material: tax rolls, census data, military reports, judicial decisions, diplomatic correspondence, engineering plans, religious ceremonies, artistic commissions, and thousands of other categories of documentation that together formed a complete portrait of how the Empire had functioned.
+
+When the dissolution decrees were proclaimed, the question of who controlled this material became immediately contentious. The Archives technically fell within the territory claimed by the newly independent Republic of Aldrich, but scholars and political leaders from across the former Empire argued that such materials belonged to all the peoples who had contributed to their creation. The resulting dispute became known as the Archive Wars, though thankfully it involved legal maneuvering and scholarly debate rather than actual military conflict.
+
+The Republic of Aldrich, led by President Marina Goldenheart (daughter of the former Imperial Chancellor), initially claimed exclusive ownership of all archival materials within their territory. They argued that the physical location of the Archives made them Aldrich property and that the new republic needed these resources to establish legitimate governance structures. They also pointed out that maintaining the Archives required significant financial resources and administrative expertise that smaller communities might not be able to provide.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-015 | Year: TA 2390 | Reliability: High | Source: Statement by President Marina Goldenheart to the Inter-Provincial Council]
+
+The Imperial Archives represent one of humanity's greatest intellectual achievements, and their preservation requires more than good intentions. These documents are written on materials that deteriorate without proper climate control. They are organized according to complex systems that require trained archivists to maintain. They are vulnerable to fire, flood, theft, and simple neglect in ways that most people do not understand.
+
+The Republic of Aldrich has inherited not just these materials but the responsibility for their preservation. We have the infrastructure, the expertise, and the financial resources to ensure that future generations will be able to learn from this accumulated wisdom. We cannot simply distribute these irreplaceable documents to communities that lack the means to preserve them properly.
+
+However, we recognize that these materials belong, in a moral sense, to all the peoples of the former Empire. We therefore propose to maintain the Archives as a public trust, open to scholars and researchers from all regions, administered according to professional standards that ensure both accessibility and preservation. We ask only that other provinces contribute to the costs of maintenance according to their ability and their use of the materials.
+
+This is not an attempt to control the interpretation of history but a practical solution to the problem of preserving history for future interpretation.
+#+end_quote
+
+This proposal was immediately challenged by representatives from the mountain territories, who argued that centralized control of historical materials would inevitably lead to centralized control of historical interpretation. They pointed out that the Archives had been assembled by imperial authority and reflected imperial perspectives on events that local communities had experienced very differently. Allowing the Republic of Aldrich to serve as the sole guardian of these materials would essentially permit one former province to shape the historical narrative for all others.
+
+The mountain delegation, led by Scholar Thomas Ironhill of the Drakmoor Institute, proposed instead that archival materials should be copied and distributed to regional libraries throughout the former Empire. This would ensure that no single political entity could control access to historical information while also providing redundant preservation in case of catastrophic loss at any single location.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-016 | Year: TA 2390 | Reliability: High | Source: Presentation by Scholar Thomas Ironhill to the Historical Preservation Conference]
+
+History belongs to the people who lived it, not to the governments that recorded it. The Imperial Archives contain thousands of documents that describe events in our mountain communities, but those descriptions were written by imperial administrators who often misunderstood local customs and motivations. If we allow those imperial interpretations to become the authoritative version of our history simply because they happen to be preserved in an official archive, we will be perpetuating imperial distortion even after the Empire itself has ended.
+
+Every community needs access to the raw materials of history so that they can construct their own narratives based on their own values and experiences. This means copying and distributing archival materials as widely as possible, not concentrating them in a single location controlled by a single government.
+
+Yes, copying is expensive and time-consuming. Yes, distributed preservation creates risks of inconsistency and potential loss. But these costs are worth paying to ensure that historical truth is not monopolized by political authority. The decentralization of political power must be accompanied by the decentralization of historical authority, or we will simply have replaced imperial tyranny with provincial tyranny.
+#+end_quote
+
+The debate over archive distribution continued for two years, with various compromise proposals advanced and rejected by different factions. Meanwhile, practical pressures forced partial solutions: scholars from the Republic of Aldrich began making copies of materials requested by researchers from other regions, while mountain communities started their own documentation projects to record local oral histories that had never been included in the Imperial Archives.
+
+** Banner-Burning and Banner-Preserving
+
+[Canon: FE-TA-B3-ANN-018 | Year: TA 2390]
+
+The distribution of imperial banners following the dissolution ceremony created its own set of controversies around the appropriate way to honor or dispose of symbols that carried complex emotional associations. In communities that had prospered under imperial rule, the banners were often treated as treasured historical artifacts that deserved preservation in museums or memorial sites. But in regions that had suffered under imperial oppression, the same banners were seen as symbols of tyranny that should be destroyed rather than preserved.
+
+The first banner-burning ceremony took place in Valdris on the first anniversary of the Lantern Riots. The community had received the Standard of Provincial Order—a banner that had originally been created to celebrate the integration of their territory into the Empire but had come to represent the suppression of local traditions and the imposition of foreign authority. After months of public debate, the Valdris Council voted to burn the banner in a public ceremony that would officially close the chapter on imperial rule.
+
+The ceremony was carefully planned to distinguish between rejecting imperial authority and dishonoring the memory of local people who had served under imperial banners. The banner was burned not in a spirit of hatred but as a symbolic act of liberation, accompanied by speeches that honored the complexity of imperial history while firmly rejecting any nostalgia for imperial restoration.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-017 | Year: TA 2390 | Reliability: High | Source: Speech by Elena Brightwater at the Valdris Banner-Burning Ceremony]
+
+This banner flew over our city for two centuries. Under its protection, our markets prospered and our children learned to read. Under its authority, our young men marched away to die in distant wars and our grain was carted off to feed distant cities while we went hungry. It represents both the best and the worst of what empire means, and we burn it not to dishonor the good but to ensure that the bad can never return.
+
+My husband died fighting under a banner like this one, believing that he was protecting civilization itself. I will not say he was wrong—the Empire did create and protect many valuable things. But I will not say he was entirely right either, because the Empire also demanded and destroyed many valuable things. The truth is more complicated than any flag can represent.
+
+We burn this banner to declare that we will never again allow distant authority to determine our fate. We will make our own decisions, accept responsibility for our own mistakes, and take credit for our own achievements. We will honor the dead—both those who served the Empire and those who suffered under it—by building something better than what they inherited.
+
+The flames that consume this cloth will not erase history but will illuminate the future. Let this burning mark not the end of civilization but the beginning of self-determination. Let future generations say that on this day, the people of Valdris chose freedom over security, complexity over simplicity, responsibility over submission.
+
+May the fire burn bright, and may its light guide us home.
+#+end_quote
+
+The banner-burning ceremonies spread to other communities that had similar grievances against imperial authority, but they were not universally embraced even among former rebels. Many argued that destroying historical artifacts, regardless of their political associations, represented a dangerous precedent that could lead to the erasure of important cultural memory. They proposed instead that controversial banners should be preserved but displayed with contextual information that explained both their positive and negative historical significance.
+
+This counter-movement, led by former Banner-Lord Maximilian Ironheart, organized banner-preservation ceremonies that were designed to honor the complexity of imperial history without celebrating imperial politics. These events typically involved the formal transfer of banners from political to academic institutions, where they could be studied and displayed as historical artifacts rather than political symbols.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-018 | Year: TA 2390 | Reliability: Moderate | Source: Letter from Maximilian Ironheart to the Valdris Council]
+
+Honored Councilors, I write to express my deep respect for your decision to burn the Standard of Provincial Order, while also sharing my hope that other communities will choose preservation over destruction when faced with similar decisions about imperial artifacts.
+
+Every banner tells multiple stories, and every story deserves to be heard by future generations who will face their own difficult choices about power, authority, and justice. When we burn historical artifacts, even those that represent systems we rightfully reject, we risk losing the lessons that those artifacts could teach.
+
+The Standard of Provincial Order that you burned was indeed a symbol of imperial oppression, but it was also a symbol of human creativity, artistic skill, and cultural achievement. The woman who wove that silk and the man who designed those patterns were not imperial politicians but local craftspeople who took pride in their work regardless of its ultimate political purpose.
+
+I do not ask you to regret your decision—the banner-burning in Valdris was a powerful statement about self-determination that resonated throughout the former Empire. But I do ask other communities to consider whether preservation with critical context might serve future generations better than destruction, however justified that destruction might feel in the present moment.
+
+History is messy, complicated, and morally ambiguous. Our response to historical artifacts should acknowledge that complexity rather than trying to simplify it through either uncritical preservation or total destruction. Let us save what we can, interpret what we must, and trust future generations to learn from our example without being bound by our judgments.
+#+end_quote
+
+The tension between banner-burning and banner-preserving factions reflected deeper disagreements about how post-imperial society should relate to its imperial past. Should the goal be to move beyond empire completely, erasing its symbols and rejecting its legacy? Or should the goal be to learn from empire's successes and failures, preserving its achievements while rejecting its injustices?
+
+** The Cave of Hidden Records
+
+[Canon: FE-TA-B3-ANN-019 | Year: TA 2390]
+
+Among the most fascinating developments in post-imperial memory politics was the discovery of secret archives that had been hidden by imperial officials who anticipated the collapse of central authority. The most significant of these was uncovered in the Whitestone Caves near the former capital, where Seal-Keeper Marcus Truthbearer had concealed copies of the most sensitive imperial documents during the final months of imperial rule.
+
+Marcus Truthbearer had served as Deputy Keeper of the Sacred Seal for fifteen years, with access to the most classified materials in the imperial bureaucracy. Unlike the public archives that contained routine administrative records, the Seal-Keeper's materials included diplomatic secrets, military intelligence, economic analysis, and personal correspondence between high-ranking officials that revealed the private thoughts and motivations of imperial leadership during the crisis years.
+
+As the empire began its final collapse, Marcus became increasingly concerned that these materials would be destroyed by angry crowds or lost during the chaos of governmental transition. He was particularly worried about documents that revealed the complex negotiations and compromises that had shaped imperial policy, information that might prove crucial for future historians trying to understand how and why the empire had failed.
+
+Working in secret during the final six months of imperial rule, Marcus copied the most important materials from the Seal-Keeper's archive and transported them to a limestone cave system that had been known to his family for generations. He carefully sealed the documents in waterproof containers, organized them according to subject and chronology, and prepared detailed catalogs that would allow future researchers to understand their significance.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-019 | Year: TA 2390 | Reliability: High | Source: Personal journal of Marcus Truthbearer, found with the hidden archives]
+
+I write this final entry by candlelight in a cave that I pray will protect these documents until the world is ready to understand them. Tomorrow I will seal this chamber and return to the capital to witness the final dissolution ceremonies, but tonight I am surrounded by the secret history of the Empire's last decades.
+
+These documents tell a story very different from the official narratives that will be preserved in the public archives. They reveal the desperate attempts by imperial officials to reform the system from within, the private recognition that imperial authority had become unsustainable, and the genuine efforts to manage the transition to post-imperial governance in ways that would minimize chaos and suffering.
+
+Future historians will judge whether these efforts were adequate, whether they came too late, whether they were motivated by genuine concern for imperial citizens or merely by desire to preserve elite privileges. But they will be able to make those judgments only if these materials survive to be discovered and studied when passions have cooled and perspectives have clarified.
+
+I have spent my career serving an empire that I believed represented humanity's highest political achievements, and I have watched that empire destroy itself through its inability to adapt to changing circumstances. But I have also seen the courage, wisdom, and dedication of individuals who worked within imperial institutions to promote justice and serve the common good, even when those institutions were failing around them.
+
+Both stories—the story of imperial failure and the story of individual integrity—deserve to be told. I hide these documents not to glorify the Empire but to ensure that its full complexity will be available to future generations who will build whatever comes next.
+
+May they build more wisely than we have done. May they learn from our mistakes without repeating them. And may they remember that political systems rise and fall, but the human capacity for goodness endures across all changes of government and all shifts of power.
+
+I seal this chamber with hope for the future and gratitude for the past.
+#+end_quote
+
+The hidden archive remained undiscovered for two years, until Marcus Truthbearer's nephew found a map and key among his uncle's personal effects after his death from natural causes in TA 2392. When the cave was opened, researchers found nearly three thousand documents that provided unprecedented insight into the internal dynamics of imperial collapse.
+
+The revelation of the hidden archive immediately became controversial. Some argued that these secret materials should be made public immediately, as part of the general principle that citizens of the former empire had the right to know how they had been governed. Others contended that many of the documents contained sensitive information about living individuals who might be endangered by public disclosure.
+
+A compromise was eventually reached through the establishment of the Independent Historical Review Commission, composed of scholars from all major post-imperial territories, which would review the hidden materials and determine appropriate protocols for their gradual release. This process was expected to take decades but would eventually provide future historians with the most complete picture possible of how the Empire had ended and why.
+
+** The Question of Ownership
+
+[Canon: FE-TA-B3-ANN-020 | Year: TA 2391]
+
+As the second year of post-imperial life progressed, the various controversies around historical preservation and interpretation began to crystallize into a fundamental question: Who owns the past? This question had legal, political, cultural, and philosophical dimensions that proved remarkably difficult to resolve through normal democratic processes.
+
+The legal dimension involved disputes over the ownership of physical artifacts, documents, and sites that had imperial significance. Did the Victory Memorial at Goldenheart belong to the city where it was located, to the nation that had emerged from the surrounding province, or to all the peoples whose ancestors had participated in the victory it commemorated? Could the Republic of Aldrich claim ownership of imperial archives simply because they happened to be physically located within their territory when the empire ended?
+
+The political dimension concerned the power to interpret historical events and their significance for contemporary governance. If different communities told fundamentally different stories about the same historical events, how could they cooperate on shared problems that required common understanding? Could political entities that disagreed about the meaning of their shared past nevertheless work together toward a common future?
+
+The cultural dimension addressed the preservation and transmission of imperial traditions that had shaped the daily lives of millions of people. Should former imperial subjects continue to celebrate imperial holidays, practice imperial religious ceremonies, or maintain imperial artistic traditions? How could valuable cultural practices be separated from the political system that had originally promoted them?
+
+The philosophical dimension raised the deepest questions about the relationship between memory and identity, between individual and collective experience, between past and present. Did individuals have the right to maintain their own personal interpretations of historical events, even when those interpretations conflicted with the official narratives adopted by their communities? Could societies choose to forget aspects of their past that they found painful or embarrassing?
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-020 | Year: TA 2391 | Reliability: High | Source: Proceedings of the Inter-Provincial Conference on Historical Memory]
+
+Speaker Helena Brightwater (Valdris): "The past belongs to those who lived it, not to those who recorded it or those who inherited the records. Every family has the right to tell their own story about what the Empire meant to them, and no government has the authority to declare that story false simply because it conflicts with official documentation."
+
+Speaker Marcus Stoneheart (Thessian Republic): "But if we allow every individual to construct their own version of history, we will have no shared foundation for making collective decisions. Governance requires consensus, and consensus requires some agreement about basic facts. We cannot build a stable future on the foundation of incompatible memories."
+
+Speaker Thomas Ironhill (Mountain Confederation): "The question is not whether we will have multiple versions of history—we already do, and we always have. The question is whether we will acknowledge that multiplicity honestly or pretend that one version is objectively true while all others are simply wrong. Honesty requires admitting that all historical narratives are partial, biased, and incomplete."
+
+Speaker Marina Goldenheart (Republic of Aldrich): "But surely some versions of history are more accurate than others? Surely documented evidence provides a more reliable foundation for understanding the past than personal memory or oral tradition? If we reject the possibility of historical objectivity entirely, we open the door to propaganda, mythology, and deliberate distortion."
+
+Speaker Elena Truthseer (Sacred Island): "Perhaps the goal should not be to determine which version of history is 'true' but to ensure that all significant versions are preserved and available for future consideration. Let each community tell its story, let all stories be recorded and remembered, and let future generations sort out the contradictions for themselves."
+#+end_quote
+
+The conference continued for six months without reaching definitive conclusions, but the discussion itself proved valuable in establishing norms for how different communities could disagree about historical interpretation without descending into conflict. The final protocol, signed by representatives of fourteen post-imperial territories, established principles of historical pluralism that acknowledged the legitimacy of multiple perspectives while maintaining standards for evidence and scholarly discourse.
+
+Under this protocol, communities were free to adopt their own official historical narratives but were required to acknowledge the existence of alternative interpretations and to maintain public access to primary source materials that could support those alternatives. Educational institutions were encouraged to teach multiple perspectives on controversial historical events, while archival institutions committed to preserving materials from all viewpoints rather than only those that supported dominant local narratives.
+
+The protocol could not eliminate disagreements about historical interpretation, but it did provide a framework for managing those disagreements constructively. More importantly, it represented a collective commitment to the principle that the complexity of human experience could not be captured by any single narrative, no matter how carefully constructed or extensively documented.
+
+** The Memory Keepers
+
+[Canon: FE-TA-B3-ANN-021 | Year: TA 2391]
+
+As the formal institutions of post-imperial society began to stabilize, a new profession emerged to address the complex challenges of historical preservation and transmission. The Memory Keepers were not traditional historians or archivists but specialized practitioners who worked to maintain the integrity of collective memory across changing political circumstances.
+
+Their role was both practical and philosophical: practical in that they organized and preserved historical materials, but philosophical in that they grappled with the deeper questions about how societies should relate to their past. They were not neutral custodians of information but active interpreters who helped communities understand the implications of their historical choices.
+
+The first formal training program for Memory Keepers was established at the Institute for Historical Studies in New Byzantia, founded by a consortium of scholars from across the former empire who recognized the need for professional expertise in memory politics. The curriculum included traditional historical methods but also drew from fields like psychology, anthropology, political science, and ethics to provide students with tools for understanding how memory functions in both individual and collective contexts.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-021 | Year: TA 2391 | Reliability: High | Source: Graduation address by Director Sarah Wiseheart at the Institute for Historical Studies]
+
+You graduate today not as mere scholars of the past but as guardians of the future. The memories you preserve and the stories you choose to tell will shape how coming generations understand themselves, their capabilities, and their responsibilities. This is not a burden to be taken lightly.
+
+You will work in communities that are still deciding what they want to remember about the Empire and what they prefer to forget. You will encounter people who want to glorify aspects of imperial rule that caused great suffering, and others who want to forget aspects that provided genuine benefits. Your job is not to impose your own judgments about these choices but to ensure that all choices are made with full awareness of their implications.
+
+Remember that memory is not simply information storage but active meaning-making. The same historical event can teach very different lessons depending on how it is framed, which aspects are emphasized, and which context is provided. As Memory Keepers, you have enormous power to influence what lessons your communities draw from their past.
+
+Use that power wisely. Err on the side of inclusion rather than exclusion, complexity rather than simplicity, humility rather than certainty. Remember that you are preserving these memories not for yourselves but for people who have not yet been born, who will face challenges you cannot imagine, who will need all the wisdom they can get from the accumulated experience of their ancestors.
+
+The Empire has fallen, but human memory endures. The stories you preserve today will help determine what kind of society emerges from the ruins of imperial authority. Make those stories worthy of the trust placed in you.
+#+end_quote
+
+The Memory Keepers quickly became essential figures in post-imperial society, mediating disputes about historical interpretation and helping communities navigate the complex process of constructing new identities based on their understanding of their past. Their work proved especially valuable during territorial disputes, where different groups claimed historical precedence for control over particular regions.
+
+Rather than simply advocating for one historical narrative over another, Memory Keepers typically worked to help disputing parties understand the partial truth contained in all their stories. They might demonstrate, for example, that a particular valley had indeed been settled first by one group, but had subsequently been developed and improved by another group, and had provided resources that benefited multiple communities over the centuries. Such complex histories could not justify simple territorial claims, but they could provide the foundation for complex territorial arrangements that honored multiple legitimate interests.
+
+As the post-imperial world continued to evolve, the Memory Keepers became increasingly important as bridges between communities with different historical perspectives. Their professional commitment to historical complexity and nuance made them natural mediators in conflicts that might otherwise have escalated into violence.
+
+They could not eliminate disagreement about the meaning of the past, but they could ensure that such disagreements were based on accurate understanding rather than distorted memories. They could not force communities to accept interpretations of history they found uncomfortable, but they could prevent any community from claiming exclusive ownership of historical truth.
+
+Most importantly, they helped ensure that the lessons of imperial collapse would be available to future generations who might face similar challenges in their own political systems. The Empire had ended, but the human capacity for creating and destroying civilizations remained unchanged. The memories preserved by the Memory Keepers would serve as both warning and inspiration for whatever forms of government emerged from the ashes of imperial authority.
+
+In the end, the question of who owns the past proved to have no simple answer. The past belonged to everyone who had lived it and everyone who inherited its consequences. It belonged to those who preserved its records and those who interpreted its significance. It belonged to the communities that celebrated its achievements and those that mourned its failures.
+
+But most of all, it belonged to the future—to the generations who would learn from imperial history without being bound by imperial limitations, who would build new forms of civilization based on ancient wisdom and contemporary understanding, who would prove whether humanity could indeed learn from its mistakes rather than simply repeating them in new forms.
+
+The banners had fallen, the archives had been distributed, and the Memory Keepers had begun their work. The age of empire was over, but the age of human memory had just begun.
+
+---
+
+[Canon: FE-TA-B3-ANN-022 | Year: TA 2391]
+
+Thus ended the Empire that had dominated the known world for four centuries, not with the clash of armies or the burning of cities, but with the careful distribution of banners and the thoughtful preservation of memories. Its dissolution represented not merely the end of one particular government but the beginning of a new experiment in human organization—an experiment that would test whether diverse peoples could cooperate without the unifying authority of empire, whether local governance could provide the stability and prosperity that imperial administration had promised but failed to deliver, whether humanity could learn from its past mistakes without repeating them in new forms.
+
+The answers to those questions lay in a future that the last imperial chroniclers could not see. But they had provided the tools—the archives, the memories, the precedents, the warnings—that would help future generations build whatever came next. Whether those tools would be used wisely or foolishly, constructively or destructively, remained to be seen. The Empire's final gift to its former subjects was the freedom to make their own choices and the responsibility to live with the consequences.
+
+The age of empire was over. The age of freedom had begun.
+
+*[End of Chronicle]*

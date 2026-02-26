@@ -1,0 +1,368 @@
+\contentsline {section}{\numberline {0.1}Part One: The Standard of Flagartha}{1}{}%
+\contentsline {chapter}{\numberline {1}Prologue: Before the Wind}{3}{}%
+\contentsline {subsection}{\numberline {1.0.1}The Seal-Keeper\textquotesingle s Invocation}{3}{}%
+\contentsline {subsection}{\numberline {1.0.2}The Weight of Memory}{3}{}%
+\contentsline {subsection}{\numberline {1.0.3}The Archive Speaks}{4}{}%
+\contentsline {subsection}{\numberline {1.0.4}The Scope of Chronicles}{5}{}%
+\contentsline {subsection}{\numberline {1.0.5}The Method of Truth}{6}{}%
+\contentsline {subsection}{\numberline {1.0.6}The Memory of Wind}{7}{}%
+\contentsline {subsection}{\numberline {1.0.7}The Politics of Truth}{8}{}%
+\contentsline {subsection}{\numberline {1.0.8}The Final Witness}{8}{}%
+\contentsline {subsection}{\numberline {1.0.9}The Keeper\textquotesingle s Oath}{9}{}%
+\contentsline {section}{\numberline {1.1}Arc 1: \textquotesingle The Wind Before Names\textquotesingle {}}{11}{}%
+\contentsline {section}{\numberline {1.2}Arc I Supplementary: Deeper into the Dawn}{16}{}%
+\contentsline {subsection}{\numberline {1.2.1}The Great Salt-Gift Fair of DA 150}{16}{}%
+\contentsline {subsection}{\numberline {1.2.2}The Weaver-Prophets}{21}{}%
+\contentsline {subsection}{\numberline {1.2.3}The River-Mouth Wars (DA 180-200)}{26}{}%
+\contentsline {subsection}{\numberline {1.2.4}Life of a Seal-Keeper}{33}{}%
+\contentsline {subsection}{\numberline {1.2.5}The Yellow Cloth Mystery}{39}{}%
+\contentsline {subsection}{\numberline {1.2.6}Annalist\textquotesingle s Commentary}{46}{}%
+\contentsline {section}{\numberline {1.3}Founding of Kher Valaan}{53}{}%
+\contentsline {section}{\numberline {1.4}House Talar Binds River and Ridge}{54}{}%
+\contentsline {section}{\numberline {1.5}The First Mast Rises}{55}{}%
+\contentsline {section}{\numberline {1.6}The City Grows}{56}{}%
+\contentsline {section}{\numberline {1.7}The First Harvest}{56}{}%
+\contentsline {section}{\numberline {1.8}The First Winter}{57}{}%
+\contentsline {section}{\numberline {1.9}The Temple of the Banner}{57}{}%
+\contentsline {section}{\numberline {1.10}The Second Mast}{58}{}%
+\contentsline {section}{\numberline {1.11}The City\textquotesingle s Voice}{59}{}%
+\contentsline {section}{\numberline {1.12}Witness Fragments and Annal Snippets}{59}{}%
+\contentsline {section}{\numberline {1.13}Arc II Supplementary: The City in Stone and Cloth}{60}{}%
+\contentsline {subsection}{\numberline {1.13.1}Zira Talar\textquotesingle s Council}{60}{}%
+\contentsline {subsection}{\numberline {1.13.2}The River Engineers}{63}{}%
+\contentsline {subsection}{\numberline {1.13.3}House Talar\textquotesingle s Rivals}{66}{}%
+\contentsline {subsection}{\numberline {1.13.4}The First Market Crisis}{71}{}%
+\contentsline {subsection}{\numberline {1.13.5}The Temple Debate}{75}{}%
+\contentsline {subsection}{\numberline {1.13.6}A Weaver\textquotesingle s Account}{79}{}%
+\contentsline {subsection}{\numberline {1.13.7}The Festival of the Second Mast}{83}{}%
+\contentsline {subsection}{\numberline {1.13.8}The Standardization of Fealty}{88}{}%
+\contentsline {subsection}{\numberline {1.13.9}East March Uprisings}{88}{}%
+\contentsline {subsection}{\numberline {1.13.10}The Lantern Peace}{89}{}%
+\contentsline {subsection}{\numberline {1.13.11}Hidden Reprisals}{89}{}%
+\contentsline {subsection}{\numberline {1.13.12}The Covenant Wars}{89}{}%
+\contentsline {subsection}{\numberline {1.13.13}The Treaty of the Three Rivers}{90}{}%
+\contentsline {subsection}{\numberline {1.13.14}Aftermath and Legacy}{90}{}%
+\contentsline {section}{\numberline {1.14}Arc III Supplementary: The Cost of Unity}{91}{}%
+\contentsline {subsection}{\numberline {1.14.1}The Heart-Thread Inspectors}{91}{}%
+\contentsline {subsection}{\numberline {1.14.2}The Banner-Lord of Green Rock}{100}{}%
+\contentsline {subsection}{\numberline {1.14.3}The Siege of Throat Pass}{107}{}%
+\contentsline {subsection}{\numberline {1.14.4}The Secret Prisons}{115}{}%
+\contentsline {subsection}{\numberline {1.14.5}The Lantern Peace Ceremony}{122}{}%
+\contentsline {subsection}{\numberline {1.14.6}The Betrayal of House Maren}{128}{}%
+\contentsline {subsection}{\numberline {1.14.7}Annalist\textquotesingle s Commentary}{134}{}%
+\contentsline {section}{\numberline {1.15}Appendices and References}{142}{}%
+\contentsline {subsection}{\numberline {1.15.1}Source Notes}{142}{}%
+\contentsline {subsection}{\numberline {1.15.2}Glossary of Terms}{142}{}%
+\contentsline {section}{\numberline {1.16}Arc 4: Crown of Seven Cloths}{143}{}%
+\contentsline {section}{\numberline {1.17}Arc IV Supplementary: The Weight of Seven Colors}{149}{}%
+\contentsline {subsection}{\numberline {1.17.1}The Seven Weavers}{150}{}%
+\contentsline {subsubsection}{Maeva of the Crimson Valley}{150}{}%
+\contentsline {subsubsection}{Jorik of the Golden Reaches}{150}{}%
+\contentsline {subsubsection}{Thessa of the Azure Depths}{151}{}%
+\contentsline {subsubsection}{Brandin of the Emerald Heights}{152}{}%
+\contentsline {subsubsection}{Miriam of the Violet Sanctum}{152}{}%
+\contentsline {subsubsection}{Valdris of the Ivory Workshops}{153}{}%
+\contentsline {subsubsection}{Kael of the Onyx Valleys}{154}{}%
+\contentsline {subsection}{\numberline {1.17.2}The Succession Crisis of FA 530}{154}{}%
+\contentsline {subsubsection}{The Western Gambit}{155}{}%
+\contentsline {subsubsection}{The Sacred Seal\textquotesingle s Dilemma}{156}{}%
+\contentsline {subsubsection}{The Moment of Decision}{156}{}%
+\contentsline {subsubsection}{The Vote}{157}{}%
+\contentsline {subsection}{\numberline {1.17.3}Maritime Dependency}{158}{}%
+\contentsline {subsubsection}{The Transformation of Trade}{159}{}%
+\contentsline {subsubsection}{The Storm of FA 535}{159}{}%
+\contentsline {subsubsection}{The Valley Crisis}{160}{}%
+\contentsline {subsubsection}{Emergency Measures}{161}{}%
+\contentsline {subsubsection}{Long-term Consequences}{162}{}%
+\contentsline {subsection}{\numberline {1.17.4}The Indigo Monopoly}{163}{}%
+\contentsline {subsubsection}{The Western Advantage}{163}{}%
+\contentsline {subsubsection}{Economic Warfare}{164}{}%
+\contentsline {subsubsection}{The Negotiation Campaign}{165}{}%
+\contentsline {subsubsection}{The Northern Response}{166}{}%
+\contentsline {subsubsection}{Imperial Intervention}{166}{}%
+\contentsline {subsubsection}{The Compromise of FA 539}{167}{}%
+\contentsline {subsection}{\numberline {1.17.5}The Last Rite of the First Age}{168}{}%
+\contentsline {subsubsection}{Preparation for the Final Rite}{168}{}%
+\contentsline {subsubsection}{The Gathering of Witnesses}{169}{}%
+\contentsline {subsubsection}{The Ritual Unfolds}{170}{}%
+\contentsline {subsubsection}{The Crown Itself}{171}{}%
+\contentsline {subsubsection}{The Moment of Transformation}{172}{}%
+\contentsline {subsubsection}{The Weight of Ending}{172}{}%
+\contentsline {subsection}{\numberline {1.17.6}Book I Coda: The Archivist\textquotesingle s Seal}{173}{}%
+\contentsline {subsubsection}{On the Reliability of Sources}{174}{}%
+\contentsline {subsubsection}{The Problem of Political Bias}{175}{}%
+\contentsline {subsubsection}{The Maritime Records}{176}{}%
+\contentsline {subsubsection}{The Indigo War Documents}{176}{}%
+\contentsline {subsubsection}{The Final Ceremony Records}{177}{}%
+\contentsline {subsubsection}{What Has Been Lost}{178}{}%
+\contentsline {subsubsection}{The Act of Sealing}{179}{}%
+\contentsline {subsubsection}{The Memory of Cloth}{179}{}%
+\contentsline {subsubsection}{Final Seal}{181}{}%
+\contentsline {section}{\numberline {1.18}Part Two: The Crescent of Flagistan}{182}{}%
+\contentsline {section}{\numberline {1.19}Prologue: The Salt Wind Turns}{182}{}%
+\contentsline {subsection}{\numberline {1.19.1}The Last Council of Seven Cloths}{183}{}%
+\contentsline {subsection}{\numberline {1.19.2}The Migration of Scribes}{184}{}%
+\contentsline {subsection}{\numberline {1.19.3}The New Rhythms}{185}{}%
+\contentsline {subsection}{\numberline {1.19.4}The First Admiral\textquotesingle s Proclamation}{186}{}%
+\contentsline {subsection}{\numberline {1.19.5}The Last Valley Delegation}{187}{}%
+\contentsline {subsection}{\numberline {1.19.6}Interlude: The Weight of Water}{187}{}%
+\contentsline {section}{\numberline {1.20}Arc I: Crossing to the Crescent Coasts}{188}{}%
+\contentsline {subsection}{\numberline {1.20.1}The Admiral\textquotesingle s Charter: A New Foundation}{189}{}%
+\contentsline {subsection}{\numberline {1.20.2}The Founding of the Salt Courts}{190}{}%
+\contentsline {subsection}{\numberline {1.20.3}Sub-Chapter: The Great Harbor Works}{191}{}%
+\contentsline {subsection}{\numberline {1.20.4}The Seal-Keeper\textquotesingle s Resistance}{192}{}%
+\contentsline {subsection}{\numberline {1.20.5}Sub-Chapter: The Innovation of Maritime Engineering}{192}{}%
+\contentsline {subsection}{\numberline {1.20.6}The Admiral\textquotesingle s Fleet}{193}{}%
+\contentsline {subsection}{\numberline {1.20.7}The Merchant Code: Standardizing Commerce}{194}{}%
+\contentsline {subsection}{\numberline {1.20.8}The Transformation of Port Ironwood}{195}{}%
+\contentsline {subsection}{\numberline {1.20.9}Witness Testimony: The First Salt Court}{196}{}%
+\contentsline {subsection}{\numberline {1.20.10}Edict: Establishment of Harbor Regulations}{196}{}%
+\contentsline {subsection}{\numberline {1.20.11}Annalist\textquotesingle s Commentary: The Paradox of Maritime Democracy}{197}{}%
+\contentsline {subsection}{\numberline {1.20.12}The Impact on Indigenous Coastal Peoples}{198}{}%
+\contentsline {subsection}{\numberline {1.20.13}Interlude: The Sound of Change}{199}{}%
+\contentsline {section}{\numberline {1.21}Arc II: Coin, Grain, and Fracture}{200}{}%
+\contentsline {subsection}{\numberline {1.21.1}The Great Commercial Expansion}{200}{}%
+\contentsline {subsection}{\numberline {1.21.2}Sub-Chapter: The Revolution in Daily Life}{202}{}%
+\contentsline {subsection}{\numberline {1.21.3}The Crisis of Traditional Authority}{204}{}%
+\contentsline {subsection}{\numberline {1.21.4}Sub-Chapter: The Merchant House System}{205}{}%
+\contentsline {subsection}{\numberline {1.21.5}The Development of Commercial Law}{206}{}%
+\contentsline {subsection}{\numberline {1.21.6}Sub-Chapter: The Rise of the Merchant Houses}{207}{}%
+\contentsline {subsection}{\numberline {1.21.7}The Policy of Provincial Autonomy}{208}{}%
+\contentsline {subsection}{\numberline {1.21.8}Sub-Chapter: The Military Contractor System}{210}{}%
+\contentsline {subsection}{\numberline {1.21.9}The Innovation of Commercial Infrastructure}{211}{}%
+\contentsline {subsection}{\numberline {1.21.10}Sub-Chapter: The Inequality Crisis}{212}{}%
+\contentsline {subsection}{\numberline {1.21.11}The Military Contractor System}{213}{}%
+\contentsline {subsection}{\numberline {1.21.12}Sub-Chapter: The Grain Wars}{214}{}%
+\contentsline {subsection}{\numberline {1.21.13}The Battle of the Three Bridges}{216}{}%
+\contentsline {subsection}{\numberline {1.21.14}Witness Testimony: The Farmer\textquotesingle s Dilemma}{217}{}%
+\contentsline {subsection}{\numberline {1.21.15}Lament Interlude: The Empty Granaries}{218}{}%
+\contentsline {subsection}{\numberline {1.21.16}Sub-Chapter: The Emergence of Labor Organization}{219}{}%
+\contentsline {subsection}{\numberline {1.21.17}The Commercial Diplomacy Revolution}{220}{}%
+\contentsline {subsection}{\numberline {1.21.18}Sub-Chapter: The Currency Crisis}{221}{}%
+\contentsline {subsection}{\numberline {1.21.19}The Social Innovation Movement}{222}{}%
+\contentsline {subsection}{\numberline {1.21.20}Edict: The Comprehensive Trade Regulation Act}{223}{}%
+\contentsline {subsection}{\numberline {1.21.21}Annalist\textquotesingle s Commentary: The Double-Edged Prosperity}{224}{}%
+\contentsline {subsection}{\numberline {1.21.22}Witness Testimony: The Merchant Prince and the Dock Worker}{226}{}%
+\contentsline {subsection}{\numberline {1.21.23}Edict: The Standardization of Commercial Law}{227}{}%
+\contentsline {subsection}{\numberline {1.21.24}The Rise of Financial Innovation}{227}{}%
+\contentsline {subsection}{\numberline {1.21.25}Sub-Chapter: The Breakdown of Traditional Authority}{228}{}%
+\contentsline {subsection}{\numberline {1.21.26}Annalist\textquotesingle s Commentary: The Paradox of Prosperity}{229}{}%
+\contentsline {subsection}{\numberline {1.21.27}Interlude: The Price of Progress}{230}{}%
+\contentsline {section}{\numberline {1.22}Arc III: The Hundred Harbors Crisis}{231}{}%
+\contentsline {subsection}{\numberline {1.22.1}The Fragmentation of Naval Authority}{232}{}%
+\contentsline {subsection}{\numberline {1.22.2}Sub-Chapter: The Merchant Revolt}{234}{}%
+\contentsline {subsection}{\numberline {1.22.3}Sub-Chapter: The Rise of the Pirate Leagues}{235}{}%
+\contentsline {subsection}{\numberline {1.22.4}Sub-Chapter: The Intelligence Wars}{237}{}%
+\contentsline {subsection}{\numberline {1.22.5}The Siege of Silver Harbor}{239}{}%
+\contentsline {subsection}{\numberline {1.22.6}Witness Testimony: The Pirate\textquotesingle s Code}{240}{}%
+\contentsline {subsection}{\numberline {1.22.7}Sub-Chapter: The Environmental Consequences}{241}{}%
+\contentsline {subsection}{\numberline {1.22.8}The Economics of Protection}{242}{}%
+\contentsline {subsection}{\numberline {1.22.9}Sub-Chapter: The Embargo Spirals}{243}{}%
+\contentsline {subsection}{\numberline {1.22.10}The Information Wars}{244}{}%
+\contentsline {subsection}{\numberline {1.22.11}Sub-Chapter: The Battle of the Floating Markets}{245}{}%
+\contentsline {subsection}{\numberline {1.22.12}Lament Interlude: The Sinking of Prosperity}{246}{}%
+\contentsline {subsection}{\numberline {1.22.13}The Coup of the Fifth Ledger}{248}{}%
+\contentsline {subsection}{\numberline {1.22.14}Sub-Chapter: The Emergency Tribunals}{249}{}%
+\contentsline {subsection}{\numberline {1.22.15}Sub-Chapter: The Restoration of Commerce}{250}{}%
+\contentsline {subsection}{\numberline {1.22.16}The Coup of the Fifth Ledger}{252}{}%
+\contentsline {subsection}{\numberline {1.22.17}Sub-Chapter: The Restoration of Order}{253}{}%
+\contentsline {subsection}{\numberline {1.22.18}Witness Testimony: The Merchant\textquotesingle s Perspective}{253}{}%
+\contentsline {subsection}{\numberline {1.22.19}Witness Testimony: The Pirate Captain\textquotesingle s Justification}{254}{}%
+\contentsline {subsection}{\numberline {1.22.20}Sub-Chapter: The Innovation of Maritime Law}{255}{}%
+\contentsline {subsection}{\numberline {1.22.21}Sub-Chapter: The Cultural Transformation}{256}{}%
+\contentsline {subsection}{\numberline {1.22.22}The Economic Recovery}{257}{}%
+\contentsline {subsection}{\numberline {1.22.23}Edict: The New Maritime Constitution}{258}{}%
+\contentsline {subsection}{\numberline {1.22.24}Annalist\textquotesingle s Commentary: The Paradox of Piratical Democracy}{259}{}%
+\contentsline {subsection}{\numberline {1.22.25}Edict: The New Maritime Constitution}{261}{}%
+\contentsline {subsection}{\numberline {1.22.26}The Long-term Consequences}{262}{}%
+\contentsline {subsection}{\numberline {1.22.27}Annalist\textquotesingle s Commentary: The Evolution of Piracy}{262}{}%
+\contentsline {subsection}{\numberline {1.22.28}Interlude: The Democracy of the Deep}{263}{}%
+\contentsline {chapter}{\numberline {2}IV: The Quiet Partition}{265}{}%
+\contentsline {subsection}{\numberline {2.0.1}Sub-Chapter: The Administrative Revolution}{266}{}%
+\contentsline {subsection}{\numberline {2.0.2}Sub-Chapter: The Negotiation Process}{267}{}%
+\contentsline {subsection}{\numberline {2.0.3}The Implementation Challenges}{269}{}%
+\contentsline {subsection}{\numberline {2.0.4}Sub-Chapter: The Development of Inter-Entity Relationships}{270}{}%
+\contentsline {subsection}{\numberline {2.0.5}The Innovation of Regional Specialization}{271}{}%
+\contentsline {subsection}{\numberline {2.0.6}Sub-Chapter: The Economic Integration Project}{273}{}%
+\contentsline {subsection}{\numberline {2.0.7}The Child Hostage System}{274}{}%
+\contentsline {subsection}{\numberline {2.0.8}Sub-Chapter: The Development of Regional Specialization}{275}{}%
+\contentsline {subsection}{\numberline {2.0.9}The Continental Maritime Council}{276}{}%
+\contentsline {subsection}{\numberline {2.0.10}Sub-Chapter: The Economic Integration Project}{277}{}%
+\contentsline {subsection}{\numberline {2.0.11}The Cultural Renaissance}{278}{}%
+\contentsline {subsection}{\numberline {2.0.12}Sub-Chapter: The Second Generation}{279}{}%
+\contentsline {subsection}{\numberline {2.0.13}The Crisis of Legitimacy}{280}{}%
+\contentsline {subsection}{\numberline {2.0.14}Sub-Chapter: The Reconciliation Protocols}{281}{}%
+\contentsline {subsection}{\numberline {2.0.15}Witness Testimony: The Child Hostage Experience}{282}{}%
+\contentsline {subsection}{\numberline {2.0.16}Edict: The Final Constitutional Settlement}{283}{}%
+\contentsline {subsection}{\numberline {2.0.17}Annalist\textquotesingle s Commentary: The Invention of Federalism}{284}{}%
+\contentsline {subsection}{\numberline {2.0.18}Book II Coda: Ledgers Closed, Harbors Open}{285}{}%
+\contentsline {section}{\numberline {2.1}Supplementary: The Salt Courts in Session}{286}{}%
+\contentsline {subsection}{\numberline {2.1.1}The Accusation}{287}{}%
+\contentsline {subsection}{\numberline {2.1.2}The Evidence Presented}{287}{}%
+\contentsline {subsection}{\numberline {2.1.3}The Merchant\textquotesingle s Defense}{288}{}%
+\contentsline {subsection}{\numberline {2.1.4}The Witnesses Called}{289}{}%
+\contentsline {subsection}{\numberline {2.1.5}The Hidden Truth Emerges}{289}{}%
+\contentsline {subsection}{\numberline {2.1.6}The Judge\textquotesingle s Deliberation}{290}{}%
+\contentsline {subsection}{\numberline {2.1.7}The Verdict Pronounced}{291}{}%
+\contentsline {subsection}{\numberline {2.1.8}The Consequences Unfold}{291}{}%
+\contentsline {section}{\numberline {2.2}Supplementary: The Pirate Captain\textquotesingle s Account}{292}{}%
+\contentsline {subsection}{\numberline {2.2.1}The Origins of a Pirate}{292}{}%
+\contentsline {subsection}{\numberline {2.2.2}The Betrayal That Changed Everything}{293}{}%
+\contentsline {subsection}{\numberline {2.2.3}The Birth of the Red-Sail League}{294}{}%
+\contentsline {subsection}{\numberline {2.2.4}{The Raid on the \textbf {Golden Prosperity}}{The Raid on the Golden Prosperity}}{295}{}%
+\contentsline {subsection}{\numberline {2.2.5}The Admiral\textquotesingle s Confession}{296}{}%
+\contentsline {subsection}{\numberline {2.2.6}The Captain\textquotesingle s Capture and Trial}{297}{}%
+\contentsline {section}{\numberline {2.3}Supplementary: The Coup of the Fifth Ledger}{298}{}%
+\contentsline {subsection}{\numberline {2.3.1}The Night Assault}{298}{}%
+\contentsline {subsection}{\numberline {2.3.2}The Conspirators Revealed}{299}{}%
+\contentsline {subsection}{\numberline {2.3.3}The Breach}{299}{}%
+\contentsline {subsection}{\numberline {2.3.4}The Fifth Ledger Discovered}{300}{}%
+\contentsline {subsection}{\numberline {2.3.5}The Revelations Within}{301}{}%
+\contentsline {subsection}{\numberline {2.3.6}The Political Earthquake}{301}{}%
+\contentsline {subsection}{\numberline {2.3.7}The New Order Emerges}{302}{}%
+\contentsline {section}{\numberline {2.4}Supplementary: The Child Hostages}{303}{}%
+\contentsline {subsection}{\numberline {2.4.1}The Mother\textquotesingle s Sacrifice}{303}{}%
+\contentsline {subsection}{\numberline {2.4.2}The Journey to the Hostage House}{303}{}%
+\contentsline {subsection}{\numberline {2.4.3}The House of Golden Chains}{304}{}%
+\contentsline {subsection}{\numberline {2.4.4}Friendships Across Enemy Lines}{305}{}%
+\contentsline {subsection}{\numberline {2.4.5}The Failed Rescue}{306}{}%
+\contentsline {subsection}{\numberline {2.4.6}Growing Into Leadership Under Captivity}{307}{}%
+\contentsline {section}{\numberline {2.5}Part Three: Surface and Last Year}{309}{}%
+\contentsline {section}{\numberline {2.6}Prologue: The Iron Promise}{309}{}%
+\contentsline {subsection}{\numberline {2.6.1}The Doctrine of Surface}{310}{}%
+\contentsline {subsection}{\numberline {2.6.2}The Resistance of Stone and Stream}{311}{}%
+\contentsline {subsection}{\numberline {2.6.3}The First Roads}{312}{}%
+\contentsline {subsection}{\numberline {2.6.4}The Banner\textquotesingle s Shadow}{313}{}%
+\contentsline {subsection}{\numberline {2.6.5}The Weight of Numbers}{314}{}%
+\contentsline {subsection}{\numberline {2.6.6}The Shadow of What Was to Come}{315}{}%
+\contentsline {section}{\numberline {2.7}Arc I: Iron Roads and Surface Doctrine}{316}{}%
+\contentsline {subsection}{\numberline {2.7.1}The Engineering Triumph}{317}{}%
+\contentsline {subsection}{\numberline {2.7.2}The Bureaucracy of Motion}{318}{}%
+\contentsline {subsection}{\numberline {2.7.3}The Ideology of Straight Lines}{319}{}%
+\contentsline {subsection}{\numberline {2.7.4}The Transformation of Trade}{320}{}%
+\contentsline {subsection}{\numberline {2.7.5}The Question of the Margins}{321}{}%
+\contentsline {subsection}{\numberline {2.7.6}The Seeds of Resistance}{322}{}%
+\contentsline {subsection}{\numberline {2.7.7}The Limits of Iron}{323}{}%
+\contentsline {subsection}{\numberline {2.7.8}The First Signs of Strain}{324}{}%
+\contentsline {subsection}{\numberline {2.7.9}The Seeds of Future Crisis}{325}{}%
+\contentsline {subsection}{\numberline {2.7.10}The Witness of the Forgotten}{326}{}%
+\contentsline {subsection}{\numberline {2.7.11}The Limits of Iron}{328}{}%
+\contentsline {subsection}{\numberline {2.7.12}The Annalist\textquotesingle s Commentary}{329}{}%
+\contentsline {chapter}{\numberline {3}II: The Two Famines}{331}{}%
+\contentsline {subsection}{\numberline {3.0.1}The Failure of the Clouds}{331}{}%
+\contentsline {subsection}{\numberline {3.0.2}The Paralysis of Procedure}{332}{}%
+\contentsline {subsection}{\numberline {3.0.3}The Road-Wardens\textquotesingle {} Mutiny}{333}{}%
+\contentsline {subsection}{\numberline {3.0.4}The Contagion of Conscience}{335}{}%
+\contentsline {subsection}{\numberline {3.0.5}The Banner-Lord\textquotesingle s Dilemma}{337}{}%
+\contentsline {subsection}{\numberline {3.0.6}The Economics of Rebellion}{339}{}%
+\contentsline {subsection}{\numberline {3.0.7}The Humanitarian Network}{340}{}%
+\contentsline {subsection}{\numberline {3.0.8}The Hoarding of the Salt Courts}{342}{}%
+\contentsline {subsection}{\numberline {3.0.9}The Second Famine: A Bureaucratic Creation}{343}{}%
+\contentsline {subsection}{\numberline {3.0.10}The Ideology of Scarcity}{344}{}%
+\contentsline {subsection}{\numberline {3.0.11}Witness Fragments: The Breaking Point}{345}{}%
+\contentsline {subsection}{\numberline {3.0.12}The Revival of Ancient Rites}{345}{}%
+\contentsline {subsection}{\numberline {3.0.13}The Annalist\textquotesingle s Commentary}{346}{}%
+\contentsline {subsection}{\numberline {3.0.14}The Last Harvest}{347}{}%
+\contentsline {section}{\numberline {3.1}Arc III: Lantern Riots to Border Fires}{348}{}%
+\contentsline {subsection}{\numberline {3.1.1}The Sacred and the Political}{349}{}%
+\contentsline {subsection}{\numberline {3.1.2}The Spreading Fire}{350}{}%
+\contentsline {subsection}{\numberline {3.1.3}The Provisional Councils}{350}{}%
+\contentsline {subsection}{\numberline {3.1.4}The Banner of the People}{352}{}%
+\contentsline {subsection}{\numberline {3.1.5}The Failure of Imperial Response}{353}{}%
+\contentsline {subsection}{\numberline {3.1.6}The Border Fires}{354}{}%
+\contentsline {subsection}{\numberline {3.1.7}The Strategy of Smoke}{355}{}%
+\contentsline {subsection}{\numberline {3.1.8}The Liberation of Memory}{357}{}%
+\contentsline {subsection}{\numberline {3.1.9}The Network of Resistance}{358}{}%
+\contentsline {subsection}{\numberline {3.1.10}The Imperial Response: Too Little, Too Late}{359}{}%
+\contentsline {subsection}{\numberline {3.1.11}The Ritual of Dissolution}{361}{}%
+\contentsline {subsection}{\numberline {3.1.12}The Transformation of Space}{362}{}%
+\contentsline {subsection}{\numberline {3.1.13}The Ritual of Dissolution}{364}{}%
+\contentsline {subsection}{\numberline {3.1.14}The Last Loyalists}{364}{}%
+\contentsline {subsection}{\numberline {3.1.15}The Spreading Silence}{365}{}%
+\contentsline {chapter}{\numberline {4}IV: The Final Year}{369}{}%
+\contentsline {subsection}{\numberline {4.0.1}Month of Weeping (First Month)}{369}{}%
+\contentsline {subsection}{\numberline {4.0.2}The Inventory of Loss}{371}{}%
+\contentsline {subsection}{\numberline {4.0.3}The Ceremony of Grief}{373}{}%
+\contentsline {subsection}{\numberline {4.0.4}The Economics of Dissolution}{374}{}%
+\contentsline {subsection}{\numberline {4.0.5}The Tears of the Faithful}{376}{}%
+\contentsline {subsection}{\numberline {4.0.6}The Weight of History}{377}{}%
+\contentsline {subsection}{\numberline {4.0.7}Month of Rust (Second Month)}{379}{}%
+\contentsline {subsection}{\numberline {4.0.8}Month of Ash (Third Month)}{380}{}%
+\contentsline {subsection}{\numberline {4.0.9}Month of Silence (Fourth Month)}{381}{}%
+\contentsline {subsection}{\numberline {4.0.10}The Multiplication of Assemblies}{382}{}%
+\contentsline {subsection}{\numberline {4.0.11}The Emergence of New Legitimacy}{384}{}%
+\contentsline {subsection}{\numberline {4.0.12}The Psychology of Self-Governance}{385}{}%
+\contentsline {subsection}{\numberline {4.0.13}The Silence of the Capital}{386}{}%
+\contentsline {subsection}{\numberline {4.0.14}The Return to the Land}{387}{}%
+\contentsline {subsection}{\numberline {4.0.15}The Failure of Force}{388}{}%
+\contentsline {subsection}{\numberline {4.0.16}Month of Thorns (Fifth Month)}{390}{}%
+\contentsline {subsection}{\numberline {4.0.17}Month of Rust and Bone (Sixth Month)}{391}{}%
+\contentsline {subsection}{\numberline {4.0.18}Month of Memory (Seventh Month)}{392}{}%
+\contentsline {subsection}{\numberline {4.0.19}The Personal Dissolution}{393}{}%
+\contentsline {subsection}{\numberline {4.0.20}The Silence of the Archives}{395}{}%
+\contentsline {subsection}{\numberline {4.0.21}The Question of Legitimacy}{396}{}%
+\contentsline {subsection}{\numberline {4.0.22}The Distribution of Memory}{397}{}%
+\contentsline {subsection}{\numberline {4.0.23}The Last Imperial Decree}{398}{}%
+\contentsline {subsection}{\numberline {4.0.24}The Emptying of the Palace}{399}{}%
+\contentsline {subsection}{\numberline {4.0.25}The Personal Reckoning of the Banner-Lord}{400}{}%
+\contentsline {subsection}{\numberline {4.0.26}The Dawn of the Post-Imperial World}{401}{}%
+\contentsline {subsection}{\numberline {4.0.27}Witness Testimony: The Moment of Change}{402}{}%
+\contentsline {subsection}{\numberline {4.0.28}The Legacy of the Last Month}{403}{}%
+\contentsline {subsection}{\numberline {4.0.29}Annalist\textquotesingle s Commentary on the Seventh Month}{404}{}%
+\contentsline {subsection}{\numberline {4.0.30}The Persistence of Memory}{406}{}%
+\contentsline {subsection}{\numberline {4.0.31}Annalist\textquotesingle s Final Commentary}{407}{}%
+\contentsline {section}{\numberline {4.1}Epilogue: After the Masts}{407}{}%
+\contentsline {section}{\numberline {4.2}Epilogue: After the Masts}{408}{}%
+\contentsline {subsection}{\numberline {4.2.1}The Inheritance of Stone}{409}{}%
+\contentsline {subsection}{\numberline {4.2.2}The Multiplication of Governance}{411}{}%
+\contentsline {subsection}{\numberline {4.2.3}The Memory of Unity}{412}{}%
+\contentsline {subsection}{\numberline {4.2.4}The Persistence of Cloth}{413}{}%
+\contentsline {subsection}{\numberline {4.2.5}The Question of Progress}{415}{}%
+\contentsline {subsection}{\numberline {4.2.6}The Long View}{416}{}%
+\contentsline {subsection}{\numberline {4.2.7}After the Masts: A Reflection}{417}{}%
+\contentsline {subsection}{\numberline {4.2.8}Disputed Entries}{418}{}%
+\contentsline {subsection}{\numberline {4.2.9}Losses Uncounted}{419}{}%
+\contentsline {subsection}{\numberline {4.2.10}Canon References Index}{420}{}%
+\contentsline {subsubsection}{Arc I - Iron Roads and Surface Doctrine}{420}{}%
+\contentsline {subsubsection}{Arc II - The Two Famines}{420}{}%
+\contentsline {subsubsection}{Arc III - Lantern Riots to Border Fires}{420}{}%
+\contentsline {subsubsection}{Arc IV - The Final Year}{420}{}%
+\contentsline {subsubsection}{Epilogue - After the Masts}{421}{}%
+\contentsline {subsection}{\numberline {4.2.11}Roll of Reigning Houses}{421}{}%
+\contentsline {subsubsection}{The Last Banner-Lords}{421}{}%
+\contentsline {subsubsection}{Provisional Governments}{421}{}%
+\contentsline {subsection}{\numberline {4.2.12}The Weight of Years}{421}{}%
+\contentsline {section}{\numberline {4.3}Supplementary: The Road-Warden\textquotesingle s Mutiny}{422}{}%
+\contentsline {subsection}{\numberline {4.3.1}The Arithmetic of Famine}{423}{}%
+\contentsline {subsection}{\numberline {4.3.2}The Weight of Orders}{424}{}%
+\contentsline {subsection}{\numberline {4.3.3}The Mathematics of Rebellion}{425}{}%
+\contentsline {subsection}{\numberline {4.3.4}The Spreading Calculation}{427}{}%
+\contentsline {section}{\numberline {4.4}Supplementary: The Lantern Riots --- Three Nights}{428}{}%
+\contentsline {subsection}{\numberline {4.4.1}The First Night: Gathering Light}{429}{}%
+\contentsline {subsection}{\numberline {4.4.2}The Kindling of Anger}{430}{}%
+\contentsline {subsection}{\numberline {4.4.3}The Second Night: Barricades and Broken Glass}{432}{}%
+\contentsline {subsection}{\numberline {4.4.4}The Third Night: The Fire That Ate the Empire}{435}{}%
+\contentsline {subsection}{\numberline {4.4.5}The Consuming Light}{437}{}%
+\contentsline {section}{\numberline {4.5}Supplementary: The Dissolution Decrees}{440}{}%
+\contentsline {subsection}{\numberline {4.5.1}Imperial Decree of Provincial Autonomy}{441}{}%
+\contentsline {subsection}{\numberline {4.5.2}The Reading of the Decrees}{443}{}%
+\contentsline {subsection}{\numberline {4.5.3}The Last Banner-Lord\textquotesingle s Speech}{446}{}%
+\contentsline {subsection}{\numberline {4.5.4}The Moment the Final Banner Fell}{449}{}%
+\contentsline {section}{\numberline {4.6}Supplementary: Memory Politics After the Fall}{451}{}%
+\contentsline {subsection}{\numberline {4.6.1}The Archive Wars}{452}{}%
+\contentsline {subsection}{\numberline {4.6.2}Banner-Burning and Banner-Preserving}{455}{}%
+\contentsline {subsection}{\numberline {4.6.3}The Cave of Hidden Records}{458}{}%
+\contentsline {subsection}{\numberline {4.6.4}The Question of Ownership}{461}{}%
+\contentsline {subsection}{\numberline {4.6.5}The Memory Keepers}{464}{}%
+\contentsline {section}{\numberline {4.7}Appendix A: Reigning Houses by Age}{467}{}%
+\contentsline {subsection}{\numberline {4.7.1}Dawn Age (DA) Houses}{467}{}%
+\contentsline {subsection}{\numberline {4.7.2}First Age (FA) Houses}{468}{}%
+\contentsline {subsection}{\numberline {4.7.3}Second Age (SA) Houses}{468}{}%
+\contentsline {subsection}{\numberline {4.7.4}Third Age (TA) Houses}{468}{}%
+\contentsline {subsection}{\numberline {4.7.5}Last Age (LA) Houses}{469}{}%
+\contentsline {section}{\numberline {4.8}Appendix B: Canon Index by Reliability Class}{469}{}%
+\contentsline {subsection}{\numberline {4.8.1}R1 - Highest Reliability (Primary Sources)}{469}{}%
+\contentsline {subsection}{\numberline {4.8.2}R2 - High Reliability (Secondary Contemporary Sources)}{469}{}%
+\contentsline {subsection}{\numberline {4.8.3}R3 - Moderate Reliability (Later Compilations)}{470}{}%
+\contentsline {subsection}{\numberline {4.8.4}R4 - Lower Reliability (Traditional Sources)}{470}{}%
+\contentsline {subsection}{\numberline {4.8.5}R5 - Uncertain Reliability (Fragmentary Sources)}{470}{}%

@@ -1,0 +1,105 @@
+* Prologue: Before the Wind
+
+** The Seal-Keeper's Invocation
+
+[Canon: FE-DA-B1-ANN-001 | Year: DA 2847]
+
+I am Miriam of the Long Archive, Keeper of the Sealed Records, and it falls to me in this final hour to set down what truths I can gather from the dust of ages past. The winds that once carried banners across continents now blow through empty halls, stirring only memories and the faint rustle of parchment that bears witness to empires risen and fallen like waves upon an endless shore.
+
+In this chamber where I write, the walls hold the weight of centuries: clay vessels sealed with wax that has not known touch for generations, scrolls wrapped in cloth that once flew proud above armies, fragments of silk that remember the taste of salt spray and the song of canvas stretched taut against the wind. Here, in the deepest vault of the Chancellery Archive, I have assembled what remains of the great chronicle—not merely the official histories that kings would have us remember, but the scattered testimonies of those who lived beneath the banners, who bled for them, who cursed them, who loved them with the fierce devotion of children who know no other gods.
+
+** The Weight of Memory
+
+[Canon: FE-DA-B1-ANN-002 | Year: DA 2847]
+
+The task before me is not simple, for memory is a river that changes course with each telling, and truth is not a single thread but a tapestry woven from a thousand different hands, some skilled, some trembling, some deliberately false. I have before me the Crimson Annals of the First Dynasty, their pages still bright with imperial gold, but also the mud-stained journal of a camp follower who watched those same emperors die choking on their own blood. I have the bronze tablets that proclaim eternal dominion, and beside them, carved on fragments of bone, the songs that children sang as their cities burned.
+
+The chronicles of the flag-empires span the breadth of human ambition, from the first crude standards raised by tribal chiefs in the Dawn Age to the complex heraldic symphonies that crowned the Sky Throne in its final glory. Yet each banner tells not one story but many: the story of those who raised it, those who followed it, those who fled from it, and those who ultimately brought it down. To trace the rise and fall of flags is to map the very pulse of human longing—the desire to belong, to conquer, to endure, to be remembered when the wind finally tears our colors to shreds.
+
+** The Archive Speaks
+
+[Canon: FE-DA-B1-LAMENT-001 | Year: DA 2847]
+
+Dust motes dance in the shaft of light that falls through the narrow window of my scriptorium, each particle a world unto itself, rising and falling in patterns I cannot divine. So too the empires I catalog here—specks of brilliance caught in the eye of history, briefly illuminated before returning to the darkness from which they came.
+
+#+begin_quote
+I remember the day they brought down the Sunset Banner of Kythara. We had fought under those colors for seven years, through marsh and mountain, following that golden phoenix across half the world. When the spears came for it at last, we threw ourselves between them and the standard, not for king or country, but for the thing itself—that scrap of silk that had been our mother, our god, our hope. They cut us down like wheat, and the banner fell into the mud, its phoenix drowning in our blood. I lived, though I wish I had not. Sometimes I still dream of gold wings rising from red earth.
+#+end_quote
+
+[Canon: FE-DA-B1-WIT-001 | Reliability: R3]
+
+This testimony comes from one Marcus Hollowhand, camp veteran of the Kytheran Third Legion, set down in his final year by a scribal monk of the River Cloisters. I found it pressed between pages of a ceremonial calendar, written on bark in charcoal that had nearly faded to nothing. Yet the words burn with a clarity that all the marble monuments cannot match—this is how flags die, not in glory but in grief, mourned by those who loved them more than their own lives.
+
+** The Scope of Chronicles
+
+[Canon: FE-DA-B1-ANN-003 | Year: DA 2847]
+
+The scope of this chronicle encompasses twenty-seven centuries of recorded history, beginning with the proto-banners of the Dawn Age—simple totems carried by nomadic tribes as they spread across the virgin continents—and ending with the dissolution that we have witnessed in our own lifetime, the Last Year when the final great flags were furled forever and the age of empires came to its close. Between these boundaries lies the full flowering and decay of human civilization under the sign of cloth and color: the rise of the First Dynasty with its red eagles, the golden centuries of the maritime republics beneath their storm-crow sails, the brief and brilliant reign of the Sky Lords whose banners flew higher than mountains, and the long twilight of the Border Wars when flags multiplied like weeds until the very air was choked with their competing claims.
+
+Yet to tell this tale truly, I must confess the limits of all telling. The records contradict each other with maddening frequency—where one source speaks of victory, another records defeat; where one claims divine favor, another sees only human folly. The witnesses lie, forget, embellish, suppress. The victors write their versions, but the conquered sometimes outlive them and write their own. Even I, who have spent a lifetime in pursuit of truth, find myself changed by each document I read, my understanding shifting like sand beneath the weight of new evidence.
+
+#+begin_quote
+The scholars will tell you that Empress Valdris the Golden ruled for thirty-seven years and died peacefully in her bed, beloved by all her subjects. But I was there the night she died, and I tell you she was mad as a moon-touched hare, screaming about shadows that none of us could see. She clawed at her own face until the blood ran, calling for banners that had been burned a decade past. The golden circlet fell from her brow and rolled across the floor like a worthless thing, and in the morning they put it on her infant grandson's head as if nothing had changed. The flags still flew proud over the palace, but underneath them was only emptiness and the smell of fear.
+#+end_quote
+
+[Canon: FE-DA-B1-WIT-002 | Reliability: R2]
+
+This account reaches me from the private papers of one Jereth the Younger, formerly a page in the Imperial household, later a wine merchant in the eastern provinces. His reliability is questionable—he was known to drink heavily and held grievances against the court—yet his description matches certain details found in other sources, fragments that suggest the official histories may conceal more than they reveal. Truth is not always found in the most credible sources, for sometimes only the desperate and the disgraced dare speak what others fear to remember.
+
+** The Method of Truth
+
+[Canon: FE-DA-B1-ANN-004 | Year: DA 2847]
+
+My method is not that of the court historians, who polish their prose until it gleams like ceremonial armor, beautiful and useless for real battle. I gather what fragments I can find—the official chronicles, yes, but also the camp songs and the kitchen gossip, the letters never sent and the confessions whispered to priests who are now dust. I weigh them against each other, not seeking a single voice of authority but a chorus of imperfect voices that together might approximate something resembling truth.
+
+The banners themselves are documents, if we know how to read them. The fraying of the edges speaks of campaigns endured; the patches sewn over battle-damage tell of near defeats transformed into legend. The colors that have faded reveal which dyes were used, and thus which trade routes were open in a given year. Even the manner of their folding, when they are finally retired to the archives, carries meaning—some are laid to rest with ceremony, others thrust hastily into cedar chests and forgotten, their disgrace too shameful to acknowledge.
+
+** The Memory of Wind
+
+[Canon: FE-DA-B1-LAMENT-002 | Year: DA 2847]
+
+In the depth of night, when the archive sleeps and I am alone with the weight of all these stories, I sometimes hear it—the whisper of wind through cloth, the snap and flutter of banners that no longer fly. The flags speak to those who listen, telling of the hands that sewed them, the blood that blessed them, the defeats that cursed them. They remember the feeling of flying free, of catching the wind and riding it like a ship rides the waves, of being more than mere fabric—of becoming symbols that could stir men's hearts to love and hate and sacrifice.
+
+There is magic in a banner unfurled, a transformation that turns base matter into something approaching the divine. A piece of cloth becomes a rallying point for thousands, a focus for hopes and dreams and desperate prayers. Under its shadow, strangers become brothers; beneath its protection, the weak find courage to face the strong. Yet flags can also be prisons—their beauty binding souls to causes that reason would reject, their glory masking cruelties that shame would condemn.
+
+Salt and wind and the memory of sailing—these are the true parents of every flag. Born from humanity's ancient need to mark their passage through the world, to plant stakes of meaning in the vast emptiness of existence, banners carry in their threads the DNA of wandering and the imperative to be seen, to be known, to leave some mark upon the endless sky.
+
+** The Politics of Truth
+
+[Canon: FE-DA-B1-ANN-005 | Year: DA 2847]
+
+I write now under the shadow of dissolution, when the last great powers have fallen and there remains no authority strong enough to suppress inconvenient truths. This freedom is both blessing and burden—I need not fear the headsman's axe for recording what kings would prefer forgotten, but I also cannot rely on any institution's protection when those truths prove uncomfortable. The archive itself survives only through the indifference of conquerors who count scrolls and tablets as worthless compared to gold and grain.
+
+Yet even in this twilight hour, I feel the pressure of political necessity. Those few lords who still maintain some measure of power would prefer their ancestors remembered as heroes rather than the flawed and often brutal figures that emerge from honest examination. The merchant houses that fund this archive would rather not see their founding fortunes linked too closely to slave-running and petty warfare. The priesthood, whose blessing sanctified so many banners, would prefer not to answer for the blood spilled in their god's name.
+
+But I have seen too much to write comfortable lies. I have held in my hands the skull-coins minted from the heads of conquered children, stamped with eagles that claimed to bring peace. I have read the shipping manifests that list human cargo alongside grain and wine, blessed by flags that proclaimed liberty and justice for all. I have traced the genealogies of noble houses back to their origins in rape and pillage, their heraldic beasts drawn from nightmares rather than dreams.
+
+** The Final Witness
+
+[Canon: FE-DA-B1-LAMENT-003 | Year: DA 2847]
+
+In my dreams, I sometimes see them all together—every banner that ever flew, gathered on a vast plain beneath a sky the color of old parchment. They flutter without wind, speaking without words, telling stories that only the dead can fully understand. The proud eagles of the First Dynasty perch beside the humble grain-sheaves of farming communes; the war-torn battle flags rest next to the pristine ceremonial standards that never knew conflict. In death, all banners are equal, all claims equally valid and equally meaningless.
+
+#+begin_quote
+We buried the last banner at midnight, when the city was quiet and the victors drunk on wine and victory. It was a small thing—not one of the great war standards, but a neighborhood flag that had flown over our little quarter for three generations. Blue and white, with a silver fish that my grandmother had sewn with her own hands. When the order came to surrender all symbols of the old regime, most people complied. But we could not bear to give up our fish. So we took it to the old cemetery, wrapped it in my grandmother's wedding dress, and buried it beneath the oak tree where she used to sit and tell stories of the time before the wars. I wonder sometimes if it dreams there, sleeping in the earth, waiting for a wind that will never come.
+#+end_quote
+
+[Canon: FE-DA-B1-WIT-003 | Reliability: R4]
+
+This testimony was given to me directly, spoken by an old woman who came to the archive three days before her death, asking that her story be preserved even if her name could not be. She would not say which city, which neighborhood, which war—only that it happened, and that someone should know it happened. I have no way to verify her account, no documents to corroborate her tale, yet something in her voice convinces me that every word was true. Perhaps truth is not always found in verification but in recognition—the moment when a story rings so clear and honest that doubt becomes impossible.
+
+** The Keeper's Oath
+
+[Canon: FE-DA-B1-ANN-006 | Year: DA 2847]
+
+And so I set my seal to this beginning, this invocation that opens the great chronicle of rise and ruin. I swear by the memory of all flags fallen that I will record what I find without favor or prejudice, letting the sources speak in their own voices even when those voices contradict each other or contradict the comfortable myths we prefer to believe. I will not make heroes where I find only humans, nor villains where I discover merely the lost and frightened. I will not pretend that causes were nobler than they were, nor that their defeats were more meaningful than the simple fact that someone else proved stronger.
+
+The truth of banners is the truth of humanity itself—messy, contradictory, beautiful, terrible, shot through with moments of grace and long stretches of mundane cruelty. Flags do not ennoble those who follow them, but neither do they damn them; they are simply focal points for the ancient human drama of seeking meaning in a universe that offers none freely. Under their shadows, people have committed every sin and every virtue known to our species, often in the same campaign, sometimes in the same day.
+
+This chronicle will attempt to capture something of that complexity, to honor both the dreams that banners represent and the failures they inevitably embody. It will speak for the powerful and the powerless alike, for the conquerors who planted their standards on foreign soil and the conquered who watched their own colors burn. It will remember the flags themselves—not as abstractions or symbols, but as physical things created by human hands for human purposes, beautiful and fragile and doomed to fade like all beautiful things.
+
+Let the wind carry these words as it once carried the banners themselves, and let whoever comes after judge whether I have kept faith with the trust placed in me. I am Miriam of the Long Archive, last keeper of the sealed records, and this is the chronicle I have chosen to preserve against the darkness. May it stand when greater monuments have fallen to dust, a testament to the courage and folly of those who dared to raise their colors against the sky and claim, however briefly, that their mark upon the world would prove eternal.
+
+The wind remembers everything. The flags are gone, but the wind remains, and in its voices we may hear the echo of all the hopes it carried, all the pride it lifted, all the dreams it scattered to the four corners of the earth. Listen, and remember, and judge gently the ambitions of those who thought cloth and thread could hold forever what time and change are always certain to reclaim.
+
+[End Canon: FE-DA-B1-ANN-006 | Year: DA 2847]

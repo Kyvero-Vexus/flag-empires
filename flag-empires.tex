@@ -1,0 +1,62 @@
+\documentclass[11pt,twoside,openright]{book}
+
+% Page setup for 6x9 trade paperback
+\usepackage[papersize={6in,9in},margin=1in,inner=1in,outer=0.75in,top=0.75in,bottom=1in]{geometry}
+
+% Use palatino font 
+\usepackage{mathpazo}
+\usepackage[T1]{fontenc}
+
+% Better headers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\textit{The Flag-Empires Chronicle}}
+\fancyhead[RO]{\textit{\leftmark}}
+\fancyfoot[C]{\thepage}
+
+% Quote formatting
+\renewenvironment{quote}{%
+  \begin{quotation}
+  \itshape
+}{%
+  \end{quotation}%
+}
+
+% Canon ID formatting (small caps)
+\newcommand{\canonid}[1]{\textsc{#1}}
+
+% Fix for pandoc tightlist command
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Title setup
+\title{The Flag-Empires Chronicle}
+\author{Compiled from the Archives of the Seal-Keepers}
+\date{}
+
+\begin{document}
+
+% Title page
+\frontmatter
+\maketitle
+
+\clearpage
+\vspace*{\fill}
+\begin{center}
+\emph{A Complete History from Dawn Age to Last Year}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+% Table of contents
+\tableofcontents
+\clearpage
+
+% Main content  
+\mainmatter
+
+% Include the converted body
+\input{flag-empires-body}
+
+\end{document}
