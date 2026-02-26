@@ -47,7 +47,7 @@ The last memory-cycle of the Dawn Age ended with a great gathering at Stone-Whis
 I saw the last unity-cloth lowered at Stone-Whistle. It was a cloth of many colors, and it fell like a great bird landing. The Seal-Keeper said it was the end of an age, but I thought it was the beginning of something else. The wind took the cloth and carried it away, and we watched it until it was gone.
 #+end_quote
 
-= Arc 2: Raising the First Mast-City =
+* Arc 2: Raising the First Mast-City
 
 The chronicle now turns to the founding of Kher Valaan, the first Mast-City, and the binding of House Talar to river and ridge. In these years, the banner's cloth was still wet with dye, and the wind had not yet learned to speak its name.
 

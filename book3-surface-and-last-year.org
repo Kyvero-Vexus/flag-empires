@@ -238,8 +238,7 @@ The council met for the last time at the river, and I was there. I saw them ligh
 The fires came to the city walls, and I watched them from the top of the tower. I saw the people on the walls, and I saw that they were afraid. But they did not run, and they did not fight. They simply waited, and when the fires reached them, they did not scream. They simply disappeared into the smoke.
 #+end_quote
 
-* The Last Year
-** Arc 4: Dissolution
+* Arc 4: The Last Year
 *** Month of Weeping (First Month of the Last Year)
 #+begin_quote
 [Canon: FE-LA-B3-EDI-131 | Year: LA 1]

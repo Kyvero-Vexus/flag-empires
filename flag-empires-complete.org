@@ -1,4 +1,93 @@
-* Style Bible of the Banner Annals
+#+TITLE: Flag-Empires: The Complete Chronicle
+#+SUBTITLE: A Historical Record of the Banner-Dynasties from Dawn Age to Last Year
+
+This chronicle records the rise and fall of the Flag-Empires, spanning five ages from the first cloth-signs above basalt terraces to the administrative dissolution in the Last Year. The annals within follow the Seal-Keeper tradition of cross-referencing testimony, maintaining canonical identification numbers, and distinguishing between archive fact and witness belief.
+
+* Master Outline
+
+
+** Global Span
+From the first cloth-signs above the basalt terraces to the administrative dissolution in the Last Year.
+
+** Book I: /Flagartha/
+*** Arc I — The Wind Before Names
+- DA memory cycles and proto-banners.
+- Hill clans and salt-gift compacts.
+- Canon set: FE-DA-B1-ANN-001..020
+
+*** Arc II — Raising the First Mast-City
+- Founding of Kher Valaan.
+- House Talar binds river and ridge.
+- Canon set: FE-FA-B1-ANN-021..090
+
+*** Arc III — Consolidation and Covenant Wars
+- Banner fealties standardized.
+- East March uprisings.
+- Lantern Peace and hidden reprisals.
+- Canon set: FE-FA-B1-ANN-091..170; FE-FA-B1-EDI-001..030
+
+*** Arc IV — Crown of Seven Cloths
+- Peak of Flagarthan integration.
+- Ritualization of succession.
+- Seeds of maritime dependency.
+- Canon set: FE-FA-B1-RIT-001..022
+
+** Book II: /Flagistan/
+*** Arc I — Crossing to the Crescent Coasts
+- Admirals granted semi-hereditary charter.
+- Founding of salt courts.
+- Canon set: FE-SA-B2-ANN-001..070
+
+*** Arc II — Coin, Grain, and Fracture
+- Trade boom and inequality.
+- Provincial military autonomy.
+- Canon set: FE-SA-B2-ANN-071..150; FE-SA-B2-EDI-031..080
+
+*** Arc III — The Hundred Harbors Crisis
+- Pirate leagues, embargo spirals.
+- Coup of the Fifth Ledger.
+- Canon set: FE-SA-B2-WIT-001..120
+
+*** Arc IV — The Quiet Partition
+- Administrative split masked as reform.
+- Child hostage treaties.
+- Canon set: FE-SA-B2-ANN-151..220
+
+** Book III: /Surface and Last Year/
+*** Arc I — Iron Roads and Surface Doctrine
+- TA expansion inland and upward.
+- Bureaucratic faith in metrics.
+- Canon set: FE-TA-B3-ANN-001..100
+
+*** Arc II — The Two Famines
+- Logistics success without food justice.
+- Mutiny of Road-Wardens.
+- Canon set: FE-TA-B3-WIT-121..220
+
+*** Arc III — Lantern Riots to Border Fires
+- Legitimacy collapse.
+- Provisional councils.
+- Canon set: FE-LA-B3-ANN-001..130
+
+*** Arc IV — The Last Year
+- Month-by-month unraveling.
+- Dissolution decrees.
+- Memory politics after the fall.
+- Canon set: FE-LA-B3-EDI-131..200; FE-LA-B3-WIT-221..320
+
+** Cross-Book Thematic Threads
+- Salt as treasury and wound.
+- Banner symbolism and changing sovereignty.
+- Archive integrity versus propaganda.
+- Infrastructure as promise, then burden.
+
+** Appendix Plan
+- Reigning Houses roll by Age.
+- Canon index by reliability.
+- Map notes and toponym changes.
+
+* Style Bible
+
 
 ** Purpose
 This codex governs diction, cadence, chronology, and referential method for the Flag-Empires corpus. The tone is high chronicle, grave but lucid, with periodic lyrical expansion. Every chapter shall move between three registers: annal, witness, and lament.
@@ -82,7 +171,8 @@ Each book ends with:
 - Disputed entries.
 - Losses uncounted.
 
-* Canon Schema of Flag-Empires
+* Canon Schema
+
 
 ** Canon Tables
 
@@ -189,90 +279,6 @@ The complete volume concatenates in order:
 
 No section may remain empty.
 
-* Master Outline of /Flag-Empires/
-
-** Global Span
-From the first cloth-signs above the basalt terraces to the administrative dissolution in the Last Year.
-
-** Book I: /Flagartha/
-*** Arc I — The Wind Before Names
-- DA memory cycles and proto-banners.
-- Hill clans and salt-gift compacts.
-- Canon set: FE-DA-B1-ANN-001..020
-
-*** Arc II — Raising the First Mast-City
-- Founding of Kher Valaan.
-- House Talar binds river and ridge.
-- Canon set: FE-FA-B1-ANN-021..090
-
-*** Arc III — Consolidation and Covenant Wars
-- Banner fealties standardized.
-- East March uprisings.
-- Lantern Peace and hidden reprisals.
-- Canon set: FE-FA-B1-ANN-091..170; FE-FA-B1-EDI-001..030
-
-*** Arc IV — Crown of Seven Cloths
-- Peak of Flagarthan integration.
-- Ritualization of succession.
-- Seeds of maritime dependency.
-- Canon set: FE-FA-B1-RIT-001..022
-
-** Book II: /Flagistan/
-*** Arc I — Crossing to the Crescent Coasts
-- Admirals granted semi-hereditary charter.
-- Founding of salt courts.
-- Canon set: FE-SA-B2-ANN-001..070
-
-*** Arc II — Coin, Grain, and Fracture
-- Trade boom and inequality.
-- Provincial military autonomy.
-- Canon set: FE-SA-B2-ANN-071..150; FE-SA-B2-EDI-031..080
-
-*** Arc III — The Hundred Harbors Crisis
-- Pirate leagues, embargo spirals.
-- Coup of the Fifth Ledger.
-- Canon set: FE-SA-B2-WIT-001..120
-
-*** Arc IV — The Quiet Partition
-- Administrative split masked as reform.
-- Child hostage treaties.
-- Canon set: FE-SA-B2-ANN-151..220
-
-** Book III: /Surface and Last Year/
-*** Arc I — Iron Roads and Surface Doctrine
-- TA expansion inland and upward.
-- Bureaucratic faith in metrics.
-- Canon set: FE-TA-B3-ANN-001..100
-
-*** Arc II — The Two Famines
-- Logistics success without food justice.
-- Mutiny of Road-Wardens.
-- Canon set: FE-TA-B3-WIT-121..220
-
-*** Arc III — Lantern Riots to Border Fires
-- Legitimacy collapse.
-- Provisional councils.
-- Canon set: FE-LA-B3-ANN-001..130
-
-*** Arc IV — The Last Year
-- Month-by-month unraveling.
-- Dissolution decrees.
-- Memory politics after the fall.
-- Canon set: FE-LA-B3-EDI-131..200; FE-LA-B3-WIT-221..320
-
-** Cross-Book Thematic Threads
-- Salt as treasury and wound.
-- Banner symbolism and changing sovereignty.
-- Archive integrity versus propaganda.
-- Infrastructure as promise, then burden.
-
-** Appendix Plan
-- Reigning Houses roll by Age.
-- Canon index by reliability.
-- Map notes and toponym changes.
-
-#+TITLE: The Standard of Flagartha
-#+SUBTITLE: Book I of the Flag-Empires Chronicle
 
 * Arc 1: 'The Wind Before Names'
 The world was cloth before it was cloth. In the earliest memory-cycles, the Dawn Age, banners were wind's signatures on stone. Tribes who traced the migrations of birds found that cloth, when left to weather on high peaks, absorbed the memory of storms. They called it "storm-laughter" and wore it as a mark of having survived the year's first gale. The clans of the Dry Hills recorded their ages not by suns but by the number of cloths they had tattered and rewoven. [Canon: FE-DA-B1-ANN-001 | Year: DA 1]
@@ -320,7 +326,7 @@ The last memory-cycle of the Dawn Age ended with a great gathering at Stone-Whis
 I saw the last unity-cloth lowered at Stone-Whistle. It was a cloth of many colors, and it fell like a great bird landing. The Seal-Keeper said it was the end of an age, but I thought it was the beginning of something else. The wind took the cloth and carried it away, and we watched it until it was gone.
 #+end_quote
 
-= Arc 2: Raising the First Mast-City =
+* Arc 2: Raising the First Mast-City
 
 The chronicle now turns to the founding of Kher Valaan, the first Mast-City, and the binding of House Talar to river and ridge. In these years, the banner's cloth was still wet with dye, and the wind had not yet learned to speak its name.
 
@@ -640,34 +646,6 @@ The revelation of the chest's contents did not end the disputes, but it did end 
 I saw the last rite performed. The Seal-Keepers stood in a circle, but their faces were turned away from one another. The Banner-Lord raised the seven cloths, but the wind did not stir. When the rite was over, the Seal-Keepers left without a word, and the mast stood empty against the sky.
 #+end_quote
 
-
-#+TITLE: The Crescent of Flagistan
-#+SUBTITLE: Book II of the Flag-Empires Chronicle
-
-* Arc 1: Crossing to the Crescent Coasts
-** Overview
-In this arc, the eastern seaboard of the peninsula transitions from inland caravan governance to maritime dominion. The Admirals' Council assumes control of coastal trade, establishes the first salt courts, and founds the port of Crescent Harbor as the seat of the Crescent Authority. This period marks the beginning of the Second Age of Salt.
-
-** Key Events
-- FE-SA-B2-ANN-001: The Admirals' Council convenes in Port Ironwood and ratifies the Charter of the Crescent Authority.
-- FE-SA-B2-ANN-002: The first salt courts are established at Crescent Harbor and Saltspire.
-- FE-SA-B2-ANN-003: The flagship *Silver Wave* is launched from the Ironwood shipyards.
-- FE-SA-B2-ANN-004: The Crescent Authority issues the first Merchant Code.
-- FE-SA-B2-ANN-005: Port Ironwood is renamed Crescent Harbor.
-
-** Chronology
-| Year | Event Canon ID | Description |
-|------|----------------|-------------|
-| SA 1 | FE-SA-B2-ANN-001 | Admirals' Council convenes in Port Ironwood |
-| SA 2 | FE-SA-B2-ANN-002 | First salt courts established |
-| SA 3 | FE-SA-B2-ANN-003 | *Silver Wave* launched |
-| SA 4 | FE-SA-B2-ANN-004 | First Merchant Code issued |
-| SA 5 | FE-SA-B2-ANN-005 | Port Ironwood renamed Crescent Harbor |
-
-** Major Figures
-- Admiral Kethra, first Seal-Keeper of the Crescent Authority
-- Captain Lirion, master shipwright of the *Silver Wave*
-- Magistrate Voren, founder of the Saltspire salt court
 
 ** Map
 #+begin_quote
@@ -1137,6 +1115,103 @@ In the month of westward dust the Fifth Banner crossed the Dry Seam, and no bell
 - The economic cost of the crisis, measured in lost trade and destroyed infrastructure, was incalculable.
 - The cultural cost, measured in the erosion of trust and the collapse of institutions, may never be fully understood.
 
+* Arc 3: The Hundred Harbors Crisis
+
+The salt winds had tasted too much blood when the pirate leagues first gathered in the Scar Islands. Their banners flew no allegiance to house or harbors, only to coin and tide. What began as merchant-ship robbery swelled into something more dangerous: organized warfare against the very concept of orderly trade. The Hundred Harbors Crisis would leave half the coastal cities smoldering and end with the Coup of the Fifth Ledger, when the Salt Courts turned their seals against the Banner-Lords themselves.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-001 | Year: SA 387]
+The pirate captain wore a coat of seven stolen colors, each stripe torn from a merchant banner. When we asked her name, she laughed and said she was the daughter of every ship she had ever taken. Her crew cheered, and the gulls overhead wheeled like omens of storm.
+#+end_quote
+
+** The Scar Islands Compact
+
+[Canon: FE-SA-B2-WIT-009 | Year: SA 387]
+
+In the autumn of SA 387, nine pirate captains met in the coral fortress of Skull Reef, largest of the Scar Islands. They had come not to divide spoils but to organize rebellion. The merchant fleets of the Hundred Harbors had grown fat on regulated trade routes, their cargo vessels sailing predictable schedules between predictable ports. The pirates called this the "merchant's curse"—too much wealth moving along too few paths.
+
+The Compact they signed was written on sailcloth in squid ink, signed with thumbprints pressed in stolen seal-wax. Each captain would contribute ships to a common fleet, but retain command of their own crews. Raids would be coordinated through a system of signal fires lit on the highest peaks of the Scar Islands. Most significantly, they agreed to target not just individual ships, but entire trade routes.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-015 | Year: SA 388]
+The first coordinated raid struck the Amber Route in three places simultaneously. By dawn, eighteen merchant vessels burned in the harbor of Goldwhisper, and their cargo of northern timber floated like grave-markers on the tide.
+#+end_quote
+
+** The Embargo Spirals Begin
+
+[Canon: FE-SA-B2-WIT-023 | Year: SA 389]
+
+The merchant houses responded to pirate attacks as they always had: by raising prices to cover losses. But the Scar Islands Compact had disrupted so many routes that basic goods became scarce in the coastal cities. Salt, the foundation of the Second Age economy, jumped to thrice its normal price when the pirates learned to target the salt barges specifically.
+
+The Banner-Lords tried to break the spiral by hiring more guards for merchant ships, but the additional cost drove prices even higher. Worse, the guards often proved ineffective against the well-coordinated pirate fleets. Some guard captains were revealed to be taking payment from both merchants and pirates, feeding information about ship movements to their supposed enemies.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-031 | Year: SA 390]
+At the fish market in Crescent Harbor, a woman offered to trade her silver bracelet for a handful of salt. The salt-seller refused, saying silver was worth nothing if the salt roads stayed closed. Children began to cry, and their mothers had no salt to preserve food for the winter ahead.
+#+end_quote
+
+The embargo spirals fed on themselves. As trade became more dangerous and expensive, fewer merchants were willing to risk their ships. This reduced the supply of goods even further, driving prices higher still. City populations, dependent on trade for everything from food to cloth, began to suffer genuine hardship. The Banner-Lords, whose authority rested on their ability to maintain prosperous commerce, found their legitimacy crumbling with every empty market stall.
+
+** The Salt Courts Turn
+
+[Canon: FE-SA-B2-WIT-042 | Year: SA 392]
+
+The Salt Courts, originally established to regulate maritime trade disputes, found themselves overwhelmed with cases of embargo, piracy, and merchant default. More troubling, they began to uncover evidence that some Banner-Lords were secretly negotiating with pirate captains, offering safe passage for their own ships in exchange for attacks on rivals.
+
+Magistrate Kellan of the Silvermouth Court called for an extraordinary session to investigate these allegations. The evidence was damning: sealed letters promising pirate captains territorial concessions, payments made through intermediaries, and shipping schedules leaked just hours before attacks. The most serious accusation was that Banner-Lord Thane of the Iron Coast had provided the pirates with military-grade weapons in exchange for their promise to blockade his rival's ports.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-055 | Year: SA 393]
+The Banner-Lord of Iron Coast stood before the Salt Court with his hands stained purple—not from noble dye, but from the squid ink of pirate contracts. His own seal-keeper read the charges aloud, and with each word, the accused man seemed to shrink smaller in his ceremonial robes.
+#+end_quote
+
+** The Fifth Ledger Conspiracy
+
+[Canon: FE-SA-B2-WIT-067 | Year: SA 394]
+
+The investigation into Banner-Lord corruption led to a more shocking discovery: a secret alliance between corrupt Banner-Lords and the most powerful merchants, coordinated through coded entries in their accounting ledgers. The "Fifth Ledger" was a shadow record that tracked illegal payments, bribery, and collusive price-fixing that had been undermining legitimate trade for years.
+
+The Fifth Ledger revealed that the pirate crisis was not an external threat but a manufactured one. Certain powerful merchants had been funding pirate attacks on their competitors while ensuring their own ships safe passage. The Banner-Lords who participated received shares of the inflated profits that resulted from artificial scarcity.
+
+Most damaging of all, the Fifth Ledger showed that some Salt Court magistrates were also involved, accepting payment to dismiss charges against certain merchants and pirates while prosecuting their victims more aggressively.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-078 | Year: SA 395]
+When they opened the vault beneath the Emerald Harbor courthouse, they found not legal documents but piles of gold and silver, each coin marked with tiny symbols indicating which bribes it represented. The symbols were carved so small that magnifying glasses were needed to read them, and the code was written in ancient script that only the most educated scribes could decipher.
+#+end_quote
+
+** The Coup of the Fifth Ledger
+
+[Canon: FE-SA-B2-WIT-089 | Year: SA 396]
+
+The revelation of the Fifth Ledger triggered a revolt within the Salt Courts themselves. Led by Magistrate Kellan and a cohort of uncorrupted judges, the courts declared that they would no longer recognize the authority of any Banner-Lord implicated in the conspiracy. This was unprecedented: the courts had been created by the Banner-Lords, yet now they claimed independent authority to judge their creators.
+
+The "Coup of the Fifth Ledger" was not a military takeover but a legal one. The rebel magistrates seized the official seals of their courts and declared that all contracts signed under the corrupt system were void. They issued warrants for the arrest of seventeen Banner-Lords and demanded the immediate seizure of all assets recorded in the Fifth Ledger.
+
+Several Banner-Lords attempted to resist by calling up their private guards, but the populations of the coastal cities rose in support of the courts. Citizens who had suffered through years of artificial scarcity and inflated prices were eager to see justice done. The guards, many of whom came from ordinary merchant families, refused to fight their own relatives and neighbors.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-098 | Year: SA 397]
+The Banner-Lord of Golden Bay tried to escape by ship, but his own captain—a woman whose father had lost his trading vessel to manufactured piracy—turned the ship around and delivered him to the Salt Courts in chains. She said later that she had signed on to serve a Banner-Lord, not a common thief who wore a crown.
+#+end_quote
+
+** The Reckoning
+
+[Canon: FE-SA-B2-WIT-105 | Year: SA 398]
+
+The aftermath of the coup was swift and severe. Thirteen Banner-Lords were stripped of their titles and sentenced to work the salt mines they had once taxed. The pirate captains, deprived of their secret sponsors, found themselves facing a coordinated naval response from the newly honest merchant fleets. Most surrendered within a year, though some fled to distant waters.
+
+The corrupt merchants faced bankruptcy as their manipulated monopolies collapsed and fair competition returned to the markets. Prices of basic goods fell rapidly, but the economic damage of years of artificial scarcity could not be immediately repaired. Many coastal cities required years to rebuild their depleted populations and industries.
+
+The Salt Courts emerged from the crisis with unprecedented power and independence. They were no longer merely trade regulators but had proven themselves capable of judging even the highest authorities. This transformation would have profound consequences for the balance of power in the Second Age.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-120 | Year: SA 399]
+We swept the courthouses clean and built new podiums for the magistrates, raising them higher than the old ones. The Banner-Lords would still bring their disputes to court, but never again would they sit above the judges. The salt and the sea had shown us that justice must flow like water—always seeking the lowest and most honest place.
+#+end_quote
+
+The Hundred Harbors Crisis marked the end of the Banner-Lords' unchallenged authority over maritime trade. The Salt Courts had tasted independence and would not willingly surrender it. The Second Age had survived its greatest internal threat, but the power structures that emerged from the crisis would prove unstable in their own way. The seeds of the later administrative partition were sown in the Salt Courts' triumph over corruption, for once the courts could judge Banner-Lords, the question arose: who, if anyone, could judge the courts themselves?
+
 * Arc 4: The Quiet Partition
 
 In the year SA 427, beneath the vaulted silence of the Salt Courts, the Fifth Banner-Lord signed the Partition Charter. No drums sounded. No banners were lowered. The charter was inked in violet—halfway between mourning and triumph—and distributed across four Mast-Cities: Flagartha, Silvermouth, Ironkeep, and Harborhold. Each received a sealed copy, each swore it had always been the rightful capital.
@@ -1263,8 +1338,6 @@ But the legend of the Last Banner was just that—a legend. The empire was gone,
 And so the world moved on, and the legend of the Last Banner became just another story, another tale to be told around the fire, another dream to be dreamed in the dark. But for those who remembered the old empire, who had seen the banners fly and the Salt Courts rule, the legend of the Last Banner would always be more than just a story. It would be a reminder of what had been lost, of what had been taken away, and of what might one day be regained.
 
 
-#+TITLE: Surface and Last Year
-#+SUBTITLE: Book III of the Flag-Empires Chronicle
 
 * Arc 1: Iron Roads and Surface Doctrine
 [Year Span: TA 001 - TA 030]
@@ -1503,8 +1576,7 @@ The council met for the last time at the river, and I was there. I saw them ligh
 The fires came to the city walls, and I watched them from the top of the tower. I saw the people on the walls, and I saw that they were afraid. But they did not run, and they did not fight. They simply waited, and when the fires reached them, they did not scream. They simply disappeared into the smoke.
 #+end_quote
 
-* The Last Year
-** Arc 4: Dissolution
+* Arc 4: The Last Year
 *** Month of Weeping (First Month of the Last Year)
 #+begin_quote
 [Canon: FE-LA-B3-EDI-131 | Year: LA 1]
@@ -1623,4 +1695,80 @@ In the highlands, Eron the Red raised a new banner—a red field with a white sa
 #+end_quote
 
 The seventh month was a time of memory, but also a time of new beginnings. The empire was gone, but its legacy lived on. And though the Last Year had ended, its story was far from over.
+
+
+* Appendices
+
+** Reigning Houses Roll by Age
+
+*** Dawn Age (DA)
+- *Hill Clans of Silver-Shriek*: Unnamed leaders, succession by storm-survival
+- *Deep-Grumble Valley Folk*: Council of Elders, seasonal rotation
+- *Wind-Cut Clan*: Cloud-Rider (first recorded Banner-Lord), inherited leadership
+- *Stone-Whistle Keepers*: Ash-Cloth and successors (Seal-Keeper lineage)
+
+*** First Age of Banners (FA)  
+- *House Talar of Kher Valaan*: Zira Talar (Founder, FA 012-037), succession through banner-binding ritual
+- *Green Rock Banner-Lords*: Multiple claimants during East March Uprisings (FA 115-123)
+- *Iron Banner Dynasty*: Consolidated rule post-Lantern Peace (FA 123-170)
+
+*** Second Age of Salt (SA)
+- *Crescent Authority*: Admiral Kethra (SA 001-018), semi-hereditary Admirals' Council
+- *Salt Court Magistrates*: Independent judiciary post-Fifth Ledger Coup (SA 396-427)
+- *Banner-Lords of the Hundred Harbors*: Fragmented rule, thirteen stripped of titles (SA 398)
+
+*** Third Age of Iron Roads (TA)
+- *Surface Doctrine Council*: Bureaucratic collective leadership (TA 001-030)
+- *Road-Warden Commands*: Military governors of infrastructure zones (TA 015-085)
+
+*** Last Age (LA)
+- *Interim Council*: Remnant authority during dissolution (LA 001)
+- *Provincial Successors*: Eron the Red of Free March, others unnamed in surviving records
+
+** Canon Index by Reliability Class
+
+*** Class R1 (Seal-Certain: Multiple sealed archives concur)
+- FE-FA-B1-EDI-005: Heart-thread decree establishing vassal banner markers
+- FE-SA-B2-ANN-001: Charter of the Crescent Authority ratification  
+- FE-LA-B3-EDI-131: First dissolution decree of eastern provinces
+- FE-LA-B3-EDI-200: Final imperial dissolution proclamation
+
+*** Class R2 (Court-Strong: Court copies align, minor provincial variants)
+- FE-FA-B1-ANN-098-170: East March consolidation records
+- FE-SA-B2-ANN-002-070: Salt Court establishment and early operations
+- FE-TA-B3-ANN-001-100: Iron Roads construction chronicles
+
+*** Class R3 (Field-Mixed: Military logs conflict with civic rolls)
+- FE-FA-B1-ANN-115-130: East March uprising casualty reports
+- FE-SA-B2-WIT-042-088: Fifth Ledger conspiracy investigation testimony
+- FE-TA-B3-WIT-121-220: Two Famines logistics versus civilian accounts
+
+*** Class R4 (Witness-Torn: Eyewitness testimony contradictory)
+- FE-DA-B1-WIT-001: Unity-cloth lowering at Stone-Whistle
+- FE-SA-B2-WIT-001-120: Hundred Harbors Crisis pirate activities
+- FE-LA-B3-WIT-221-320: Last Year dissolution eyewitness accounts
+
+*** Class R5 (Ash-Lost: Survives only through later quotation)
+- FE-DA-B1-ANN-005-020: Late Dawn Age memory-cycle records
+- FE-LA-B3-WIT-124: Border fire witness testimony (quoted in later sources)
+
+** Disputed Entries
+
+*** DS-01: Duration of East March Uprisings
+- *Position A*: Two years (FA 115-117) per Salt Court records
+- *Position B*: Three years (FA 115-118) per Road-Warden logs  
+- *Position C*: Ongoing low-level resistance until FA 123 per witness fragments
+- *Adjudication*: Seal-Keeper ruling favors Position A for major hostilities, acknowledges Position C for residual unrest
+
+*** DS-02: Pirate League Membership Count
+- *Position A*: Nine founding captains per Scar Islands Compact
+- *Position B*: Twelve active captains at peak operations
+- *Position C*: Over twenty vessels participated in coordinated raids
+- *Adjudication*: Distinction made between founding captains (nine), active captains (variable), and participating vessels (numerous)
+
+*** DS-03: Last Year Dissolution Timeline
+- *Position A*: Seven months from first decree to final partition
+- *Position B*: Twelve months including provisional authority period
+- *Position C*: Ongoing process continuing beyond chronicle's scope
+- *Adjudication*: Seven-month timeline reflects official dissolution decrees; longer periods reflect practical transition complexities
 
