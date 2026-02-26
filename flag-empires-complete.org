@@ -1,0 +1,1626 @@
+* Style Bible of the Banner Annals
+
+** Purpose
+This codex governs diction, cadence, chronology, and referential method for the Flag-Empires corpus. The tone is high chronicle, grave but lucid, with periodic lyrical expansion. Every chapter shall move between three registers: annal, witness, and lament.
+
+** Core Register
+- Prefer long, rolling sentences for historical sweep.
+- Break into short, hard clauses for battle, famine, betrayal, and decree.
+- Keep names consistent by canonical form.
+- Use archaic flavor sparingly; clarity is law.
+
+** Temporal Architecture
+The history is divided into numbered Ages and Year-Counts.
+- DA: Dawn Age, before imperial calendars.
+- FA: First Age of Raising Banners.
+- SA: Second Age of Salt and Coin.
+- TA: Third Age of Iron Roads.
+- LA: Last Age, ending in the Last Year.
+
+All narrative events must include a Canon ID and at least one date mark in one of these systems.
+
+** Canon ID Syntax
+Format: FE-<AGE>-<BOOK>-<SERIES>-<ITEM>
+Example: FE-SA-B2-ANN-044
+Where:
+- AGE: DA, FA, SA, TA, LA
+- BOOK: B0 (meta), B1, B2, B3
+- SERIES: ANN (annal), EDI (edict), WIT (witness), MAP, LIN, RIT
+- ITEM: three-digit index
+
+** Required Sections per Major Chapter
+1. Heading with year-span.
+2. Annals snippet block.
+3. Narrative prose.
+4. Optional witness fragments.
+5. Canon references list.
+
+** Annals Snippet Form
+Use fixed pattern:
+#+begin_quote
+[Canon: FE-SA-B2-ANN-044 | Year: SA 233]
+In the month of westward dust the Fifth Banner crossed the Dry Seam, and no bell was rung in greeting.
+#+end_quote
+
+** On Peoples and Polities
+Avoid caricature. Every polity must contain factions, internal memory, and contradictory virtues.
+
+** Lexicon Standards
+- Use “Banner-Lord” for supreme military ruler.
+- Use “Seal-Keeper” for civil archivist authority.
+- Use “Mast-City” for fortified capital.
+- Use “Salt Courts” for mercantile tribunals.
+- Use “Road-Wardens” for imperial logistics corps.
+
+** Refrains and Recurring Images
+Approved motifs:
+- Cloth in wind as omen of legitimacy.
+- Salt as covenant and corruption.
+- Lantern smoke as persistence of memory.
+- River mouths as thresholds of empire.
+
+** Prohibitions
+- No placeholder markers.
+- No modern slang.
+- No unexplained retcons.
+- No chapter without at least three Canon IDs.
+
+** Editorial Coherence Rules
+- When uncertain between two dates, record both in annal dispute note.
+- Distinguish between archive fact and witness belief.
+- Preserve contradictory testimony; reconcile only with evidence.
+
+** Pronunciation and Orthography Guide
+- Flagartha: FLAH-gar-tha.
+- Flagistan: FLAH-jis-tan.
+- Surfacers: SUR-fay-sers.
+- Kharad Tines: KHA-rad TEENS.
+
+** End Matter Standard
+Each book ends with:
+- Roll of reigning houses.
+- Disputed entries.
+- Losses uncounted.
+
+* Canon Schema of Flag-Empires
+
+** Canon Tables
+
+*** Ages
+| Code | Name                     | Scope |
+|------+--------------------------+-------|
+| DA   | Dawn Age                 | Mythic pre-calendar era |
+| FA   | First Age of Banners     | Foundation and unification |
+| SA   | Second Age of Salt       | Maritime wealth and fracture |
+| TA   | Third Age of Iron Roads  | Mechanized reach and unrest |
+| LA   | Last Age                 | Decline, partition, and last year |
+
+*** Book Mapping
+| Book | Title Segment |
+|------|---------------|
+| B0   | Meta and apparatus |
+| B1   | The Standard of Flagartha |
+| B2   | The Crescent of Flagistan |
+| B3   | Surface and Last Year |
+
+** Entity Prefixes
+- POL: polity
+- PER: person
+- LOC: location
+- EVT: event
+- TXT: text witness
+- RIT: ritual
+
+** Identifier Rules
+Global entity IDs: FE-<TYPE>-<BOOK>-<NNN>
+Examples:
+- FE-POL-B1-003
+- FE-PER-B2-119
+- FE-LOC-B3-041
+
+Event IDs are always paired with canonical chapter IDs.
+
+** Dynastic Line Model
+Dynasty record fields:
+- House Name
+- Banner Color Rite
+- Founding Claim
+- Legitimation Texts
+- Succession Method
+- Catastrophic Breaks
+
+** Annal Reliability Classes
+| Class | Name         | Meaning |
+|-------+--------------+---------|
+| R1    | Seal-Certain | Multiple sealed archives concur |
+| R2    | Court-Strong | Court copies align; provincial variants minor |
+| R3    | Field-Mixed  | Military logs conflict with civic rolls |
+| R4    | Witness-Torn | Eyewitness testimony contradictory |
+| R5    | Ash-Lost     | Survives only through later quotation |
+
+** Timeline Schema
+Each timeline row:
+- Year Code
+- Event Canon ID
+- Locale ID
+- Principal IDs
+- Reliability Class
+- One-line synopsis
+
+** Ritual Schema
+Ritual entries must state:
+- Officiant class
+- Required objects
+- Gesture order
+- Spoken formula
+- Political meaning
+
+** Example Canon Blocks
+#+begin_quote
+[Canon: FE-FA-B1-ANN-001 | Reliability: R2 | Locale: FE-LOC-B1-001]
+The First Mast was raised from cedar taken above the cloudline, and every valley sent cloth to be cut into one wind.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-SA-B2-EDI-017 | Reliability: R1 | Locale: FE-LOC-B2-004]
+By decree of the Salt Court no river toll shall exceed one hand of white crystal per loaded axle.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-202 | Reliability: R4 | Locale: FE-LOC-B3-090]
+I saw three banners over one gate before noon, and none by dusk; men swore they had always been loyal to whichever cloth still flew.
+#+end_quote
+
+** Dispute Annotation Protocol
+When records disagree, append:
+- Dispute tag: DS-<NN>
+- Positions A/B/C
+- Source text IDs
+- Adjudication note by Seal-Keeper
+
+** Manuscript Assembly Rules
+The complete volume concatenates in order:
+1. Style Bible
+2. Canon Schema
+3. Master Outline
+4. Book I
+5. Book II
+6. Book III
+
+No section may remain empty.
+
+* Master Outline of /Flag-Empires/
+
+** Global Span
+From the first cloth-signs above the basalt terraces to the administrative dissolution in the Last Year.
+
+** Book I: /Flagartha/
+*** Arc I — The Wind Before Names
+- DA memory cycles and proto-banners.
+- Hill clans and salt-gift compacts.
+- Canon set: FE-DA-B1-ANN-001..020
+
+*** Arc II — Raising the First Mast-City
+- Founding of Kher Valaan.
+- House Talar binds river and ridge.
+- Canon set: FE-FA-B1-ANN-021..090
+
+*** Arc III — Consolidation and Covenant Wars
+- Banner fealties standardized.
+- East March uprisings.
+- Lantern Peace and hidden reprisals.
+- Canon set: FE-FA-B1-ANN-091..170; FE-FA-B1-EDI-001..030
+
+*** Arc IV — Crown of Seven Cloths
+- Peak of Flagarthan integration.
+- Ritualization of succession.
+- Seeds of maritime dependency.
+- Canon set: FE-FA-B1-RIT-001..022
+
+** Book II: /Flagistan/
+*** Arc I — Crossing to the Crescent Coasts
+- Admirals granted semi-hereditary charter.
+- Founding of salt courts.
+- Canon set: FE-SA-B2-ANN-001..070
+
+*** Arc II — Coin, Grain, and Fracture
+- Trade boom and inequality.
+- Provincial military autonomy.
+- Canon set: FE-SA-B2-ANN-071..150; FE-SA-B2-EDI-031..080
+
+*** Arc III — The Hundred Harbors Crisis
+- Pirate leagues, embargo spirals.
+- Coup of the Fifth Ledger.
+- Canon set: FE-SA-B2-WIT-001..120
+
+*** Arc IV — The Quiet Partition
+- Administrative split masked as reform.
+- Child hostage treaties.
+- Canon set: FE-SA-B2-ANN-151..220
+
+** Book III: /Surface and Last Year/
+*** Arc I — Iron Roads and Surface Doctrine
+- TA expansion inland and upward.
+- Bureaucratic faith in metrics.
+- Canon set: FE-TA-B3-ANN-001..100
+
+*** Arc II — The Two Famines
+- Logistics success without food justice.
+- Mutiny of Road-Wardens.
+- Canon set: FE-TA-B3-WIT-121..220
+
+*** Arc III — Lantern Riots to Border Fires
+- Legitimacy collapse.
+- Provisional councils.
+- Canon set: FE-LA-B3-ANN-001..130
+
+*** Arc IV — The Last Year
+- Month-by-month unraveling.
+- Dissolution decrees.
+- Memory politics after the fall.
+- Canon set: FE-LA-B3-EDI-131..200; FE-LA-B3-WIT-221..320
+
+** Cross-Book Thematic Threads
+- Salt as treasury and wound.
+- Banner symbolism and changing sovereignty.
+- Archive integrity versus propaganda.
+- Infrastructure as promise, then burden.
+
+** Appendix Plan
+- Reigning Houses roll by Age.
+- Canon index by reliability.
+- Map notes and toponym changes.
+
+#+TITLE: The Standard of Flagartha
+#+SUBTITLE: Book I of the Flag-Empires Chronicle
+
+* Arc 1: 'The Wind Before Names'
+The world was cloth before it was cloth. In the earliest memory-cycles, the Dawn Age, banners were wind's signatures on stone. Tribes who traced the migrations of birds found that cloth, when left to weather on high peaks, absorbed the memory of storms. They called it "storm-laughter" and wore it as a mark of having survived the year's first gale. The clans of the Dry Hills recorded their ages not by suns but by the number of cloths they had tattered and rewoven. [Canon: FE-DA-B1-ANN-001 | Year: DA 1]
+
+The Hill clans were never one people. Each valley named itself after the sound its river made against rock. The people of Silver-Shriek built their first permanent markers from bundled reeds painted with ochre spirals. The folk of Deep-Grumble raised stone cairns that whistled in crosswinds. When clans met at the Salt-Gift Fairs, they exchanged cloths dyed with the same mineral but folded in different counts. The Salt-Gift was both trade and oath: salt for cloth, cloth for salt, salt to seal the oath, oath to bind the salt. [Canon: FE-DA-B1-ANN-002 | Year: DA 12]
+
+No banner yet flew above a mast. Instead, cloths were tied to the horns of sacred oxen that walked the borders between clans. To follow the ox was to accept the cloth's judgment. When two cloths met at a crossroads, the ox would kneel toward the cloth whose dye held the deepest mineral stain. That clan claimed the crossroads for one turning of the moon. The ox-judges never spoke; they only knelt or stood. Their silence was the first law. [Canon: FE-DA-B1-ANN-003 | Year: DA 23]
+
+The Salt Courts emerged when the river mouths silted and the inland clans could no longer reach the sea. A council of salt-merchants from five valleys built a raft of bound cedar and floated it into the tide. There they laid out salt cakes in a circle and waited for the gulls to choose where to land. The landing pattern dictated the price of salt for the next season. Merchants who cheated the pattern found their salt shriveling in the cask before the moon waned. The Salt Courts judged not only salt but also the legitimacy of cloth exchanges. A cloth without mineral dye was called "wind-lie" and could not be traded. [Canon: FE-DA-B1-ANN-004 | Year: DA 31]
+
+The first great memory-cycle collapse came when a drought dried the riverbeds for three turning-seasons. Clans hoarded salt and cloth alike. The ox-judges wandered aimlessly, their horns stripped of dyed tassels. In the year of black springs, a child named Ash-Cloth wandered from the Silver-Shriek valley carrying a strip of undyed linen. She walked to the salt-raft and laid the cloth upon the salt circle. No gull landed. The cloth remained untouched until the next moon, when a single drop of rain fell upon it. The drop left a dark circle, and the merchants declared the cloth blessed. Ash-Cloth became the first Seal-Keeper, keeper of cloths that had survived calamity. [Canon: FE-DA-B1-ANN-005 | Year: DA 47]
+
+The Seal-Keeper's role was to record which cloths had been marked by storm, drought, or flood. She kept a ledger of mineral stains and their meanings. A cloth with three concentric circles meant the clan had survived three great storms. A cloth with a single dark streak meant the river had risen to the roof-beams. These records were kept in clay jars sealed with wax and buried beneath the oldest cairn. When a Seal-Keeper died, her successor had to dig up the jars and recite the stains aloud before the first snow. Failure meant the clan would lose its right to trade salt for the next year. [Canon: FE-DA-B1-ANN-006 | Year: DA 53]
+
+The memory-cycles were not always peaceful. In the year of the raven-cloth war, two clans claimed the same mineral spring. Each dyed their cloths with the spring's water and declared the color sacred. The ox-judges refused to kneel, for both cloths bore the same hue. The clans resorted to counting the number of times each cloth flapped in a crosswind. The cloth that flapped more often was declared victorious. The losing clan had to surrender its salt stores and weave a new cloth in the winner's pattern. This counting of flaps became known as the "wind-count verdict." [Canon: FE-DA-B1-ANN-007 | Year: DA 61]
+
+The first mast was not a mast at all but a lightning-struck tree left standing in the valley of Stone-Whistle. The tree's top was sheared off, leaving a smooth pole. A traveler from the east hung a strip of red cloth from it, claiming the color honored a bird whose cry warned of storms. Other travelers added their own cloths: blue for river memory, yellow for sun-heat, white for snow. The tree became a gathering place, and the cloths a record of who had passed. The Seal-Keeper of Stone-Whistle declared the tree a "memory-pole" and forbade its cutting. [Canon: FE-DA-B1-ANN-008 | Year: DA 74]
+
+The memory-pole's influence spread. Clans began to erect their own poles, each with a single cloth at first. The cloths were not yet banners; they were "pole-tokens." A pole-token could be challenged only by another pole-token of equal size and dye. Challenges were settled by having both cloths flap in a gale; the one that tore first lost the pole. This practice led to the first pole-wars, where entire valleys fought to keep their pole-tokens aloft. The wars ended when the Seal-Keeper of Stone-Whistle decreed that pole-tokens could only be challenged once per turning-season. [Canon: FE-DA-B1-ANN-009 | Year: DA 82]
+
+The year of the three floods brought a new understanding of cloth. When the rivers rose, they carried debris that snagged on the memory-poles. The debris—reeds, branches, animal hides—became tangled with the pole-tokens. Survivors noticed that the most resilient pole-tokens were those woven with multiple fibers. Clans began to weave cloths from wool, hemp, and river-reeds together. These "mixed-cloths" were said to hold the strength of all three elements. The Seal-Keeper of Stone-Whistle declared that mixed-cloths could not be challenged, for they represented unity. [Canon: FE-DA-B1-ANN-010 | Year: DA 97]
+
+The first true banner rose in the valley of Wind-Cut when a storm tore a pole-token into three pieces. The clan's weaver sewed the pieces back together with a thread of gold wire given as a gift from a passing merchant. The repaired cloth was larger than before and caught the wind with a deeper sound. The clan declared it a "storm-banner" and flew it from a newly raised mast. Other clans mocked the storm-banner as "patched pride" until a drought struck Wind-Cut and the storm-banner was seen to sweat droplets of moisture. The droplets were collected and used to bless the clan's crops. [Canon: FE-DA-B1-ANN-011 | Year: DA 104]
+
+The storm-banner's success led to a new era of mast-building. Clans competed to erect the tallest masts, believing height brought favor from the wind. The mast of Stone-Whistle was raised to twice the height of a man. The mast of Deep-Grumble reached three times a man's height. The mast of Silver-Shriek was felled by a lightning strike before it could be completed. The Seal-Keeper of Wind-Cut decreed that no mast could exceed the height of the tallest tree in the valley. This decree was ignored, and the mast-wars began. [Canon: FE-DA-B1-ANN-012 | Year: DA 119]
+
+The mast-wars ended not with a battle but with a fire. A mast in the valley of Ember-River caught fire from a lightning strike and fell across the river, igniting the reeds on both banks. The fire spread to three valleys before the clans united to create a firebreak. In the aftermath, the Seal-Keeper of Stone-Whistle called a council of all mast-keepers. They agreed to limit mast height and to share the responsibility of watching for lightning strikes. The council also agreed that each mast should fly a cloth bearing the colors of all clans, a "unity-cloth." [Canon: FE-DA-B1-ANN-013 | Year: DA 133]
+
+The unity-cloth was a compromise that satisfied no one. Clans still preferred their own colors, and the unity-cloth was often left to rot at the mast's peak while smaller, clan-specific cloths flew below it. The Seal-Keeper of Wind-Cut proposed a new system: each clan would fly its own cloth, but the unity-cloth would be raised only during the Salt-Gift Fairs. This system was accepted, and the unity-cloth became a symbol of temporary truce rather than lasting peace. [Canon: FE-DA-B1-ANN-014 | Year: DA 148]
+
+The first recorded banner-lord was a woman named Cloud-Rider who lived in the valley of Sky-Lean. She was a mast-keeper who also knew the art of weaving cloths that could catch the faintest breeze. Cloud-Rider led her clan in a dispute with the neighboring valley of Rock-Quiet over the right to a salt spring. Instead of challenging the pole-token, Cloud-Rider flew a new cloth from her mast—a cloth so large it could be seen from the next valley. The cloth bore a symbol of a bird in flight, and it seemed to move even when there was no wind. The people of Rock-Quiet surrendered the salt spring without a fight, claiming the bird-symbol was an omen. [Canon: FE-DA-B1-ANN-015 | Year: DA 162]
+
+Cloud-Rider's victory marked the beginning of the banner-lord era. Clans began to seek out weavers who could create cloths with symbols that inspired awe or fear. The Seal-Keeper of Stone-Whistle tried to regulate these symbols, but the weavers formed their own guild and refused to submit their designs for approval. The guild declared that symbols were the domain of the wind and could not be owned by any clan. This declaration led to the first symbol-wars, where clans fought over the right to use certain images on their cloths. [Canon: FE-DA-B1-ANN-016 | Year: DA 177]
+
+The symbol-wars ended when a drought struck the valleys and the weavers could no longer find the plants needed to create certain dyes. The shortage forced clans to share symbols and even colors. The Seal-Keeper of Wind-Cut declared a truce and ordered the weavers to create a new set of symbols that all clans could use. The weavers complied, and the new symbols were simple geometric shapes that could be made with any dye. The truce held for one turning-season, after which the clans returned to their old rivalries. [Canon: FE-DA-B1-ANN-017 | Year: DA 191]
+
+The year of the great wind brought a new understanding of banners. A storm swept through the valleys, tearing down masts and scattering cloths. When the storm passed, the clans found that the cloths which had survived were those that had been allowed to move freely in the wind. The Seal-Keeper of Stone-Whistle declared that banners should not be flown from fixed masts but from poles that could sway with the wind. This new practice, called "wind-dancing," spread quickly. Clans built flexible poles that bent in the wind, and the banners seemed to dance atop them. [Canon: FE-DA-B1-ANN-018 | Year: DA 206]
+
+The wind-dancing banners were a marvel, but they also posed a new problem. The flexible poles were prone to breaking in strong winds, and the banners would be lost. The Seal-Keeper of Wind-Cut proposed a solution: the poles should be anchored not in the ground but in large stones that could roll slightly. This allowed the poles to move without breaking, and the banners could dance more freely. The rolling-stone poles became a new standard, and the clans competed to create the most graceful banner dances. [Canon: FE-DA-B1-ANN-019 | Year: DA 221]
+
+The last memory-cycle of the Dawn Age ended with a great gathering at Stone-Whistle. All the clans came together to celebrate the end of the age and to prepare for the new one. They raised a single mast, taller than any before it, and flew a unity-cloth so large it could be seen from the highest peaks. The Seal-Keeper of Stone-Whistle declared that the Dawn Age had been an age of learning, and that the new age would be one of building. The clans agreed, and they lowered the unity-cloth as a sign of their commitment to the future. [Canon: FE-DA-B1-ANN-020 | Year: DA 233]
+
+#+begin_quote
+[Witness Fragment: FE-DA-B1-WIT-001 | Reliability: R4 | Locale: FE-LOC-B1-001]
+I saw the last unity-cloth lowered at Stone-Whistle. It was a cloth of many colors, and it fell like a great bird landing. The Seal-Keeper said it was the end of an age, but I thought it was the beginning of something else. The wind took the cloth and carried it away, and we watched it until it was gone.
+#+end_quote
+
+= Arc 2: Raising the First Mast-City =
+
+The chronicle now turns to the founding of Kher Valaan, the first Mast-City, and the binding of House Talar to river and ridge. In these years, the banner's cloth was still wet with dye, and the wind had not yet learned to speak its name.
+
+* Founding of Kher Valaan
+
+The valley of Kher Valaan was chosen not for its fertility but for its stillness. A river forked here, its two arms meeting in a shallow pool before running south toward the sea. On the eastern bank, a ridge of black stone rose like the back of a sleeping beast. The land had no name, and the people who lived there had no banners. They were hunters and gatherers, moving with the seasons, leaving no mark but fire circles and broken spearheads.
+
+[Canon: FE-FA-B1-ANN-021 | Year: FA 012]
+In the season of first thaw, scouts of House Talar came to the fork of the river. They found no city, no king, no temple. Only the black ridge and the water that moved between its feet.
+
+The Talar scouts were led by a woman named Zira, whose eyes were said to be the color of storm clouds. She stood on the ridge and watched the river for three days, noting the patterns of fish, the flight of birds, the way the wind carried the scent of distant forests. On the third night, she dreamed of a mast rising from the stone, a banner snapping in the wind, and a voice that said, *Here you will build.*
+
+When she woke, she sent runners back to the Talar camp with a single word: *Here.*
+
+The Talar arrived not as conquerors but as settlers. They brought cedar logs from the high forests, stone from the ridge, and cloth dyed in indigo and madder. The first structure they raised was not a palace but a watchtower, its base sunk deep into the black stone. From its top, they could see the river in both directions, the forests to the north, and the distant sea to the south.
+
+* House Talar Binds River and Ridge
+
+The binding of river and ridge was a ritual act, performed not by priests but by engineers and weavers. The engineers carved channels in the stone to guide the river's flow, creating basins for fish and mills for grinding grain. The weavers hung banners from the watchtower, each one a different color, each one catching the wind in a different way.
+
+[Canon: FE-FA-B1-ANN-034 | Year: FA 018]
+The first banner was blue, the color of the river's depths. It was raised at dawn, and the wind took it like a hand. The second was red, the color of the ridge's stone. It was raised at noon, and the sun made it glow. The third was white, the color of the clouds. It was raised at dusk, and the wind carried it into the dark.
+
+The binding was not only physical but spiritual. The Talar believed that the river and the ridge were living things, and that by building on them, they entered into a covenant. They offered the first fish caught in the new basins, the first grain ground in the new mills, the first cloth woven on the new looms. They sang songs to the river and the ridge, songs that had no words but only tones, rising and falling like water and stone.
+
+* The First Mast Rises
+
+The watchtower became the first mast. It was not tall by later standards, no more than thirty cubits high, but it was the tallest thing for a hundred leagues. On its top, they raised a banner of black and gold, the colors of House Talar. The wind caught it, and it snapped like a whip, and the sound carried across the valley.
+
+[Canon: FE-FA-B1-ANN-045 | Year: FA 023]
+On the day the first mast was raised, a storm came from the east. Lightning struck the ridge, and thunder shook the valley. The banner on the mast burned, but the cloth was not consumed. When the storm passed, the banner was still there, black and gold against the gray sky.
+
+The people of the valley watched from the forests and the hills. Some were afraid, thinking the storm a sign of anger. Others were curious, thinking it a sign of power. A few were hopeful, thinking it a sign of change. They came down to the river, carrying their few possessions, their children, their old ones. They asked to join the Talar, to help build the new city.
+
+Zira Talar, who was now the Banner-Lord, welcomed them. She said, *We do not build for ourselves alone. We build for all who come in peace.* She gave them land on the western bank, where they could farm and hunt and fish. She taught them the ways of the river and the ridge, the ways of the banner and the mast.
+
+* The City Grows
+
+Kher Valaan grew not in a single burst but in layers, like the rings of a tree. The first ring was the watchtower and the basins, the mills and the looms. The second ring was the houses of the Talar and their closest allies. The third ring was the houses of the valley people who had joined them. The fourth ring was the market, where goods from the forests and the sea were traded.
+
+[Canon: FE-FA-B1-ANN-056 | Year: FA 030]
+In the fifth year of the city, the market was opened. Merchants came from the north with furs and amber, from the east with salt and spices, from the south with shells and pearls. The market was held in a square at the foot of the ridge, and the banner of House Talar flew over it day and night.
+
+The city needed laws, and Zira Talar gave them. She said, *The river belongs to all, but the channels belong to those who dig them. The ridge belongs to all, but the houses belong to those who build them. The market belongs to all, but the scales belong to those who weigh.* She appointed judges to settle disputes, and they sat under the banner of House Talar, their decisions binding as the wind.
+
+* The First Harvest
+
+The first harvest was a time of joy and fear. The valley people had planted the fields with seeds given by the Talar, seeds of wheat and barley, beans and squash. They did not know if the crops would grow, or if they would be enough. When the fields turned gold and green, when the beans hung like pearls, when the squash lay on the ground like stones, they knew they had been blessed.
+
+[Canon: FE-FA-B1-ANN-067 | Year: FA 037]
+On the day of the first harvest, a feast was held in the market square. The Talar provided wine and meat, the valley people provided bread and vegetables. They ate together, sang together, danced together. The banner of House Talar flew over the feast, and the wind made it ripple like water.
+
+But the feast was also a warning. Zira Talar stood on the steps of the watchtower and said, *This harvest is not the end. It is the beginning. Next year, the river may flood. The ridge may shake. The wind may bring fire. We must be ready.* She ordered the building of granaries, the digging of wells, the weaving of nets. She said, *We store not for ourselves but for all who may come to us in need.*
+
+* The First Winter
+
+The first winter was hard, harder than any had expected. The river froze, the ridge was buried in snow, the wind howled like a beast. The granaries were full, but the people were hungry. The nets were woven, but the fish were gone. The houses were warm, but the cold came through the walls.
+
+[Canon: FE-FA-B1-ANN-078 | Year: FA 042]
+In the heart of winter, a child died of fever. His mother was from the valley, his father was a Talar. They buried him under the ridge, where the snow was shallow. They marked the grave with a stone, and on the stone they hung a small banner, white with a black border. It was the first funeral banner in Kher Valaan.
+
+Zira Talar came to the grave. She said, *We mourn, but we do not despair. The river will thaw. The ridge will stand. The wind will change.* She ordered the building of a temple at the foot of the ridge, a place where the living could speak to the dead, where the river could be honored, where the banner could be kept safe.
+
+* The Temple of the Banner
+
+The temple was not like the watchtower or the houses. It was round, with a roof of cedar shakes and walls of woven reed. In the center, a fire was kept burning day and night, fed by wood from the forests. Around the fire, banners were hung, each one representing a season, a river, a ridge, a house, a person.
+
+[Canon: FE-FA-B1-ANN-089 | Year: FA 048]
+The temple was opened on the first day of spring. The Banner-Lord Zira Talar stood before the fire and said, *This is the heart of Kher Valaan. Here we remember the river and the ridge. Here we honor the dead and the living. Here we keep the banner safe.* She hung the black and gold banner of House Talar on the eastern wall, where the rising sun would touch it first.
+
+The temple became the center of the city's life. People came to pray, to seek advice, to make offerings. They brought the first fruits of their fields, the first fish of the season, the first cloth from their looms. They asked for blessings on their houses, their children, their work. They asked for protection from the river's floods, the ridge's quakes, the wind's fires.
+
+* The Second Mast
+
+As Kher Valaan grew, so did its need for more masts. The first mast was the watchtower, but it was not enough. The city needed masts on the western bank, on the southern fields, on the northern forests. Each mast was a tower, each tower a watchpoint, each watchpoint a link in the chain of the banner's reach.
+
+[Canon: FE-FA-B1-ANN-090 | Year: FA 053]
+The second mast was raised on the western bank, opposite the first. It was built by the valley people, under the guidance of Talar engineers. It was not as tall as the first, no more than twenty cubits, but it was strong. On its top, they raised a banner of green and white, the colors of the valley. The wind took it, and it snapped like a whip, and the sound carried across the river.
+
+The raising of the second mast was a day of celebration. The Banner-Lord Zira Talar came to the western bank, and she spoke to the valley people. She said, *This mast is yours. This banner is yours. This city is yours, as much as it is ours.* She ordered the building of a bridge between the two banks, a bridge of stone and wood, strong enough to hold the weight of carts and horses.
+
+The bridge was finished before the next winter. It was the first bridge in the valley, the first link between the two sides of the river. It was a symbol of the city's unity, of the covenant between the Talar and the valley people, of the binding of river and ridge.
+
+* The City's Voice
+
+Kher Valaan now had a voice, and it was the voice of the banner. The banner spoke in the wind, in the snap of cloth, in the color of dye. It spoke of the river's flow, the ridge's strength, the city's growth. It spoke of the past and the future, of the dead and the living, of the covenant and the promise.
+
+[Canon: FE-FA-B1-ANN-101 | Year: FA 060]
+In the seventh year after the bridge, a stranger came to Kher Valaan. He was from the south, from a city of stone and glass, where the banners were silk and the masts were iron. He brought news of the world beyond the valley, of kings and empires, of wars and trade. He spoke of a great river to the south, wider than any in the valley, and of a sea beyond it, where the sun set in fire.
+
+The stranger was welcomed by the Banner-Lord Zira Talar. She listened to his stories, asked him questions, gave him food and shelter. She said, *We are small, but we are strong. We are few, but we are many. We are here, and we will stay.* She gave him a banner of black and gold, a small one, to take back to his city. She said, *Tell them of Kher Valaan. Tell them of the river and the ridge. Tell them of the covenant and the promise.*
+
+The stranger left, carrying the banner. He went south, toward the great river, toward the sea of fire. He told his stories, and the stories spread. They reached the ears of kings and merchants, of warriors and priests. They spoke of a city in a valley, of a banner in the wind, of a covenant in the stone.
+
+And so Kher Valaan became known, not as a place on a map, but as a name in the wind, a voice in the banner, a light in the dark.
+
+* Witness Fragments and Annal Snippets
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-012 | Reliability: R3 | Locale: FE-LOC-B1-002]
+I saw the first mast rise from the black stone. It was like a tree growing from rock, like a spear thrust into the sky. The Banner-Lord stood below it, her hands raised, her voice singing a song I did not know. The wind took the banner, and it snapped like a whip. I thought, *This is the beginning.*
+#+end_quote
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-034 | Year: FA 018]
+The first banner was blue, the color of the river's depths. It was raised at dawn, and the wind took it like a hand. The second was red, the color of the ridge's stone. It was raised at noon, and the sun made it glow. The third was white, the color of the clouds. It was raised at dusk, and the wind carried it into the dark.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-025 | Reliability: R4 | Locale: FE-LOC-B1-003]
+I was a child when the stranger came. He told us of cities we had never seen, of rivers we had never crossed, of seas we had never dreamed. He showed us a map, and on it was a dot, and he said, *This is Kher Valaan.* I looked at the dot, and I thought, *This is where I live. This is where I belong.*
+#+end_quote
+
+* Arc 3: Consolidation and Covenant Wars
+[Canon: FE-FA-B1-ANN-091 | Year: FA 091]
+
+The Iron Banner's shadow stretched over the foothills of the East March, where seven small banner-lords had long kept their own covenants with the soil and the seasons. Now they knelt at the Council of the Mast, swearing fealty beneath the same cloth that had once flown alone above Flagartha. The Seal-Keeper recorded each oath in wax, and the salt of the oath-rivers was mingled with that of the Great Harbor.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-098 | Year: FA 098]
+The Banner-Lord of Green Rock refused the oath. His men barred the passes, and the Iron Banner's advance halted at the Throat of Stone. For three moons the passes were closed, and traders starved. At last the Banner-Lord relented, but his banner flew a black stripe from that day.
+#+end_quote
+
+** The Standardization of Fealty
+[Canon: FE-FA-B1-ANN-101 | Year: FA 101]
+
+To bind the vassals, the Banner-Lord decreed that all banners must carry a strip of the Iron Banner's cloth stitched into their hoist. This "heart-thread" became both symbol and surveillance: a banner could be cut down, but the thread remained, proof of allegiance. The Salt Courts were instructed to inspect banners at every crossing, and fines were levied for missing threads.
+
+#+begin_quote
+[Canon: FE-FA-B1-EDI-005 | Year: FA 101]
+No banner shall be flown without the heart-thread. Any banner found without shall be forfeit, and its bearer shall pay in salt the weight of the cloth.
+#+end_quote
+
+** East March Uprisings
+[Canon: FE-FA-B1-ANN-115 | Year: FA 115]
+
+In the spring of FA 115, the harvests failed across the East March. The Banner-Lord of Green Rock, his pride still stung by the Throat of Stone incident, blamed the heart-thread decree for angering the soil spirits. He sent messengers to five other banner-lords, urging them to tear the threads and reclaim their old banners. The messengers were caught at the border, their tongues cut out by Road-Wardens. Yet the word spread.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-021 | Year: FA 115]
+We saw the banners come down at sunset. First Green Rock, then White Vale, then Iron Hill. By dawn, seven banners flew without the heart-thread, and the wind carried the smell of burning cloth.
+#+end_quote
+
+The Iron Banner's army marched east, but the passes were blocked by felled trees and rockfalls. The Banner-Lord of Green Rock had learned from the last siege. The army was forced to detour through the lowlands, where the rivers ran thick with mud and the roads turned to mire. By the time they reached Green Rock, winter had set in, and the army's supplies were dwindling.
+
+** The Lantern Peace
+[Canon: FE-FA-B1-ANN-123 | Year: FA 123]
+
+After two years of stalemate, the Banner-Lord of Green Rock proposed a truce. They would meet at the Lantern Fields, where the great stone lanterns were lit each autumn to guide the spirits of the dead. The Lantern Peace was sealed with a shared meal and the exchange of banners. The heart-threads were restored, but the Banner-Lord of Green Rock was granted a seat on the Council of the Mast, the first banner-lord of the East March to sit among the Iron Banner's councilors.
+
+#+begin_quote
+[Canon: FE-FA-B1-EDI-017 | Year: FA 123]
+By the light of the Lantern Fields, the Banner-Lord of Green Rock and the Banner-Lord of Iron Banner have sworn a new covenant. Let the heart-threads be a sign of unity, not of subjugation.
+#+end_quote
+
+** Hidden Reprisals
+[Canon: FE-FA-B1-ANN-130 | Year: FA 130]
+
+Yet the Lantern Peace was a fragile thing. In the years that followed, the Road-Wardens tightened their grip on the passes. Travelers were searched for forbidden banners, and any found were burned. The Salt Courts imposed heavier tolls on the East March, and the Banner-Lord of Green Rock's seat on the Council was little more than a token. Whispers spread of secret prisons where dissenters were taken, never to be seen again.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-035 | Year: FA 130]
+They say the prisons are beneath the old watchtowers, where the wind howls through the stones. No one who goes in ever comes out, and the banners that fly above are always the same.
+#+end_quote
+
+** The Covenant Wars
+[Canon: FE-FA-B1-ANN-145 | Year: FA 145]
+
+The tension came to a head in FA 145, when a group of banner-lords from the East March refused to pay the increased tolls. They argued that the Lantern Peace had guaranteed them equal standing, but the Salt Courts ruled against them. In response, the banner-lords raised their banners without the heart-threads once more, and this time they were joined by banner-lords from the South and West.
+
+The Covenant Wars raged for five years, with the Iron Banner's forces stretched thin across the realm. The banner-lords of the East March fought with a desperation born of years of resentment, and the Iron Banner's army found itself bogged down in a war of attrition. The roads were lined with burned villages, and the rivers ran red with blood.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-157 | Year: FA 157]
+The Banner-Lord of Iron Banner has decreed that any banner-lord who surrenders will be granted amnesty. Yet the roads are filled with the dead, and the heart-threads are torn and stained with blood.
+#+end_quote
+
+** The Treaty of the Three Rivers
+[Canon: FE-FA-B1-ANN-165 | Year: FA 165]
+
+In the end, it was the rivers that brought peace. The Banner-Lord of Iron Banner, his army exhausted and his treasury empty, agreed to meet the rebel banner-lords at the confluence of the Three Rivers. There, they signed the Treaty of the Three Rivers, which granted the East March greater autonomy and reduced the tolls. The heart-threads remained, but the banner-lords of the East March were allowed to add their own symbols to their banners.
+
+#+begin_quote
+[Canon: FE-FA-B1-EDI-029 | Year: FA 165]
+By the waters of the Three Rivers, the Banner-Lord of Iron Banner and the banner-lords of the East March have sworn a new covenant. Let the heart-threads be a sign of unity, and let the symbols of the East March be a sign of their pride.
+#+end_quote
+
+** Aftermath and Legacy
+[Canon: FE-FA-B1-ANN-170 | Year: FA 170]
+
+The Covenant Wars left deep scars on the realm. The East March remained a restless province, its banner-lords always watching for signs of betrayal. The Iron Banner's authority was weakened, and other provinces began to chafe under its rule. Yet the heart-threads remained, a symbol of the fragile unity that held the realm together.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-048 | Year: FA 170]
+I have seen the heart-threads torn and burned, and I have seen them restored. They are a sign of our unity, but also of our division. We are one realm, but we are many banners.
+#+end_quote
+
+* Arc 4: Crown of Seven Cloths
+The Fifth Age of the First Banner dawned not with trumpets but with the quiet raising of seven new cloths upon the mast-city's highest spire. Each cloth bore a color never before united under one pole: vermilion, indigo, saffron, emerald, silver, umber, and a seventh of midnight blue shot through with gold thread. The Banner-Lord who ordered this display, Kharad Tines, claimed descent from the first wind-carriers and summoned every Seal-Keeper from the valley strongholds to witness the unfurling.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-187 | Year: FA 421]
+The seventh cloth was raised at dawn, and the Seal-Keeper of the West spoke the old words of binding, though none alive had heard them in living memory.
+#+end_quote
+
+The ritual that followed lasted three days. Each Seal-Keeper brought a relic: a shard of the first mast, a splinter from the gate of the first citadel, a single thread said to have been torn from the cloak of the wind's first rider. These were placed in a bronze chest whose lid bore seven locks, each opened by a different oath-sworn hand. When the last lock fell away, the chest was sealed again, this time with a single iron clasp shaped like a mast-and-cloth.
+
+#+begin_quote
+[Canon: FE-FA-B1-RIT-001 | Reliability: R2 | Locale: FE-LOC-B1-002]
+The Seven Cloth Rite requires seven oath-sworn Seal-Keepers, a bronze chest, seven relic fragments, and a mast-shaped clasp. Failure to complete the rite within three days of the seventh cloth's raising is taken as a sign of divine withdrawal.
+#+end_quote
+
+Kharad Tines declared that from this day forward no Banner-Lord could rule without the assent of the Seal-Keepers and the completion of the rite. The declaration was engraved on a stone slab and set into the mast-city's foundation stone. Within a year, every valley stronghold had sent its own cloth to be dyed in the seven colors, and the banner of Flagartha became a patchwork of unity.
+
+Yet unity bore its own weight. The Seal-Keepers, once itinerant judges, now sat in council beneath the mast-city's great hall. Their debates over tolls, trade rights, and the movement of salt caravans grew long and bitter. Kharad Tines, mindful of the mast's fragility, ordered the construction of a second mast on an island three days' sail from the mainland. This island, called Salt's Edge, became a waystation for ships bearing southern dyes and northern timber.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-198 | Year: FA 434]
+The second mast was raised on Salt's Edge, and the first ship to dock beneath it flew a flag of seven stripes. The Seal-Keeper of the East declared the mast a blasphemy; the Seal-Keeper of the South called it a necessity.
+#+end_quote
+
+By FA 450, the mast-city's granaries held enough wheat to feed its people for three years, but the same granaries depended on ships from the southern coast to bring salt for preservation. The Seal-Keeper of the North, whose valleys produced no salt, began to speak of the sea as a new kind of valley, one that could be crossed but never owned. His words found favor among the younger Seal-Keepers, who saw in maritime trade a way to bind the valleys more tightly than any cloth could.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-012 | Reliability: R4 | Locale: FE-LOC-B1-005]
+I heard the Seal-Keeper of the North say that the sea was a valley turned inside out, and that the mast-city must learn to sail or be left behind. The old ones muttered that he spoke with the tongue of the wind's enemy.
+#+end_quote
+
+The rite of the seven cloths became a biennial event, celebrated in the month when the first autumn winds bent the valley grasses. Each celebration required the Seal-Keepers to travel to the mast-city, a journey that grew longer as the roads were repaired and guarded. The cost of these journeys, once borne by local strongholds, was now drawn from a central treasury funded by tolls on the Salt Roads.
+
+#+begin_quote
+[Canon: FE-FA-B1-RIT-007 | Reliability: R1 | Locale: FE-LOC-B1-002]
+The Biennial Seven Cloth Rite mandates the presence of all seven Seal-Keepers, the recitation of the Binding Oath, and the offering of a new relic to the bronze chest. Absence of any Seal-Keeper invalidates the rite and is taken as a sign of rebellion.
+#+end_quote
+
+Yet the very success of the rite bred new tensions. The Seal-Keeper of the West, whose valleys produced the indigo dye, began to charge tolls on all cloth entering his territory. The Seal-Keeper of the South, whose ports handled the saffron trade, imposed duties on every ship that passed his lighthouse. Kharad Tines, faced with dwindling central revenues, ordered the construction of a fleet to patrol the coast and enforce uniform tolls.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-223 | Year: FA 467]
+The first fleet was launched from Salt's Edge, bearing the seven-colored banner. The Seal-Keeper of the South refused to quarter the fleet in his ports; the Seal-Keeper of the West threatened to withhold indigo.
+#+end_quote
+
+The fleet's first voyage was a disaster. A storm off the southern cape scattered the ships, and two were lost with all hands. The survivors limped back to Salt's Edge, their sails in tatters. Kharad Tines, humiliated, ordered the construction of a new mast on the mainland, taller than the first, to show that the wind still favored Flagartha.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-018 | Reliability: R3 | Locale: FE-LOC-B1-006]
+I saw the new mast raised, and it was twice the height of the old. The Seal-Keepers stood in a circle around its base, each holding a cloth of their valley's color. When the top was reached, the cloths were tied together and let fall like a waterfall of light.
+#+end_quote
+
+The height of the mast became a point of pride, but also a vulnerability. A single fire, set by an unknown hand, consumed the new mast in a night. The Seal-Keepers accused one another of treachery; the Seal-Keeper of the East claimed the fire was divine punishment for the fleet's hubris, while the Seal-Keeper of the South whispered that the Seal-Keeper of the West had ordered the deed to protect his indigo monopoly.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-245 | Year: FA 489]
+The great mast burned in the night, and with it the seven cloths. The Seal-Keepers met in emergency council, but no consensus was reached. The bronze chest was sealed without the rite, and for the first time in living memory the banner of Flagartha flew without the seven colors.
+#+end_quote
+
+Kharad Tines, his authority shaken, ordered the construction of a third mast, this one of stone, to be built on the highest peak of the mainland. The Seal-Keepers protested that a stone mast could not catch the wind, but Kharad Tines insisted that the symbol mattered more than the function. The stone mast took ten years to complete, during which time the Seal-Keepers' councils grew more frequent and more fractious.
+
+#+begin_quote
+[Canon: FE-FA-B1-RIT-015 | Reliability: R2 | Locale: FE-LOC-B1-003]
+The Stone Mast Rite requires the presence of all seven Seal-Keepers, the offering of a stone tablet bearing the Binding Oath, and the raising of a stone mast upon the highest peak. The rite may only be performed once in a generation.
+#+end_quote
+
+When the stone mast was finally raised, it stood silent against the sky, its surface etched with the seven colors in mosaic form. The Seal-Keepers, gathered at its base, performed the rite without the seven cloths, using instead seven lanterns whose light, when hung upon the mast, cast the colors onto the surrounding peaks. The sight was said to be so beautiful that even the Seal-Keeper of the East wept, though whether from joy or sorrow none could say.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-025 | Reliability: R4 | Locale: FE-LOC-B1-007]
+I climbed the peak on the night of the rite. The lanterns cast their light upon the stone, and for a moment it seemed as though the mast itself was made of cloth. The Seal-Keepers stood in silence, and I heard one of them whisper that the wind had finally abandoned them.
+#+end_quote
+
+The success of the Stone Mast Rite did not end the Seal-Keepers' disputes. If anything, it made them more aware of their interdependence. The Seal-Keeper of the West, whose indigo trade had suffered from the loss of the cloth mast, began to experiment with new dyes that could withstand the sea air. The Seal-Keeper of the South, whose ports had been damaged by the fleet's loss, invested in stronger ships and deeper harbors. The Seal-Keeper of the North, whose valleys produced no salt, began to trade timber for salt with the Seal-Keepers of the East and South.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-267 | Year: FA 512]
+The Seal-Keepers met in council and agreed to a new tariff schedule, one that would apply to all goods moving between the valleys and the sea. The agreement was sealed with the exchange of seven tokens, one from each valley.
+#+end_quote
+
+Kharad Tines, seeing the Seal-Keepers' growing autonomy, ordered the construction of a central archive in the mast-city, where all tariffs, trade agreements, and rite records would be kept. The archive was built of stone and iron, with a single entrance guarded by a bronze door bearing the seven colors. Only the Seal-Keepers and the Banner-Lord's most trusted clerks were allowed inside.
+
+#+begin_quote
+[Canon: FE-FA-B1-RIT-022 | Reliability: R1 | Locale: FE-LOC-B1-004]
+The Archive Rite requires the sealing of all trade and rite records within a stone archive, the placement of a bronze door bearing the seven colors, and the swearing of an oath by the Banner-Lord and all Seal-Keepers to preserve the archive's contents.
+#+end_quote
+
+The archive's creation marked the height of Flagarthan integration. For the first time, the valleys and the sea were bound not just by cloth and rite, but by a shared record of their agreements. Yet the very act of recording these agreements made them subject to dispute. The Seal-Keepers began to argue over the archive's interpretation, each claiming that their valley's interests were underrepresented.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-032 | Reliability: R3 | Locale: FE-LOC-B1-008]
+I was a clerk in the archive. I saw the Seal-Keepers come and go, each with their own copy of the records. They would argue over a single word, a single comma, as though the fate of the valleys depended on it.
+#+end_quote
+
+Kharad Tines, now an old man, saw the seeds of maritime dependency take root. The valleys, once self-sufficient, now relied on the sea for salt, dyes, and timber. The sea, in turn, relied on the valleys for grain, cloth, and iron. The balance was delicate, and Kharad Tines feared what would happen if it were disturbed.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-289 | Year: FA 535]
+The Banner-Lord ordered the construction of a new fleet, larger than the first, to protect the trade routes. The Seal-Keepers protested that the fleet would only encourage piracy, but Kharad Tines insisted that the sea was now as much a part of Flagartha as the valleys.
+#+end_quote
+
+The fleet's construction was completed just as Kharad Tines died. His son, Kharad the Younger, took the banner and the rite, but he did so without the full assent of the Seal-Keepers. The Seal-Keeper of the East, whose valleys had suffered from the new tariffs, refused to attend the rite. The Seal-Keeper of the South, whose ports had been damaged by the new fleet, declared that the sea was no longer a valley but a battlefield.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-040 | Reliability: R4 | Locale: FE-LOC-B1-009]
+I saw the rite performed without the Seal-Keeper of the East. The Banner-Lord raised the seven cloths alone, and the wind tore them from his hands. The Seal-Keepers whispered that the wind had abandoned them, but I heard the Banner-Lord say that the wind had never been theirs to claim.
+#+end_quote
+
+The death of Kharad Tines and the incomplete rite marked the beginning of the end of the First Age of Banners. The valleys, once united by cloth and rite, now stood divided by tariffs and fleets. The sea, once a valley turned inside out, now loomed as a threat. The bronze chest, sealed with seven locks, remained in the mast-city, but its contents were forgotten, its keys lost.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-301 | Year: FA 547]
+The bronze chest was opened by an unknown hand. The relics within were found to be nothing more than shards of glass, splinters of wood, and a single thread of common cloth. The Seal-Keepers declared the chest a forgery, but the Banner-Lord's clerks insisted that the relics had always been as they were found.
+#+end_quote
+
+The revelation of the chest's contents did not end the disputes, but it did end the faith in the rite. The Seal-Keepers, once bound by oath, now met only to argue over tariffs and trade. The Banner-Lord, once the master of the wind, now struggled to keep the valleys from tearing themselves apart. The cloth, once a symbol of unity, now hung in tatters from the mast.
+
+#+begin_quote
+[Canon: FE-FA-B1-LAM-001 | Reliability: R5 | Locale: FE-LOC-B1-010]
+I saw the last rite performed. The Seal-Keepers stood in a circle, but their faces were turned away from one another. The Banner-Lord raised the seven cloths, but the wind did not stir. When the rite was over, the Seal-Keepers left without a word, and the mast stood empty against the sky.
+#+end_quote
+
+
+#+TITLE: The Crescent of Flagistan
+#+SUBTITLE: Book II of the Flag-Empires Chronicle
+
+* Arc 1: Crossing to the Crescent Coasts
+** Overview
+In this arc, the eastern seaboard of the peninsula transitions from inland caravan governance to maritime dominion. The Admirals' Council assumes control of coastal trade, establishes the first salt courts, and founds the port of Crescent Harbor as the seat of the Crescent Authority. This period marks the beginning of the Second Age of Salt.
+
+** Key Events
+- FE-SA-B2-ANN-001: The Admirals' Council convenes in Port Ironwood and ratifies the Charter of the Crescent Authority.
+- FE-SA-B2-ANN-002: The first salt courts are established at Crescent Harbor and Saltspire.
+- FE-SA-B2-ANN-003: The flagship *Silver Wave* is launched from the Ironwood shipyards.
+- FE-SA-B2-ANN-004: The Crescent Authority issues the first Merchant Code.
+- FE-SA-B2-ANN-005: Port Ironwood is renamed Crescent Harbor.
+
+** Chronology
+| Year | Event Canon ID | Description |
+|------|----------------|-------------|
+| SA 1 | FE-SA-B2-ANN-001 | Admirals' Council convenes in Port Ironwood |
+| SA 2 | FE-SA-B2-ANN-002 | First salt courts established |
+| SA 3 | FE-SA-B2-ANN-003 | *Silver Wave* launched |
+| SA 4 | FE-SA-B2-ANN-004 | First Merchant Code issued |
+| SA 5 | FE-SA-B2-ANN-005 | Port Ironwood renamed Crescent Harbor |
+
+** Major Figures
+- Admiral Kethra, first Seal-Keeper of the Crescent Authority
+- Captain Lirion, master shipwright of the *Silver Wave*
+- Magistrate Voren, founder of the Saltspire salt court
+
+** Map
+#+begin_quote
+[Canon: FE-SA-B2-MAP-001 | Year: SA 5]
+Map of the Crescent Coasts showing Port Ironwood (now Crescent Harbor), Saltspire, and the route of the *Silver Wave*.
+#+end_quote
+
+* Arc 1: Crossing to the Crescent Coasts
+** The Charter of the Crescent Authority
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-001 | Year: SA 1]
+In the month of the first tide, the Admirals' Council convened in Port Ironwood. The Charter of the Crescent Authority was ratified by unanimous vote, granting the Admirals semi-hereditary control over coastal trade and maritime law.
+#+end_quote
+
+The Charter was a bold departure from the inland governance that had prevailed since the First Age. The Admirals, once mere captains of merchant vessels, now wielded the authority of Seal-Keepers over the crescent-shaped coastline that stretched from Saltspire to the eastern cliffs. The Charter established the Crescent Authority as a semi-hereditary body, with the Admirals' Council serving as its legislative arm. The Seal-Keeper, chosen from among the Admirals, would serve as the executive authority, responsible for enforcing the Charter and overseeing the salt courts.
+
+The Charter was not without its critics. Some inland merchants feared that the Admirals' control over coastal trade would lead to higher prices and reduced access to goods. Others worried that the semi-hereditary nature of the Authority would lead to corruption and nepotism. But the Admirals argued that their control over the coast was necessary to ensure the safety of shipping lanes and the stability of trade. They pointed to the growing threat of piracy and the need for a unified maritime authority to combat it.
+
+** The Founding of the Salt Courts
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-002 | Year: SA 2]
+The first salt courts were established at Crescent Harbor and Saltspire. The courts were tasked with adjudicating disputes related to maritime trade, including issues of cargo damage, crew wages, and piracy.
+#+end_quote
+
+The salt courts were a novel institution, combining elements of maritime law and traditional jurisprudence. Each court was presided over by a Magistrate, appointed by the Seal-Keeper and confirmed by the Admirals' Council. The courts were funded by a tax on salt, a commodity that was essential to the preservation of food and the maintenance of trade routes. The tax was levied on all salt imported or exported through the crescent coast, and the revenue was used to pay the salaries of the Magistrates and the court staff.
+
+The salt courts quickly became a cornerstone of the Crescent Authority's power. They provided a forum for resolving disputes that might otherwise have led to violence or the breakdown of trade. The courts also served as a check on the power of the Admirals, ensuring that their decisions were subject to judicial review. But the courts were not without their critics. Some merchants complained that the courts were biased in favor of the Admirals and their allies. Others argued that the salt tax was too high and discouraged trade.
+
+** The Launch of the Silver Wave
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-003 | Year: SA 3]
+The flagship *Silver Wave* was launched from the Ironwood shipyards. The ship was the largest and most advanced vessel ever built on the crescent coast, and it was intended to serve as the flagship of the Crescent Authority's fleet.
+#+end_quote
+
+The *Silver Wave* was a marvel of engineering, with a hull of ironwood and sails of the finest canvas. It was equipped with the latest navigational instruments and armed with a formidable array of cannons. The ship was the brainchild of Captain Lirion, a master shipwright who had spent years designing and building vessels for the Admirals. Lirion was a visionary, and the *Silver Wave* was his magnum opus.
+
+The launch of the *Silver Wave* was a grand affair, attended by the Admirals, the Magistrates, and the leading merchants of the crescent coast. The ship was blessed by the priests of the sea god, and a feast was held in its honor. But the launch was also a moment of tension. Some feared that the *Silver Wave* would be used to enforce the Admirals' will by force, rather than through the courts. Others worried that the ship would be too expensive to maintain and would drain the resources of the Crescent Authority.
+
+** The First Merchant Code
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-004 | Year: SA 4]
+The Crescent Authority issued the first Merchant Code. The code established rules for maritime trade, including regulations on cargo, crew wages, and piracy.
+#+end_quote
+
+The Merchant Code was a comprehensive set of regulations that governed every aspect of maritime trade. It established rules for the loading and unloading of cargo, the payment of crew wages, and the handling of disputes. The code also included provisions for the punishment of piracy, including the death penalty for those convicted of attacking merchant vessels.
+
+The Merchant Code was a significant step in the consolidation of the Crescent Authority's power. It provided a legal framework for the regulation of trade, and it gave the Authority the tools it needed to enforce its will. But the code was not without its critics. Some merchants argued that the regulations were too strict and would stifle trade. Others worried that the code would be used to favor the Admirals and their allies.
+
+** The Renaming of Port Ironwood
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-005 | Year: SA 5]
+Port Ironwood was renamed Crescent Harbor. The renaming was part of a broader effort to rebrand the crescent coast as a unified maritime region under the authority of the Admirals' Council.
+#+end_quote
+
+The renaming of Port Ironwood to Crescent Harbor was a symbolic gesture, but it carried significant political weight. The old name had been associated with the inland merchants who had once dominated the region, while the new name reflected the crescent-shaped coastline and the Authority's control over it. The renaming was accompanied by the construction of new docks and warehouses, and the establishment of a customs house to oversee the import and export of goods.
+
+The renaming of Port Ironwood was not without controversy. Some inland merchants refused to acknowledge the new name, continuing to refer to the port by its old designation. Others saw the renaming as a sign of the Admirals' growing power and a threat to their own interests. But the Admirals and their supporters argued that the renaming was necessary to reflect the changing nature of the region and the Authority's role in it.
+
+** Witness Fragment: The First Salt Court
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-001 | Reliability: R4 | Locale: FE-LOC-B2-002]
+I stood in the first salt court as the Magistrate pronounced judgment. The air was thick with the scent of salt and the sound of gulls. The Magistrate, a stern woman with a sharp gaze, listened to the arguments of the merchants and the sailors. In the end, she ruled in favor of the sailors, ordering the merchants to pay double wages for the time lost at sea. The merchants protested, but the Magistrate was unmoved. As I left the court, I heard one of the merchants mutter, "The salt courts are a tool of the Admirals, nothing more."
+#+end_quote
+
+** Witness Fragment: The Launch of the Silver Wave
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-002 | Reliability: R3 | Locale: FE-LOC-B2-001]
+The launch of the *Silver Wave* was a sight to behold. The ship was a behemoth, its hull gleaming in the sunlight. As the ship slid into the water, a cheer went up from the crowd. But there was also a sense of unease. Some whispered that the *Silver Wave* was a symbol of the Admirals' growing power, and that it would be used to crush any who dared to oppose them.
+#+end_quote
+
+** Lament: The Salt Tax
+
+#+begin_quote
+[Canon: FE-SA-B2-RIT-001 | Reliability: R2 | Locale: FE-LOC-B2-003]
+The salt tax is a burden on us all. It weighs heavy on the poor, who can ill afford to pay for the preservation of their food. And yet, without the salt tax, the salt courts would cease to function, and the Admirals' power would wane. We are caught between the need for justice and the weight of the tax. It is a cruel irony that the very thing that sustains us also oppresses us.
+#+end_quote
+
+* Arc 2: Coin, Grain, and Fracture
+
+In the season when the wind turned saltward and the harbors smelled of iron rust, the Crescent Fleet returned not with tribute but with ledgers. The Salt Courts of the Mast-City read them aloud beneath the black canopy, counting copper ingots from the western ports, counting rice from the northern flood plains, counting the silk that passed under tax-toll gates. The numbers grew like vines along the ledger margins, and with them the banners of the tributary lords unfurled in new patterns, each stripe a claim to autonomy.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-071 | Year: SA 244]
+The eastern road tolls doubled; the road-wardens posted new bronze plates stamped with the fifth seal of the Mast-City. Farmers on the river bends paid in salt, not coin, and the salt was weighed twice.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-082 | Year: SA 248]
+In the month of drifting petals, the Governor of the Far Bend refused the new toll schedule, declaring his banner to be equal to the Mast-City's. No decree of the Salt Courts was displayed in his hall thereafter.
+#+end_quote
+
+The wealth of the ports fed the city's hunger for silk, spice, and steel. Merchant galleys from beyond the horizon slipped past the harbor guards with cargoes wrapped in oil-paper. The Seal-Keeper's archive grew heavy with trade charters, each stamped with the crescent seal. Yet the wealth pooled in the harbor basins, leaving the inland plains to starve. Grain caravans grew fewer, their drivers whispering that the Salt Courts preferred copper to corn.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-093 | Year: SA 251]
+A caravan of twelve wagons bound for the capital was stopped at the Dry Seam. The road-wardens demanded three silver bars per wagon. The drivers scattered the grain and fled.
+#+end_quote
+
+The Salt Courts responded with the Edict of Even Scales, decreeing that no toll could exceed the weight of the goods carried. The edict was posted on every gate and bridge. But the wording allowed local magistrates to interpret "weight" as they pleased, and the road-wardens found new excuses: rusted axles, missing seals, improper cloth wrappings. The inland lords read the edict as license to raise their own tariffs, each claiming the right to protect their own grain from the capital's hunger.
+
+#+begin_quote
+[Canon: FE-SA-B2-EDI-031 | Year: SA 252]
+By decree of the Salt Courts: No toll may exceed the weight of goods carried. Any excess shall be returned in coin or salt within one moon.
+#+end_quote
+
+The inland lords sent riders to the capital bearing sealed satchels. The satchels contained neither tribute nor threat, only maps of their own domains with toll stations marked in red ink. The Seal-Keeper read the maps and understood that the salt roads were fragmenting. He sent a lantern-lit envoy to each lord, bearing the black scroll of the Crescent Seal. The scroll promised recognition of their tolls if they would swear allegiance anew. Some signed; others burned the scroll in their council fires.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-104 | Year: SA 255]
+The Governor of the Far Bend sent no envoy to the capital. Instead he raised a new banner beside the Crescent, a white cloth with a single red stripe. The Salt Courts declared his domain forfeit.
+#+end_quote
+
+The Salt Courts dispatched the Fifth Banner under the Banner-Lord Aris of the Eastern Straits. The Banner marched inland, its soldiers singing the old marching song about salt and steel. They found the roads lined with toll stations that demanded not coin but loyalty. The Banner-Lord sent couriers ahead with offers of pardon, but the inland lords had already sent their own couriers to neighboring domains, whispering of a new league of salt and grain.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-115 | Year: SA 257]
+The Fifth Banner reached the Dry Seam and found it fortified. The toll station had been rebuilt with stone walls and archers' nests. No banner flew above it.
+#+end_quote
+
+The Banner-Lord Aris sent a herald under white flag to demand surrender. The toll station replied with a single arrow that pinned the herald's message to the road. The Banner-Lord ordered the catapults forward. The first stone struck the gate, and the toll station replied with fire arrows that set the catapults' wooden frames alight. The battle lasted until dusk, when the toll station's oil stores caught fire and the walls collapsed inward.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-126 | Year: SA 258]
+The Fifth Banner took the Dry Seam after three assaults. The toll station's ledger was found intact, its pages listing every wagon and its cargo for the past year. The Banner-Lord ordered it burned.
+#+end_quote
+
+The inland league responded by seizing the river ports that fed the capital. They cut the grain barges and burned the salt warehouses. The capital's markets grew thin, and the people whispered that the Salt Courts had grown fat on copper while the people starved. The Seal-Keeper ordered the minting of emergency coins, stamped with the crescent and the year. The coins were lighter than the standard, and the merchants refused them.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-137 | Year: SA 260]
+In the capital's eastern market, a woman threw a bag of the new coins at the tax collector's feet. "This is not salt," she cried. "This is ash."
+#+end_quote
+
+The Banner-Lord Aris marched west along the river, his soldiers living on captured grain. He sent messengers to the league lords offering amnesty if they would swear anew. The league's council met in a stone hall above a bend in the river. They voted to reject the offer and to raise a new banner: a white cloth with a red stripe and a black crescent. The Banner-Lord Aris heard of the vote and ordered his catapults to fire on the hall. The hall collapsed, but the league's council escaped through a tunnel to the river.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-148 | Year: SA 262]
+The Banner-Lord Aris took the river ports and burned the league's council hall. The league's banner was captured and brought to the capital, where it was hung upside down in the Salt Courts' audience chamber.
+#+end_quote
+
+The league's council fled to the mountains, where they raised a new banner in a hidden valley. They sent riders to the northern plains, offering grain for steel. The northern clans, who had long resented the capital's salt taxes, agreed to join. They crossed the mountains with herds of horses and wagons of weapons. The Banner-Lord Aris, hearing of their approach, fortified the river bends. The league's council sent a single rider under white flag, bearing a scroll sealed with the black crescent and the red stripe. The scroll demanded recognition of their tolls and the right to keep their own banners. The Seal-Keeper read the scroll and ordered it burned in the audience chamber's hearth.
+
+#+begin_quote
+[Canon: FE-SA-B2-EDI-057 | Year: SA 264]
+By decree of the Salt Courts: Any domain that raises a banner beside the Crescent shall forfeit its salt rights and its river tolls. Its grain shall be seized and its people counted as tribute.
+#+end_quote
+
+The league's council responded by seizing the capital's eastern granaries. They burned the tax rolls and opened the grain stores to the people. The capital's markets filled with grain, but the Salt Courts' treasury grew empty. The Seal-Keeper ordered the minting of new coins, stamped with the crescent and the red stripe. The merchants accepted them, but the people called them "league silver" and hoarded them.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-159 | Year: SA 266]
+In the capital's western quarter, a child was born with a red birthmark shaped like a crescent. The midwives whispered that the child would one day raise a new banner over the Mast-City.
+#+end_quote
+
+The Banner-Lord Aris marched east with the remnants of the Fifth Banner. He found the eastern granaries empty and the toll stations flying the league's banner. He ordered his soldiers to take the grain stores by force. The toll stations resisted, and the battle lasted until nightfall. The Banner-Lord Aris was wounded by an arrow and carried back to the capital. The Fifth Banner retreated to the river bends, where they built a fortified camp.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-170 | Year: SA 268]
+The Banner-Lord Aris died of his wounds in the capital's military hospital. His last words were said to be: "The salt roads are broken. The banners are many. Let the people choose."
+#+end_quote
+
+The Seal-Keeper read the Banner-Lord's words and ordered them suppressed. He declared a new edict: no banner but the Crescent would be allowed to fly in the capital. The edict was posted on every gate and bridge. But the people had already begun to fly small red-striped cloths from their windows. The Salt Courts' tax collectors found their satchels lighter, their receipts fewer. The inland lords sent no tribute, only messages of defiance.
+
+#+begin_quote
+[Canon: FE-SA-B2-EDI-073 | Year: SA 270]
+By decree of the Salt Courts: Any cloth bearing a stripe or crescent not issued by the Mast-City shall be seized and its bearer fined. Repeat offenders shall be exiled to the Dry Seam.
+#+end_quote
+
+The league's council sent a final envoy to the capital, bearing a scroll sealed with the black crescent and the red stripe. The scroll demanded recognition of their tolls and the right to keep their own banners. The Seal-Keeper read the scroll and ordered it burned in the audience chamber's hearth. The envoy was given a white cloth and sent back to the league's council with a message: "The Crescent flies alone."
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-181 | Year: SA 272]
+The league's council met in the hidden valley and voted to raise their banner over every toll station from the Dry Seam to the northern plains. They sent messengers to the northern clans, offering them salt rights in exchange for steel.
+#+end_quote
+
+The northern clans crossed the mountains with their herds and wagons. They found the toll stations already flying the league's banner. The clans' leaders met with the league's council and agreed to a pact: the clans would keep the mountain passes open, and the league would share the river tolls. They raised a new banner together: a white cloth with a red stripe, a black crescent, and a blue mountain.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-192 | Year: SA 274]
+The capital's eastern gate fell to the league's forces after a night assault. The gate's defenders fled into the city, spreading word that the Crescent was no longer the only banner that flew.
+#+end_quote
+
+The Seal-Keeper ordered the city's walls to be manned by every able-bodied man and woman. The Salt Courts' archives were moved to the Mast-City's inner keep. The Seal-Keeper himself took up residence in the keep, surrounded by his council and his guards. The league's forces surrounded the city, their banners flying from every hill. The Seal-Keeper sent a final message to the league's council: "The Crescent will not fall."
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-203 | Year: SA 276]
+The league's forces breached the city's outer walls at dawn. The fighting lasted until dusk, when the league's banner was raised over the Salt Courts' audience chamber.
+#+end_quote
+
+The Seal-Keeper and his council were captured and brought before the league's council. They were offered amnesty if they would swear allegiance to the new order. The Seal-Keeper refused, and he and his council were executed in the audience chamber. Their bodies were hung from the chamber's rafters, their blood staining the black crescent on the league's banner.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-214 | Year: SA 278]
+The league's council declared the Second Age of Salt at an end. They raised a new banner over the Mast-City: a white cloth with a red stripe, a black crescent, and a blue mountain. The Salt Courts were renamed the League's Council, and the Mast-City was renamed the League's Port.
+#+end_quote
+
+The northern clans entered the city in triumph, their herds and wagons filling the streets. They demanded their share of the river tolls, and the league's council agreed. The clans' leaders were given seats on the council, and their banners were hung beside the league's banner in the audience chamber. The people of the city were allowed to keep their small red-striped cloths, but they were forbidden to fly them from their windows.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-225 | Year: SA 280]
+In the League's Port, a child was born with a blue birthmark shaped like a mountain. The midwives whispered that the child would one day raise a new banner over the League's Port.
+#+end_quote
+
+The new order lasted for three years. The league's council ruled from the audience chamber, their banners hanging above them. The northern clans kept the mountain passes open, and the river tolls flowed into the council's treasury. The people of the city lived under the league's laws, their small red-striped cloths a reminder of the old order. But the league's council was divided, its members arguing over the distribution of the tolls. The northern clans grew restless, their leaders demanding more than just seats on the council.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-236 | Year: SA 283]
+The League's Council met in secret and voted to dissolve the pact with the northern clans. They sent messengers to the clans' leaders, offering them gold in exchange for their withdrawal from the League's Port.
+#+end_quote
+
+The clans' leaders refused the offer and declared their independence. They raised their own banner over the mountain passes: a white cloth with a blue mountain and a red stripe. The league's council responded by sending the remnants of the Fifth Banner to the passes. The Banner fought the clans' warriors in the high valleys, their battle cries echoing off the cliffs. The fighting lasted until winter, when the snow closed the passes.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-247 | Year: SA 285]
+The Fifth Banner retreated from the mountain passes, leaving the clans in control. The league's council ordered the passes to be fortified, but the clans' warriors had already burned the toll stations.
+#+end_quote
+
+The league's council met in the audience chamber and voted to raise new banners over the river ports. They sent messengers to the inland lords, offering them amnesty if they would swear allegiance to the league. The inland lords agreed, and they raised new banners beside the league's banner: white cloths with a red stripe and a black crescent. The league's council declared the Third Age of Salt at an end and the Fourth Age of Grain at its beginning.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-258 | Year: SA 287]
+The League's Council declared the Fourth Age of Grain at its beginning. They raised new banners over the river ports, and the inland lords raised their own banners beside them.
+#+end_quote
+
+The new order lasted for two years. The league's council ruled from the audience chamber, their banners hanging above them. The inland lords kept their tolls, and the river tolls flowed into the council's treasury. The people of the city lived under the league's laws, their small red-striped cloths a reminder of the old order. But the league's council was divided, its members arguing over the distribution of the tolls. The inland lords grew restless, their leaders demanding more than just the right to keep their tolls.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-269 | Year: SA 289]
+The League's Council met in secret and voted to dissolve the pact with the inland lords. They sent messengers to the lords' leaders, offering them gold in exchange for their withdrawal from the river ports.
+#+end_quote
+
+The inland lords refused the offer and declared their independence. They raised their own banners over the river ports: white cloths with a red stripe and a black crescent. The league's council responded by sending the remnants of the Fifth Banner to the ports. The Banner fought the lords' warriors in the river bends, their battle cries echoing off the cliffs. The fighting lasted until the river froze, when the lords' warriors retreated to their strongholds.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-280 | Year: SA 291]
+The Fifth Banner retreated from the river ports, leaving the inland lords in control. The league's council ordered the ports to be fortified, but the lords' warriors had already burned the toll stations.
+#+end_quote
+
+The league's council met in the audience chamber and voted to raise new banners over the capital. They sent messengers to the northern clans, offering them amnesty if they would swear allegiance to the league. The clans' leaders agreed, and they raised new banners beside the league's banner: white cloths with a blue mountain and a red stripe. The league's council declared the Fourth Age of Grain at an end and the Fifth Age of Salt at its beginning.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-291 | Year: SA 293]
+The League's Council declared the Fifth Age of Salt at its beginning. They raised new banners over the capital, and the northern clans raised their own banners beside them.
+#+end_quote
+
+The new order lasted for one year. The league's council ruled from the audience chamber, their banners hanging above them. The northern clans kept the mountain passes open, and the river tolls flowed into the council's treasury. The people of the city lived under the league's laws, their small red-striped cloths a reminder of the old order. But the league's council was divided, its members arguing over the distribution of the tolls. The northern clans grew restless, their leaders demanding more than just seats on the council.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-302 | Year: SA 294]
+The League's Council met in secret and voted to dissolve the pact with the northern clans. They sent messengers to the clans' leaders, offering them gold in exchange for their withdrawal from the capital.
+#+end_quote
+
+The clans' leaders refused the offer and declared their independence. They raised their own banner over the mountain passes: a white cloth with a blue mountain and a red stripe. The league's council responded by sending the remnants of the Fifth Banner to the passes. The Banner fought the clans' warriors in the high valleys, their battle cries echoing off the cliffs. The fighting lasted until the snow closed the passes.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-313 | Year: SA 295]
+The Fifth Banner retreated from the mountain passes, leaving the clans in control. The league's council ordered the passes to be fortified, but the clans' warriors had already burned the toll stations.
+#+end_quote
+
+The league's council met in the audience chamber and voted to raise new banners over the Mast-City. They sent messengers to the inland lords, offering them amnesty if they would swear allegiance to the league. The inland lords agreed, and they raised new banners beside the league's banner: white cloths with a red stripe and a black crescent. The league's council declared the Fifth Age of Salt at an end and the Sixth Age of Grain at its beginning.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-324 | Year: SA 296]
+The League's Council declared the Sixth Age of Grain at its beginning. They raised new banners over the Mast-City, and the inland lords raised their own banners beside them.
+#+end_quote
+
+The new order lasted for six months. The league's council ruled from the audience chamber, their banners hanging above them. The inland lords kept their tolls, and the river tolls flowed into the council's treasury. The people of the city lived under the league's laws, their small red-striped cloths a reminder of the old order. But the league's council was divided, its members arguing over the distribution of the tolls. The inland lords grew restless, their leaders demanding more than just the right to keep their tolls.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-335 | Year: SA 297]
+The League's Council met in secret and voted to dissolve the pact with the inland lords. They sent messengers to the lords' leaders, offering them gold in exchange for their withdrawal from the Mast-City.
+#+end_quote
+
+The inland lords refused the offer and declared their independence. They raised their own banners over the Mast-City: white cloths with a red stripe and a black crescent. The league's council responded by sending the remnants of the Fifth Banner to the city. The Banner fought the lords' warriors in the streets, their battle cries echoing off the walls. The fighting lasted until the river froze, when the lords' warriors retreated to their strongholds.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-346 | Year: SA 298]
+The Fifth Banner retreated from the Mast-City, leaving the inland lords in control. The league's council ordered the city to be fortified, but the lords' warriors had already burned the toll stations.
+#+end_quote
+
+The inland lords met in the audience chamber and voted to raise new banners over the capital. They sent messengers to the northern clans, offering them amnesty if they would swear allegiance to the lords. The clans' leaders agreed, and they raised new banners beside the lords' banner: white cloths with a blue mountain and a red stripe. The inland lords declared the Sixth Age of Grain at an end and the Seventh Age of Salt at its beginning.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-357 | Year: SA 299]
+The Inland Lords' Council declared the Seventh Age of Salt at its beginning. They raised new banners over the capital, and the northern clans raised their own banners beside them.
+#+end_quote
+
+The new order lasted for one year. The inland lords ruled from the audience chamber, their banners hanging above them. The northern clans kept the mountain passes open, and the river tolls flowed into the lords' treasury. The people of the city lived under the lords' laws, their small red-striped cloths a reminder of the old order. But the inland lords were divided, their members arguing over the distribution of the tolls. The northern clans grew restless, their leaders demanding more than just seats on the council.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-368 | Year: SA 300]
+The Inland Lords' Council met in secret and voted to dissolve the pact with the northern clans. They sent messengers to the clans' leaders, offering them gold in exchange for their withdrawal from the capital.
+#+end_quote
+
+The clans' leaders refused the offer and declared their independence. They raised their own banner over the mountain passes: a white cloth with a blue mountain and a red stripe. The inland lords responded by sending the remnants of the Fifth Banner to the passes. The Banner fought the clans' warriors in the high valleys, their battle cries echoing off the cliffs. The fighting lasted until the snow closed the passes.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-379 | Year: SA 301]
+The Fifth Banner retreated from the mountain passes, leaving the clans in control. The inland lords ordered the passes to be fortified, but the clans' warriors had already burned the toll stations.
+#+end_quote
+
+The inland lords met in the audience chamber and voted to raise new banners over the Mast-City. They sent messengers to the league's council, offering them amnesty if they would swear allegiance to the lords. The league's council agreed, and they raised new banners beside the lords' banner: white cloths with a red stripe and a black crescent. The inland lords declared the Seventh Age of Salt at an end and the Eighth Age of Grain at its beginning.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-390 | Year: SA 302]
+The Inland Lords' Council declared the Eighth Age of Grain at its beginning. They raised new banners over the Mast-City, and the league's council raised their own banners beside them.
+#+end_quote
+
+The new order lasted for eight months. The inland lords ruled from the audience chamber, their banners hanging above them. The league's council kept their tolls, and the river tolls flowed into the lords' treasury. The people of the city lived under the lords' laws, their small red-striped cloths a reminder of the old order. But the inland lords were divided, their members arguing over the distribution of the tolls. The league's council grew restless, their leaders demanding more than just the right to keep their tolls.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-401 | Year: SA 303]
+The Inland Lords' Council met in secret and voted to dissolve the pact with the league's council. They sent messengers to the council's leaders, offering them gold in exchange for their withdrawal from the Mast-City.
+#+end_quote
+
+The league's council refused the offer and declared their independence. They raised their own banners over the Mast-City: white cloths with a red stripe and a black crescent. The inland lords responded by sending the remnants of the Fifth Banner to the city. The Banner fought the council's warriors in the streets, their battle cries echoing off the walls. The fighting lasted until the river froze, when the council's warriors retreated to their strongholds.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-412 | Year: SA 304]
+The Fifth Banner retreated from the Mast-City, leaving the league's council in control. The inland lords ordered the city to be fortified, but the council's warriors had already burned the toll stations.
+#+end_quote
+
+The league's council met in the audience chamber and voted to raise new banners over the capital. They sent messengers to the northern clans, offering them amnesty if they would swear allegiance to the council. The clans' leaders agreed, and they raised new banners beside the council's banner: white cloths with a blue mountain and a red stripe. The league's council declared the Eighth Age of Grain at an end and the Ninth Age of Salt at its beginning.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-423 | Year: SA 305]
+The League's Council declared the Ninth Age of Salt at its beginning. They raised new banners over the capital, and the northern clans raised their own banners beside them.
+#+end_quote
+
+The new order lasted for nine months. The league's council ruled from the audience chamber, their banners hanging above them. The northern clans kept the mountain passes open, and the river tolls flowed into the council's treasury. The people of the city lived under the council's laws, their small red-striped cloths a reminder of the old order. But the league's council was divided, its members arguing over the distribution of the tolls. The northern clans grew restless, their leaders demanding more than just seats on the council.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-434 | Year: SA 306]
+The League's Council met in secret and voted to dissolve the pact with the northern clans. They sent messengers to the clans' leaders, offering them gold in exchange for their withdrawal from the capital.
+#+end_quote
+
+The clans' leaders refused the offer and declared their independence. They raised their own banner over the mountain passes: a white cloth with a blue mountain and a red stripe. The league's council responded by sending the remnants of the Fifth Banner to the passes. The Banner fought the clans' warriors in the high valleys, their battle cries echoing off the cliffs. The fighting lasted until the snow closed the passes.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-445 | Year: SA 307]
+The Fifth Banner retreated from the mountain passes, leaving the clans in control. The league's council ordered the passes to be fortified, but the clans' warriors had already burned the toll stations.
+#+end_quote
+
+The league's council met in the audience chamber and voted to raise new banners over the Mast-City. They sent messengers to the inland lords, offering them amnesty if they would swear allegiance to the council. The inland lords agreed, and they raised new banners beside the council's banner: white cloths with a red stripe and a black crescent. The league's council declared the Ninth Age of Salt at an end and the Tenth Age of Grain at its beginning.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-
+
+#+TITLE: Arc 3: The Hundred Harbors Crisis
+#+AUTHOR: Chronicler of the Crescent Archives
+
+* Prologue: Salt and Steel
+
+The salt courts of the Second Age had grown fat on levies from every merchant hull that entered the Crescent Ports. Yet prosperity bred its own predators. By the year of the Black Tide, the ledger-keepers found their inkwells running dry even as the coin chests overflowed. Debtors multiplied like barnacles on a ship's hull, and the courts, bound by ancient statute, could no longer grant writs of seizure without unanimous consent from three harbor masters. That unanimity, once a pillar of law, became a weapon in the hands of pirate leagues who held entire districts hostage.
+
+The crisis began not with a cannonade but with a ledger. The Fifth Ledger, kept in the sealed vaults beneath the Iron Bell Tower, recorded every harbor's quota of salt tax and trade tariffs. When the ledger's keeper, a woman named Sariel of the Seventh Ledger, vanished in the night, the courts found their authority unmoored. Without the ledger, no harbor could prove its dues had been paid; without proof, no ship could leave port without risking seizure. The Crescent Ports, once the beating heart of Flagistan commerce, ground to a halt.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-001 | Reliability: R3 | Locale: FE-LOC-B2-004]
+In the month of the Black Tide the Fifth Ledger vanished, and with it the certainty of dues. Harbors disputed quotas, and ships rotted at anchor while the salt courts debated in circles.
+#+end_quote
+
+* Chapter 1: The Pirate Leagues
+
+The pirate leagues, long dismissed as scourges of the outer seas, saw opportunity in the chaos. They were not a single entity but a constellation of factions: the Red Sails of the northern shoals, the Cutlass Brotherhood of the western reefs, and the Silent Knives who haunted the river deltas. Each league had its own code, but all shared a disdain for the salt courts' levies. When the Fifth Ledger disappeared, they moved to fill the vacuum.
+
+The Red Sails, led by a one-eyed woman known only as the Crimson Widow, blockaded the northern approaches to the Crescent Ports. Their ships, painted in fading scarlet, flew no colors but the black flag of ransom. They offered safe passage to any vessel that paid in advance, and within weeks they controlled the flow of spices, silks, and silver from the northern trade routes.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-017 | Reliability: R4 | Locale: FE-LOC-B2-009]
+I saw the Red Sails' fleet mass off the northern shoals. Their ships moved like a school of sharks, silent and purposeful. The Crimson Widow stood on the deck of her flagship, a woman of iron will, and I heard her offer terms to the harbor master: "Pay now, or starve later."
+#+end_quote
+
+The Cutlass Brotherhood, by contrast, operated through terror. They struck at the weakest harbors first, burning docks and sinking grain ships. Their leader, a scarred man called the Hook, left no survivors to tell the tale. Within a month, half the outer harbors had surrendered to his rule, their masters paying tribute in gold and slaves.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-045 | Reliability: R4 | Locale: FE-LOC-B2-012]
+The Hook's men came at dawn. They burned the granaries first, then the docks. I watched from the citadel walls as our harbor master knelt in the ashes, offering his daughter as hostage for our compliance. The Brotherhood's flag rose over our walls that same day.
+#+end_quote
+
+* Chapter 2: The Embargo Spirals
+
+As the pirate leagues tightened their grip, the salt courts responded with embargoes. No ship could leave port without a seal of passage from the courts, and no seal could be granted without proof of payment. The courts, desperate to maintain their authority, issued decrees that only deepened the crisis. Merchants, unable to trade, hoarded their goods. Prices soared. Hunger spread through the cities.
+
+The embargo spirals fed on themselves. As trade slowed, the courts' revenues dwindled. As revenues dwindled, the courts could no longer pay their own guards and scribes. Desertions became common. The courts' authority, once absolute, now hung by a thread.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-023 | Reliability: R3 | Locale: FE-LOC-B2-004]
+The embargo deepened. Ships rotted at anchor, their crews unpaid and mutinous. The salt courts, unable to enforce their own decrees, watched as their authority crumbled like sand in the wind.
+#+end_quote
+
+The Silent Knives, the most insidious of the pirate leagues, exploited the embargo to their advantage. They infiltrated the courts themselves, bribing scribes and assassinating seal-keepers. By the time the courts realized the extent of the betrayal, the Silent Knives controlled the issuance of seals. They sold passage to the highest bidder, regardless of dues owed.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-089 | Reliability: R4 | Locale: FE-LOC-B2-004]
+I was a scribe in the Iron Bell Tower when the Silent Knives struck. They came at night, their knives flashing in the torchlight. By dawn, the seal-keepers were dead, and the courts' seals were in the hands of the enemy.
+#+end_quote
+
+* Chapter 3: The Coup of the Fifth Ledger
+
+The disappearance of the Fifth Ledger had been the spark that ignited the crisis. Its return, or rather its revelation, became the turning point. In the year of the Black Tide's end, a hooded figure appeared before the assembled harbor masters and salt court judges. She claimed to be Sariel of the Seventh Ledger, returned from exile. With her, she brought a new ledger, bound in black leather and sealed with wax.
+
+This ledger, she claimed, was the true Fifth Ledger, recovered from the pirates who had stolen it. But it was not the same ledger. It recorded not the old quotas but new ones, far harsher. Every harbor's dues had been recalculated, and the totals were staggering. The courts, faced with the choice of accepting the new ledger or admitting their own incompetence, chose the former.
+
+#+begin_quote
+[Canon: FE-SA-B2-EDI-017 | Reliability: R1 | Locale: FE-LOC-B2-004]
+By decree of the Salt Court, the Fifth Ledger is restored. All harbors shall pay the new quotas by the next full moon, under penalty of embargo and seizure.
+#+end_quote
+
+The coup was complete. The pirate leagues, who had believed they were acting in their own interests, found themselves bound by the very system they had sought to overthrow. The courts, desperate to reassert their authority, embraced the new ledger as a tool of control. The harbors, faced with impossible demands, had no choice but to comply.
+
+* Chapter 4: The Cost of Order
+
+The restoration of the Fifth Ledger brought a semblance of order, but at a terrible cost. The new quotas were so high that many harbors could not meet them. Those that tried often starved in the attempt. The courts, unable to distinguish between honest failure and deliberate defiance, imposed harsher penalties. Entire districts were razed. Families were sold into slavery.
+
+The pirate leagues, their power broken, either fled or were absorbed into the courts' own enforcement arms. The Red Sails' fleet was burned at anchor. The Cutlass Brotherhood's strongholds were stormed and sacked. The Silent Knives' infiltrators were hunted down and executed. But the victory was hollow. The Crescent Ports, once a beacon of prosperity, now lay in ruins.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-112 | Reliability: R4 | Locale: FE-LOC-B2-004]
+I walked the streets of the Iron Bell Tower after the coup. The markets were empty, the docks silent. The people, once proud and prosperous, now moved like ghosts through the ruins of their own city. The courts had won, but at what cost?
+#+end_quote
+
+* Chapter 5: The Last Year
+
+The Hundred Harbors Crisis did not end with the coup of the Fifth Ledger. It merely transformed. The new order, built on fear and extortion, was unsustainable. As the years passed, the courts' authority continued to erode. The harbors, unable to meet the quotas, turned to smuggling and rebellion. The pirate leagues, though broken, left behind a legacy of violence and distrust.
+
+By the time the Last Year arrived, the Crescent Ports were a shadow of their former selves. The Iron Bell Tower stood empty, its seals long since lost. The harbors, once united by trade, were now divided by suspicion and greed. The salt courts, their power shattered, existed only in memory.
+
+#+begin_quote
+[Canon: FE-SA-B2-WIT-120 | Reliability: R5 | Locale: FE-LOC-B2-004]
+In the Last Year, I saw the final collapse. The Iron Bell Tower fell, its stones scattered by the wind. The harbors, once the pride of Flagistan, were abandoned to the sea. The salt courts, their ledgers burned, were forgotten. Only the pirates remained, their black flags still flying over the ruins.
+#+end_quote
+
+* Epilogue: The Weight of Cloth
+
+The Hundred Harbors Crisis left a legacy that outlived the Second Age. The banners that once flew over the Crescent Ports were torn down, their cloth used to bind the wounds of the starving. The salt courts, their seals broken, were replaced by new institutions, but the memory of their tyranny lingered. The pirate leagues, though defeated, became legends, their stories told in taverns and dockside inns.
+
+And the Fifth Ledger? It vanished again, this time for good. Some said it was burned in the riots that followed the Last Year. Others claimed it was taken by the sea, its black leather cover sinking beneath the waves. But in the end, it mattered little. The crisis had already done its work, leaving behind a world forever changed.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-044 | Year: SA 233]
+In the month of westward dust the Fifth Banner crossed the Dry Seam, and no bell was rung in greeting.
+#+end_quote
+
+* Roll of Reigning Houses
+
+- House of the Crimson Widow: Dissolved after the burning of the Red Sails' fleet.
+- House of the Hook: Extinct, its last members executed in the Iron Bell Tower.
+- House of the Silent Knives: Absorbed into the salt courts' enforcement arms, later disbanded.
+- House of Sariel: Disputed; some claim descent, others deny it.
+
+* Disputed Entries
+
+- The true fate of the Fifth Ledger remains unknown. Some sources claim it was recovered by the courts, others that it was destroyed by the pirates.
+- The identity of the hooded figure who returned the ledger is contested. Was she truly Sariel of the Seventh Ledger, or an impostor?
+
+* Losses Uncounted
+
+- The number of lives lost to the embargo spirals and the coup's aftermath can only be estimated.
+- The economic cost of the crisis, measured in lost trade and destroyed infrastructure, was incalculable.
+- The cultural cost, measured in the erosion of trust and the collapse of institutions, may never be fully understood.
+
+* Arc 4: The Quiet Partition
+
+In the year SA 427, beneath the vaulted silence of the Salt Courts, the Fifth Banner-Lord signed the Partition Charter. No drums sounded. No banners were lowered. The charter was inked in violet—halfway between mourning and triumph—and distributed across four Mast-Cities: Flagartha, Silvermouth, Ironkeep, and Harborhold. Each received a sealed copy, each swore it had always been the rightful capital.
+
+** The Treaty of Four Gates
+
+The document itself was brief, yet its clauses unraveled the empire in silence. The southern salt roads would belong to Flagistan, the northern grain routes to the Iron League, the eastern spice lanes to the Crescent Compact, and the western ports to the Harbor League. In truth, all four polities remained under the nominal banner of the Fifth, but each was permitted its own Seal-Keeper, its own salt tariff, and its own border garrisons.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-151 | Year: SA 427]
+The Fifth Banner-Lord spoke for seven hours, naming each province its own master, yet binding them all to the same mast. No one wept. No one cheered.
+#+end_quote
+
+The Partition Charter required that each polity send a child of the Banner-Lord's line to the others as "guest-heir." These hostages were raised in foreign courts, taught rival dialects, and sworn to secrecy about their true parentage. When asked why, the Salt Courts replied: "So no banner may ever be raised against kin."
+
+** The Exchange of Children
+
+In the spring of SA 428, four cradles crossed the empire on four different roads. Each was guarded by the Road-Wardens, yet none knew the contents of the other cradles. The child sent to Flagistan was named Kharad Tines, though he would grow up believing himself the orphaned son of a spice merchant. The child sent to Ironkeep was named Vespera Salt, daughter of no one, heir to nothing.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-154 | Year: SA 428]
+At the third watch the cradles passed each other on the Dry Seam. No lanterns were lit. No songs were sung. The Road-Wardens exchanged no words, only salt tokens.
+#+end_quote
+
+In each court, the children were raised with alternating affection and suspicion. They learned the customs of their host cities, adopted local rites, and were forbidden to speak of their origins. The Salt Courts called this the "Quiet Exchange," and it became the model for all future treaties.
+
+** The First Cracks
+
+By SA 432, the cracks in the Partition Charter had begun to show. The salt tariffs in Flagistan had risen to twice the rate allowed by the charter, and the grain shipments from Ironkeep had slowed to a trickle. The Crescent Compact had begun to mint its own coins, stamped with the image of a crescent moon and a single star.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-167 | Year: SA 432]
+The Salt Courts met in secret and decreed that any polity found in violation of the charter would be stripped of its banner. No one knew what this meant, but the threat was enough to keep the peace for a time.
+#+end_quote
+
+In Harborhold, the Harbor League had begun to build its own fleet, ostensibly for trade but clearly for war. The Road-Wardens reported seeing new ships under construction, their hulls painted black and their sails dyed red.
+
+** The Rise of the Crescent Compact
+
+The Crescent Compact, under the leadership of the Seal-Keeper Alara Moon, began to assert itself as the true heir to the Fifth Banner. Alara claimed that the Partition Charter had been a mistake, that the empire could only be ruled by one banner, and that the Crescent Compact was the only polity with the right to fly it.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-173 | Year: SA 434]
+The Crescent Compact raised its banner over the Mast-City, and the Salt Courts did not object. The banner was white with a black crescent and a single silver star.
+#+end_quote
+
+The other polities watched in silence, each calculating its own next move. Flagistan began to build its own fleet, Ironkeep its own army, and Harborhold its own network of spies.
+
+** The Child-Hostages Come of Age
+
+In SA 437, the child-hostages came of age. Kharad Tines, now a man, was named the heir to the Crescent Compact. Vespera Salt, now a woman, was named the heir to the Iron League. The other two child-hostages, whose names have been lost to history, were named the heirs to Flagistan and Harborhold.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-181 | Year: SA 437]
+The child-hostages were brought before the Salt Courts and sworn to uphold the Partition Charter. They swore on their honor, on their lives, and on the memory of their unknown parents.
+#+end_quote
+
+But the oaths were hollow. Each child-hostage had grown up in a different court, with different customs, different beliefs, and different ambitions. They had been raised to be loyal to their host polity, not to the empire.
+
+** The War of the Four Banners
+
+In SA 439, the War of the Four Banners began. It started with a dispute over a salt mine in the Dry Seam, but it quickly escalated into a full-scale war. The Crescent Compact, led by Kharad Tines, attacked Flagistan. The Iron League, led by Vespera Salt, attacked Harborhold. And the Harbor League, whose leader is unknown, attacked Ironkeep.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-189 | Year: SA 439]
+The War of the Four Banners began with a skirmish over a salt mine. By the end of the day, four banners were flying over the same gate.
+#+end_quote
+
+The war lasted for three years, and it was fought with a ferocity that shocked even the most hardened veterans. The Road-Wardens reported seeing entire cities burned to the ground, their populations slaughtered or enslaved.
+
+** The End of the Partition
+
+In SA 442, the Partition Charter was officially dissolved. The Salt Courts declared that the empire could no longer be held together by a single banner, and that each polity must now rule itself. The child-hostages, now grown, were given the choice to return to their birth families or to remain in their host courts.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-195 | Year: SA 442]
+The Salt Courts declared the Partition Charter null and void. The child-hostages were given the choice to return to their birth families or to remain in their host courts.
+#+end_quote
+
+Kharad Tines chose to remain in the Crescent Compact, where he was crowned the First Crescent King. Vespera Salt chose to return to the Iron League, where she was named the Iron Queen. The other two child-hostages, whose names have been lost to history, made their own choices, and their fates are unknown.
+
+** The Aftermath
+
+The aftermath of the War of the Four Banners was a time of great suffering. The empire had been torn apart, and the polities that remained were weak and divided. The Road-Wardens reported seeing entire regions depopulated, their fields left to rot, their cities left to ruin.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-201 | Year: SA 443]
+The aftermath of the War of the Four Banners was a time of great suffering. The empire had been torn apart, and the polities that remained were weak and divided.
+#+end_quote
+
+But even in the darkest of times, there were those who remembered the old empire, who dreamed of a time when the banners flew together, when the Salt Courts ruled with wisdom and justice. And in the years that followed, these dreamers would begin to weave a new story, a story of hope and renewal, a story that would one day become the legend of the Last Banner.
+
+** Witness Fragments
+
+*** The Salt Keeper's Lament
+#+begin_quote
+[Canon: FE-SA-B2-WIT-211 | Year: SA 441]
+I saw the banners fall, one by one, and I wept. I wept for the empire, for the Salt Courts, for the Road-Wardens, and for the children who were torn from their families. I wept for the salt that was spilled, for the roads that were broken, and for the dreams that were shattered. And I wept for myself, for I knew that I had failed in my duty, that I had let the empire fall, and that I would never be forgiven.
+#+end_quote
+
+*** The Road Warden's Tale
+#+begin_quote
+[Canon: FE-SA-B2-WIT-214 | Year: SA 440]
+I was a Road Warden, and I saw the war from the beginning. I saw the banners rise and fall, the cities burn and the people die. I saw the child-hostages grow up and take their places as rulers, and I saw the empire crumble into dust. And I knew that nothing would ever be the same again, that the world had changed forever, and that we would never see the like of the old empire again.
+#+end_quote
+
+*** The Merchant's Account
+#+begin_quote
+[Canon: FE-SA-B2-WIT-217 | Year: SA 438]
+I was a merchant, and I saw the war from the sidelines. I saw the trade routes close, the markets empty, and the people starve. I saw the banners change hands, the rulers come and go, and the empire fall apart. And I knew that the world had changed, that the old order was gone, and that we would have to find a new way to live, a new way to trade, and a new way to survive.
+#+end_quote
+
+** The Last Banner
+
+In the years that followed, the legend of the Last Banner began to spread. It was said that the Last Banner was the true heir to the Fifth Banner, that it had been hidden away during the War of the Four Banners, and that it would one day return to unite the empire once more.
+
+#+begin_quote
+[Canon: FE-SA-B2-ANN-220 | Year: SA 445]
+The legend of the Last Banner began to spread, and with it came hope. The people began to dream of a time when the banners would fly together again, when the Salt Courts would rule with wisdom and justice, and when the empire would be whole once more.
+#+end_quote
+
+But the legend of the Last Banner was just that—a legend. The empire was gone, and it would never return. The banners had fallen, and they would never rise again. The Salt Courts had been dissolved, and they would never be reformed. The Road-Wardens had been disbanded, and they would never be reconstituted. The child-hostages had grown up and taken their places as rulers, and they would never be children again.
+
+And so the world moved on, and the legend of the Last Banner became just another story, another tale to be told around the fire, another dream to be dreamed in the dark. But for those who remembered the old empire, who had seen the banners fly and the Salt Courts rule, the legend of the Last Banner would always be more than just a story. It would be a reminder of what had been lost, of what had been taken away, and of what might one day be regained.
+
+
+#+TITLE: Surface and Last Year
+#+SUBTITLE: Book III of the Flag-Empires Chronicle
+
+* Arc 1: Iron Roads and Surface Doctrine
+[Year Span: TA 001 - TA 030]
+
+In the thirtieth year of the Salt Moon's wane, the Mast-City of Flagistan looked inward. The salt roads had brought coin, and the sea had brought trade, but the land—vast, uncharted, and stubborn—demanded a different faith. The Salt Court decreed that roads must be measured, not by leagues, but by the number of axles they could bear, the tons they could haul, the days they could shorten between mast and field. Thus began the Iron Roads, and with them, the Surface Doctrine.
+
+** The Cartographer's Creed
+#+begin_quote
+[Canon: FE-TA-B3-ANN-001 | Year: TA 001]
+The Surveyor-General declared that all lands beyond the river delta must be reduced to grid, and all rivers to numbers. "Let no valley remain unnamed," he said, "for a nameless place is a lawless place."
+#+end_quote
+
+The Iron Roads were not built by warriors, but by measurers. Surveyors with chains and compasses marched into the hinterlands, their eyes fixed on theodolites, their minds on metrics. They named every hill, every stream, every copse, until the land itself seemed to shrink beneath the weight of its own nomenclature. The Salt Court, in its wisdom, decreed that these names should be carved into stone tablets and placed at every crossroads, so that no traveler might lose his way—or his loyalty.
+
+** The Bureaucratic Faith
+#+begin_quote
+[Canon: FE-TA-B3-EDI-012 | Year: TA 005]
+By edict of the Seal-Keeper, all provincial governors must submit quarterly reports on road construction, toll collection, and population movement. Reports must be written in triplicate and sealed with the crimson wax of compliance.
+#+end_quote
+
+The Surface Doctrine was a faith of numbers. It held that the empire could be perfected if only every mile, every man, every coin were accounted for. The Seal-Keeper's office grew fat with scrolls, each one a testament to the empire's reach. But the land, vast and wild, resisted reduction. Rivers flooded, bridges collapsed, and bandits—those who refused to be counted—plundered the roads with impunity.
+
+** The Witness of the Hinterlands
+#+begin_quote
+[Canon: FE-TA-B3-WIT-027 | Year: TA 012]
+I saw a surveyor's chain snap in the mud, and the man wept. "This land is too big," he said. "It will never fit into our ledgers."
+#+end_quote
+
+In the hinterlands, the Iron Roads were met with suspicion. The hill folk, who had lived beyond the reach of banners for generations, saw the surveyors as harbingers of a new kind of conquest. They whispered that the roads were not for trade, but for troop movements, and that the numbers on the stone tablets were not names, but targets. When the first toll gate was raised at the mouth of the Dry Valley, the hill folk simply went around it, their paths winding through the rocks like the threads of an old song.
+
+** The Lament of the Toll Keeper
+#+begin_quote
+[Canon: FE-TA-B3-RIT-033 | Year: TA 018]
+Toll Keeper's Lament: "I stand at the gate from dawn to dusk, counting axles and collecting coin. But the land beyond is wild, and the men who pass through are wilder still. I dream of the sea, where the salt is clean and the numbers mean nothing."
+#+end_quote
+
+The toll keepers, those who manned the gates of the Iron Roads, became the unwitting priests of the Surface Doctrine. They stood at their posts, counting and collecting, their lives reduced to the rhythm of axles and coin. But in the quiet hours, when the roads were empty and the wind carried the scent of distant forests, they dreamed of a world beyond the grid, where the land was not a problem to be solved, but a mystery to be lived.
+
+** The Fracture of the Surface
+#+begin_quote
+[Canon: FE-TA-B3-ANN-044 | Year: TA 023]
+In the year of the broken chain, the Surveyor-General was found dead in his tent, his maps scattered and his compass shattered. The hill folk claimed he had been taken by the land itself, his body returned to the soil from which it came.
+#+end_quote
+
+By the twenty-third year of the Iron Roads, the Surface Doctrine began to crack. The surveyors, once so confident in their grids, now spoke in hushed tones of places that refused to be measured. The hill folk, emboldened by the Surveyor-General's death, took to the roads in greater numbers, their paths a mockery of the straight lines the empire had imposed. And in the Mast-City, the Salt Court grew uneasy, for the numbers no longer added up.
+
+** The Road-Wardens' Reckoning
+#+begin_quote
+[Canon: FE-TA-B3-WIT-051 | Year: TA 027]
+I saw the Road-Wardens ride out in force, their banners snapping in the wind. But the land swallowed them whole, and by dusk, only a handful returned, their faces pale with the knowledge that the empire's reach had limits.
+#+end_quote
+
+The Road-Wardens, those who patrolled the Iron Roads, were the last to hold faith in the Surface Doctrine. They rode out in force, their banners a promise of order, their swords a threat of violence. But the land was vast, and the bandits were many. The Road-Wardens returned with tales of ambushes and disappearances, of roads that led nowhere and bridges that had never been built. The empire's reach, it seemed, had limits, and those limits were written in blood.
+
+** The End of the Grid
+#+begin_quote
+[Canon: FE-TA-B3-ANN-060 | Year: TA 030]
+In the thirtieth year, the Salt Court decreed that the Iron Roads should be abandoned, their stones left to the mercy of the land. "Let the land be wild," they said, "for a wild land is a free land."
+#+end_quote
+
+And so, in the thirtieth year, the Iron Roads were abandoned. The surveyors packed their chains and compasses, the toll keepers locked their gates, and the Road-Wardens rode back to the Mast-City, their banners tattered and their faith broken. The land, vast and wild, reclaimed its own, and the empire, for all its metrics and measures, was left to wonder what it had truly conquered.
+
+** Canon References
+- FE-TA-B3-ANN-001: The Surveyor-General's decree
+- FE-TA-B3-EDI-012: The Seal-Keeper's edict on reports
+- FE-TA-B3-WIT-027: The witness of the hinterlands
+- FE-TA-B3-RIT-033: The Toll Keeper's Lament
+- FE-TA-B3-ANN-044: The Surveyor-General's death
+- FE-TA-B3-WIT-051: The Road-Wardens' reckoning
+- FE-TA-B3-ANN-060: The abandonment of the Iron Roads
+
+* Arc 2: The Two Famines
+The harvest failure of TA 1247 was no mere drought; it was a rupture in the covenant between the Banner-Lord and the soil. The Road-Wardens, once proud bearers of grain from valley to valley, found their carts empty while the Salt Courts hoarded salt and silver. In the winter of TA 1248, the wagons ceased to roll, and the roads grew cold with silence.
+
+#+begin_quote
+[Canon: FE-TA-B3-ANN-121 | Year: TA 1247]
+In the month of frosted roots the Fifth Banner ordered all surplus to be stored in the Mast-City granaries, yet the granaries remained half-empty by winter's end.
+#+end_quote
+
+The First Famine began in the lowlands, where the river had shrunk to a thread. Peasants whispered that the Banner-Lord had forgotten the old rites, that the cloth no longer spoke to the earth. By TA 1248, the whispers turned to shouts, and the shouts to the tramp of boots on frozen ground.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-132 | Reliability: R4 | Locale: FE-LOC-B3-056]
+I saw a woman exchange her child's woolen hood for a single loaf; the baker wept but could not spare more. The cloth on the Banner-Lord's mast was limp that day, as if ashamed.
+#+end_quote
+
+The Road-Wardens, once the sinews of the empire, now became its undoing. Their wagons, once laden with tribute and trade, stood idle by the roadside. In the month of iron winds, TA 1248, a company of Wardens abandoned their posts, taking with them the last of the grain.
+
+#+begin_quote
+[Canon: FE-TA-B3-ANN-144 | Year: TA 1248]
+The Road-Wardens of the Eastern March mutinied, seizing three granaries and declaring the Banner-Lord's justice void. No banner flew over their camps that winter.
+#+end_quote
+
+The Second Famine followed, more cruel for being man-made. The Salt Courts, fearing the loss of their monopolies, tightened their grip. Tolls were raised, roads were blockaded, and the starving were turned back at every bridge. The Banner-Lord, isolated in his Mast-City, issued decrees that no one could hear.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-167 | Reliability: R3 | Locale: FE-LOC-B3-089]
+The Salt Court's men stood at the river crossing, demanding crystal for passage. A mother with two hollow-eyed children could not pay; they were sent back into the hills. By morning, the children were gone, and the mother's wailing echoed off the cliffs.
+#+end_quote
+
+In the valleys, the old rituals were revived in secret. Cloth was dyed in river water, salt was buried in the furrows, and the names of forgotten Banner-Lords were spoken aloud. The people remembered that the cloth had once been theirs, not the property of courts or cities.
+
+#+begin_quote
+[Canon: FE-TA-B3-RIT-178 | Reliability: R2 | Locale: FE-LOC-B3-102]
+The rite of the three knots was performed at dusk, with each knot tied in a different color: blue for the sky, green for the field, red for the blood of the covenant. The officiant declared that the Banner-Lord had broken the thread, and the people must weave a new one.
+#+end_quote
+
+The Banner-Lord, hearing rumors of the rites, sent the Iron Host to the valleys. But the Host found empty villages and burned granaries. The people had vanished into the hills, taking their hunger and their hope with them. The roads, once the arteries of empire, now ran cold and silent.
+
+#+begin_quote
+[Canon: FE-TA-B3-ANN-189 | Year: TA 1249]
+The Iron Host returned from the Eastern March with no captives, only tales of empty hearths and vanished folk. The Banner-Lord's counselors whispered of rebellion, but none dared speak it aloud.
+#+end_quote
+
+By the spring of TA 1250, the two famines had merged into one great hunger that gnawed at the heart of the empire. The Salt Courts, seeing their power slip away, began to hoard not just salt, but the very memory of plenty. They forbade the telling of old stories, the singing of harvest songs, the weaving of cloth that was not theirs.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-201 | Reliability: R5 | Locale: FE-LOC-B3-115]
+In the last days before the city fell, the Salt Court's men went from house to house, seizing all cloth that bore the old colors. They said it was to prevent unrest, but we knew it was to erase the past. When they came to our door, my mother gave them a blanket woven by her grandmother. They took it, and her tears fell like rain.
+#+end_quote
+
+The Banner-Lord, now a shadow in his own Mast-City, issued a final edict. He declared that the two famines were a test, that the people must endure and the empire would be reborn. But the edict was written on paper so thin it tore at the touch, and the ink was faded as an old memory.
+
+#+begin_quote
+[Canon: FE-TA-B3-EDI-212 | Reliability: R3 | Locale: FE-LOC-B3-001]
+By decree of the Banner-Lord, all who hoard grain or salt shall be declared enemies of the cloth. Let the Iron Host ride, and let the Salt Courts be broken. This is the will of the Banner.
+#+end_quote
+
+But the will of the Banner was no longer enough. The people, scattered and starving, no longer looked to the Mast-City for salvation. They looked to each other, to the old rites, to the memory of a time when the cloth had meant something more than the whim of a distant lord.
+
+The two famines, having done their work, left behind a land divided. The Salt Courts clung to their cities, the Banner-Lord to his mast, and the people to their hunger. The roads, once the glory of the empire, now ran silent and cold, bearing only the ghosts of wagons and the whispers of a covenant broken.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-220 | Reliability: R4 | Locale: FE-LOC-B3-090]
+I saw three banners over one gate before noon, and none by dusk; men swore they had always been loyal to whichever cloth still flew. But the cloth was thin, and the wind tore at it, and in the end, there was nothing left but the wind itself.
+#+end_quote
+
+Thus ended the age of the two famines, and the empire that had once stretched from valley to valley was now a memory, a story told by the fireside, a cloth that had unraveled in the wind.
+
+* Arc 3: Lantern Riots to Border Fires
+[ Years: LA 124 - LA 134 ]
+
+** The Flame of Lawlessness
+
+#+begin_quote
+[Canon: FE-LA-B3-ANN-001 | Year: LA 124]
+On the first night of the Lantern Feast, five lanterns were found unlit in the eastern quarter; by dawn, every gate to the Salt Docks had been broken and the stores set aflame.
+#+end_quote
+
+The lanterns of the Feast had always been more than ritual. They marked the passage from the old year to the new, and their lighting was said to bind the city's debts to the sea. When five failed to burn in the quarter known as the Dry Steps, the omission was not ignored. By the second watch, men had gathered in the market square, whispering that the Seal-Keeper had withheld the sacred oil as punishment for unpaid harbor dues. The rumor spread through the alleys faster than fire, and by the time the lantern-lighters returned with fresh wicks, the crowd had armed itself with oars and net-weights.
+
+The first stones fell at the gate of the Salt Court. The second volley shattered the glass of the ledger house. Within the hour, the ledgers themselves were dragged into the street and burned, their pages curling like black tongues. The banner above the court was torn down, and a new cloth—white with a single red stripe—was hoisted in its place. No one knew who had sewn it, but all understood its meaning: the old law was dead, and a new one would be made from the ashes.
+
+The Banner-Lord's guard arrived at dawn, but the streets were already empty. The rioters had vanished into the city, leaving only the smell of burning paper and the silence of a law that no longer held.
+
+** The Council of Three Waters
+
+#+begin_quote
+[Canon: FE-LA-B3-ANN-015 | Year: LA 125]
+Three men met at the confluence of the Black River and the Salt Fork: one carried a banner, one a ledger, and one a blade. They agreed that no banner would fly, no debt be called, and no blade be drawn until the new year.
+#+end_quote
+
+In the weeks that followed, the city did not fall into chaos, but into a strange quiet. The Banner-Lord remained in his hall, but his orders were no longer carried out. The Salt Courts sat empty, their clerks dismissed or fled. The only authority that remained was the one that walked the streets in plain clothes, carrying no seal and no sword, only a small red lantern that marked them as neutral.
+
+From this vacuum rose the Council of Three Waters. The name came from the place where they first met: the point where the Black River met the Salt Fork, a place sacred to no one and claimed by all. The three men who formed the council were not nobles, nor were they merchants. They were a lantern-lighter, a dockworker, and a former guard who had thrown down his sword rather than fire on the rioters.
+
+Their first act was to declare a moratorium on all debts. Their second was to order the reopening of the docks, but without tariffs. Their third was to send a message to the Banner-Lord: the city would govern itself until a new banner could be agreed upon by all.
+
+The Banner-Lord did not reply. Instead, he sent his guard to arrest the council. They were taken at dawn, as they met at the river confluence. But when the guard arrived, they found not three men, but three hundred. The people had come to protect their council, and the guard, seeing the size of the crowd, lowered their weapons and withdrew.
+
+** The Banner of the People
+
+#+begin_quote
+[Canon: FE-LA-B3-ANN-027 | Year: LA 126]
+The banner raised above the city hall was not the Banner-Lord's, nor was it the Salt Court's. It was a simple white cloth with a single red stripe, sewn by the lantern-lighters of the Dry Steps. No decree made it so; the people simply began to salute it.
+#+end_quote
+
+The banner of the people was not raised in ceremony. It appeared one morning, sewn from scraps of old sails and dyed with the red clay of the riverbank. It had no emblem, no motto, no history. It was simply a white cloth with a single red stripe, and it flew above the city hall because the people who worked there chose to raise it.
+
+At first, the Banner-Lord's guard tried to tear it down. But each time they did, it reappeared the next morning, a little higher, a little larger. The people began to bring their own scraps of cloth to add to it, and soon it was no longer a single banner, but a patchwork of a thousand small ones, each representing a street, a guild, a family.
+
+The Banner-Lord sent messengers to demand its removal, but the messengers returned empty-handed, saying that no one would take it down. He sent soldiers, but they refused to fire on the crowd that gathered to protect it. He sent his own banner to be raised beside it, but the people cut the pole down and threw the banner into the river.
+
+In the end, the Banner-Lord did nothing. He remained in his hall, surrounded by his guard, while the city outside governed itself under the banner of the people. The Salt Courts remained closed, the harbor tolls were forgotten, and the lanterns of the Feast burned every night, whether the oil was paid for or not.
+
+** The Fires at the Edge
+
+#+begin_quote
+[Canon: FE-LA-B3-ANN-044 | Year: LA 128]
+The first fire was seen at the edge of the eastern plain, where the road meets the dry hills. It was not a single fire, but many, scattered like stars. The watchmen said they had seen men moving between them, but no banners, no standards, no sign of who they were.
+#+end_quote
+
+As the city settled into its new order, the world beyond its walls began to change. To the east, on the dry plains where the road wound toward the mountains, fires began to appear at night. At first, they were dismissed as the work of shepherds or travelers, but soon it became clear that they were something else.
+
+The fires were too many, too regular. They formed lines and patterns, as if marking a boundary or a path. The watchmen who rode out to investigate found no one, only the remains of fires and the tracks of many feet. But they also found something else: the bodies of traders who had been ambushed on the road, their goods stolen and their throats cut.
+
+The Council of Three Waters sent a message to the Banner-Lord, asking for his guard to patrol the roads. But the Banner-Lord, still isolated in his hall, did not reply. Instead, he sent a messenger to the council, demanding that they surrender the city to his rule. The messenger was turned away at the gates, and the council sent back a message of their own: the city would not be ruled by any banner but its own.
+
+The fires on the plain continued to spread, and soon they were no longer just on the edge of the city's territory. They appeared in the hills to the north, in the forests to the west, and along the riverbanks to the south. The people of the city began to speak of them in whispers, calling them the fires of the lost, the fires of the forgotten, the fires of those who had no banner and no law.
+
+** The Last Year
+
+#+begin_quote
+[Canon: FE-LA-B3-ANN-089 | Year: LA 133]
+In the last year, the fires reached the city walls. They came not as an army, but as a tide, flowing over the fields and through the forests, leaving nothing but ash in their wake. The people of the city watched from the walls, but no one fired a shot, no one raised a banner. They simply waited for the end.
+#+end_quote
+
+The last year began with a fire on the eastern plain that did not go out. It burned for days, and when it finally died, it left behind a blackened scar that stretched to the horizon. The people of the city watched it from the walls, but they did not fear it. They had seen too many fires by then, and they had learned that fire did not always bring destruction. Sometimes, it brought renewal.
+
+But this fire was different. It did not stop at the plain. It moved through the hills, through the forests, through the villages that lay between the city and the mountains. It burned the granaries and the barns, the mills and the bridges. It left the people who lived there with nothing but the clothes on their backs and the ashes of their homes.
+
+The Council of Three Waters met for the last time at the river confluence. They did not bring a banner, nor a ledger, nor a blade. They brought only their lanterns, and they lit them in the darkness. They spoke of the fires, of the people who had lost everything, of the Banner-Lord who had done nothing. They spoke of the city that had tried to govern itself, and of the world that had refused to let it.
+
+When they were done, they put out their lanterns and went their separate ways. The city did not need a council anymore. It needed only to survive.
+
+The fires reached the city walls in the autumn of the last year. They came not as an army, but as a tide, flowing over the fields and through the forests, leaving nothing but ash in their wake. The people of the city watched from the walls, but no one fired a shot, no one raised a banner. They simply waited for the end.
+
+And when the end came, it was not with a fire, but with a silence. The fires had burned themselves out, and the world beyond the walls was nothing but a wasteland of ash and smoke. The city stood alone, its banner still flying, its people still alive, but its future gone.
+
+The last year ended with the city still standing, but the world around it was gone. The fires had taken everything, and the people of the city knew that they could not rebuild what had been lost. They could only wait for the next fire, and the next, until there was nothing left to burn.
+
+** Witness Fragments
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-112 | Reliability: R4 | Locale: FE-LOC-B3-089]
+I saw the first fire on the plain, and I thought it was a star that had fallen to earth. But then I saw the others, and I knew that it was not a star, but a sign. A sign that the world was ending, and that we were all going to die.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-117 | Reliability: R3 | Locale: FE-LOC-B3-091]
+The council met for the last time at the river, and I was there. I saw them light their lanterns, and I heard them speak of the fires and the people and the Banner-Lord. But I did not understand what they meant. I only knew that the world was changing, and that I did not know how to change with it.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-124 | Reliability: R5 | Locale: FE-LOC-B3-095]
+The fires came to the city walls, and I watched them from the top of the tower. I saw the people on the walls, and I saw that they were afraid. But they did not run, and they did not fight. They simply waited, and when the fires reached them, they did not scream. They simply disappeared into the smoke.
+#+end_quote
+
+* The Last Year
+** Arc 4: Dissolution
+*** Month of Weeping (First Month of the Last Year)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-131 | Year: LA 1]
+By decree of the Interim Council, all banners in the eastern provinces are to be brought down before sunset. Any cloth found hoisted thereafter shall be seized and burned in the public square.
+#+end_quote
+
+The first month of the Last Year opened not with a single catastrophic blow, but with the slow, methodical unwinding of a fabric long frayed. The Interim Council, hastily convened from remnants of the Salt Courts and Road-Wardens, had issued the first dissolution decree in the dead of night. Dawn found the eastern provinces already in motion—banners lowered, masts unstepped, cloth folded and catalogued.
+
+In Kharad Tines, the process was anything but orderly. Witnesses report that the city's main square became a theater of competing claims. Three banners—green, crimson, and gold—were lowered in succession, each accompanied by a different chorus of voices. The green was taken down by the Salt Court's own hands, the crimson by a group calling themselves the "Loyal Mast-Men," and the gold by a mob that dispersed as quickly as it had formed.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-221 | Reliability: R4 | Locale: FE-LOC-B3-090]
+I saw three banners over one gate before noon, and none by dusk; men swore they had always been loyal to whichever cloth still flew.
+#+end_quote
+
+The dissolution was not merely symbolic. In the port city of Flagartha, the Salt Courts ordered the seizure of all vessels bearing the old standard. Ships were repainted overnight, their masts stripped of the familiar green-and-gold. Merchants who had once sworn allegiance to the Banner-Lord now pledged themselves to the "Free Tide," a new mercantile association with no clear hierarchy.
+
+*** Month of Rust (Second Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-145 | Year: LA 1]
+The Road-Wardens are hereby dissolved. Their stations shall be garrisoned by local militias until further notice. All tolls collected from this date forward are to be remitted to the nearest Salt Court.
+#+end_quote
+
+The dissolution of the Road-Wardens marked the true beginning of the empire's fragmentation. For centuries, these disciplined corps had maintained the arteries of trade and communication. Now, their stations were left to the mercy of local strongmen. In some regions, the transition was peaceful; in others, it sparked violence.
+
+In the western highlands, a Road-Warden captain named Eron the Red refused to disband his men. Instead, he declared the highlands a "Free March," independent of any Salt Court or Banner-Lord. His proclamation was met with mixed reactions—some hailed him as a liberator, others as a bandit.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-233 | Reliability: R3 | Locale: FE-LOC-B3-112]
+Eron the Red stood upon the old watchtower, his men behind him. He raised a banner of his own making—a red field with a white saltire. "This is the flag of the Free March," he said. "No Salt Court shall tax us, no Banner-Lord shall command us."
+#+end_quote
+
+The Salt Courts, already stretched thin, could do little to contest such declarations. Their authority was further undermined by the rise of local tribunals, often little more than armed gangs with a veneer of legitimacy. In Flagistan, the Crescent Council attempted to assert control, but their reach was limited to the coastal cities.
+
+*** Month of Ash (Third Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-158 | Year: LA 1]
+All archives belonging to the Banner-Lord's Chancery are to be sealed. No document may be removed without the express permission of the Interim Council. Violation shall be punishable by death.
+#+end_quote
+
+The sealing of the archives was a desperate attempt to control the narrative of the empire's fall. Documents that might incriminate the old regime were locked away, while those that cast the Interim Council in a favorable light were copied and distributed. Yet the act of sealing the archives only fueled rumors and conspiracy theories.
+
+In the Mast-City, the Seal-Keeper, a woman named Lirael, was tasked with overseeing the process. She worked tirelessly, cataloging and sealing thousands of documents. But even she could not prevent the loss of some records. Fires broke out in the Chancery's storerooms, and though they were quickly extinguished, not all the damage could be undone.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-245 | Reliability: R5 | Locale: FE-LOC-B3-001]
+The fires in the Chancery were no accident. I saw men with torches, moving with purpose. They carried away armfuls of parchment, their faces hidden beneath hoods. When the flames were put out, many records were lost forever.
+#+end_quote
+
+The loss of these records would have profound consequences for the memory politics of the Last Year. Without a clear historical record, competing factions could shape the narrative to suit their own ends. The Seal-Keeper's efforts to preserve the truth were noble, but ultimately futile.
+
+*** Month of Silence (Fourth Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-169 | Year: LA 1]
+All public gatherings are hereby prohibited. Any assembly of more than five persons shall be dispersed by force. Violators shall be subject to summary execution.
+#+end_quote
+
+The prohibition of public gatherings was the Interim Council's response to the growing unrest. In the cities, people whispered in corners and met in secret. In the countryside, villages fortified themselves against bandits and marauders. The empire, once bound by roads and trade, was unraveling into a patchwork of isolated communities.
+
+In Flagartha, the prohibition was enforced with particular brutality. The city's militia, now loyal to the Free Tide, patrolled the streets with clubs and cudgels. Those caught in groups were beaten and imprisoned. Yet even this harsh measure could not entirely suppress the people's desire to gather and mourn.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-257 | Reliability: R4 | Locale: FE-LOC-B3-045]
+In the dead of night, we gathered in the old square. No banners flew, no drums beat. We stood in silence, each of us remembering what had been lost. The militia came, but they did not disperse us. Perhaps they, too, understood the need for this quiet vigil.
+#+end_quote
+
+The silence of the fourth month was not just the absence of sound, but the absence of hope. The empire's dissolution was no longer a process to be managed, but a reality to be endured. And as the months wore on, it became clear that the Last Year would be remembered not for its battles or decrees, but for its silence.
+
+*** Month of Thorns (Fifth Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-180 | Year: LA 1]
+The Interim Council declares a state of emergency. All able-bodied men are to report for militia duty. Failure to comply shall result in the confiscation of property and imprisonment.
+#+end_quote
+
+The declaration of a state of emergency was the Interim Council's final attempt to maintain control. But it was too little, too late. The empire's dissolution had reached a point of no return. In the eastern provinces, local militias had already formed, each with its own agenda. In the west, Eron the Red's Free March was gaining strength. And in the south, the Crescent Council was consolidating its power.
+
+The conscription decree was met with resistance. In many regions, men hid in the hills or fled to the cities. Those who did report for duty often deserted at the first opportunity. The Interim Council's authority was crumbling, and with it, the last vestiges of the old order.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-269 | Reliability: R3 | Locale: FE-LOC-B3-078]
+My brother went to report for militia duty. He never returned. We heard he had deserted, joined a band of outlaws in the hills. The Council's decree meant nothing to him. He had seen what the empire had become, and he wanted no part of it.
+#+end_quote
+
+The fifth month was a time of thorns, of sharp and painful reminders of the empire's decline. The roads, once safe and well-maintained, were now fraught with danger. Travelers were preyed upon by bandits, and even the cities were not safe from violence. The empire's dissolution was no longer a distant threat, but a daily reality.
+
+*** Month of Rust and Bone (Sixth Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-191 | Year: LA 1]
+The Interim Council hereby dissolves itself. All authority is to be returned to the local jurisdictions. The Banner-Lord's seal is to be broken and the pieces scattered to the four winds.
+#+end_quote
+
+The dissolution of the Interim Council was the final act of the Last Year. With no central authority to hold it together, the empire fragmented into a collection of warring states. The Banner-Lord's seal, once a symbol of unity, was now broken and scattered. Each piece was claimed by a different faction, each asserting its own legitimacy.
+
+In the Mast-City, the Seal-Keeper Lirael watched as the pieces of the seal were distributed. She had done all she could to preserve the truth, but now even that was lost. The empire's memory was fractured, its history rewritten by those who held power.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-281 | Reliability: R5 | Locale: FE-LOC-B3-001]
+I saw the pieces of the Banner-Lord's seal being carried away. Each faction claimed to have the true piece, the one that would restore the empire. But I knew it was a lie. The seal was broken, and with it, the empire's soul.
+#+end_quote
+
+The sixth month was a time of rust and bone, of decay and death. The empire that had once spanned continents was now a collection of warring states, each vying for control. The Last Year had ended, but its legacy would endure for generations to come.
+
+*** Month of Memory (Seventh Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-200 | Year: LA 1]
+Let it be known that the empire is no more. Let each province govern itself as it sees fit. Let the banners of old be remembered, but let new ones rise in their place.
+#+end_quote
+
+The seventh month was a time of memory, of reflection and remembrance. The empire was gone, but its memory lived on. In the cities, people gathered to tell stories of the old days, of the Banner-Lord and the Salt Courts. In the countryside, villages held festivals to honor the ancestors who had built the empire.
+
+Yet even as they remembered, the people of the Last Year looked to the future. New banners were raised, new leaders emerged. The empire was gone, but its spirit endured. And though the road ahead was uncertain, the people of the Last Year faced it with courage and hope.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-293 | Reliability: R4 | Locale: FE-LOC-B3-112]
+In the highlands, Eron the Red raised a new banner—a red field with a white saltire. "This is the flag of the Free March," he said. "Let it be a symbol of our freedom, our independence. Let it remind us of what we have lost, and what we have gained."
+#+end_quote
+
+The seventh month was a time of memory, but also a time of new beginnings. The empire was gone, but its legacy lived on. And though the Last Year had ended, its story was far from over.
+

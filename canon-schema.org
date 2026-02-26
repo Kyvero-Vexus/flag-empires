@@ -1,0 +1,106 @@
+* Canon Schema of Flag-Empires
+
+** Canon Tables
+
+*** Ages
+| Code | Name                     | Scope |
+|------+--------------------------+-------|
+| DA   | Dawn Age                 | Mythic pre-calendar era |
+| FA   | First Age of Banners     | Foundation and unification |
+| SA   | Second Age of Salt       | Maritime wealth and fracture |
+| TA   | Third Age of Iron Roads  | Mechanized reach and unrest |
+| LA   | Last Age                 | Decline, partition, and last year |
+
+*** Book Mapping
+| Book | Title Segment |
+|------|---------------|
+| B0   | Meta and apparatus |
+| B1   | The Standard of Flagartha |
+| B2   | The Crescent of Flagistan |
+| B3   | Surface and Last Year |
+
+** Entity Prefixes
+- POL: polity
+- PER: person
+- LOC: location
+- EVT: event
+- TXT: text witness
+- RIT: ritual
+
+** Identifier Rules
+Global entity IDs: FE-<TYPE>-<BOOK>-<NNN>
+Examples:
+- FE-POL-B1-003
+- FE-PER-B2-119
+- FE-LOC-B3-041
+
+Event IDs are always paired with canonical chapter IDs.
+
+** Dynastic Line Model
+Dynasty record fields:
+- House Name
+- Banner Color Rite
+- Founding Claim
+- Legitimation Texts
+- Succession Method
+- Catastrophic Breaks
+
+** Annal Reliability Classes
+| Class | Name         | Meaning |
+|-------+--------------+---------|
+| R1    | Seal-Certain | Multiple sealed archives concur |
+| R2    | Court-Strong | Court copies align; provincial variants minor |
+| R3    | Field-Mixed  | Military logs conflict with civic rolls |
+| R4    | Witness-Torn | Eyewitness testimony contradictory |
+| R5    | Ash-Lost     | Survives only through later quotation |
+
+** Timeline Schema
+Each timeline row:
+- Year Code
+- Event Canon ID
+- Locale ID
+- Principal IDs
+- Reliability Class
+- One-line synopsis
+
+** Ritual Schema
+Ritual entries must state:
+- Officiant class
+- Required objects
+- Gesture order
+- Spoken formula
+- Political meaning
+
+** Example Canon Blocks
+#+begin_quote
+[Canon: FE-FA-B1-ANN-001 | Reliability: R2 | Locale: FE-LOC-B1-001]
+The First Mast was raised from cedar taken above the cloudline, and every valley sent cloth to be cut into one wind.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-SA-B2-EDI-017 | Reliability: R1 | Locale: FE-LOC-B2-004]
+By decree of the Salt Court no river toll shall exceed one hand of white crystal per loaded axle.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-202 | Reliability: R4 | Locale: FE-LOC-B3-090]
+I saw three banners over one gate before noon, and none by dusk; men swore they had always been loyal to whichever cloth still flew.
+#+end_quote
+
+** Dispute Annotation Protocol
+When records disagree, append:
+- Dispute tag: DS-<NN>
+- Positions A/B/C
+- Source text IDs
+- Adjudication note by Seal-Keeper
+
+** Manuscript Assembly Rules
+The complete volume concatenates in order:
+1. Style Bible
+2. Canon Schema
+3. Master Outline
+4. Book I
+5. Book II
+6. Book III
+
+No section may remain empty.

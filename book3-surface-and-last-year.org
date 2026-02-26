@@ -1,0 +1,361 @@
+#+TITLE: Surface and Last Year
+#+SUBTITLE: Book III of the Flag-Empires Chronicle
+
+* Arc 1: Iron Roads and Surface Doctrine
+[Year Span: TA 001 - TA 030]
+
+In the thirtieth year of the Salt Moon's wane, the Mast-City of Flagistan looked inward. The salt roads had brought coin, and the sea had brought trade, but the land—vast, uncharted, and stubborn—demanded a different faith. The Salt Court decreed that roads must be measured, not by leagues, but by the number of axles they could bear, the tons they could haul, the days they could shorten between mast and field. Thus began the Iron Roads, and with them, the Surface Doctrine.
+
+** The Cartographer's Creed
+#+begin_quote
+[Canon: FE-TA-B3-ANN-001 | Year: TA 001]
+The Surveyor-General declared that all lands beyond the river delta must be reduced to grid, and all rivers to numbers. "Let no valley remain unnamed," he said, "for a nameless place is a lawless place."
+#+end_quote
+
+The Iron Roads were not built by warriors, but by measurers. Surveyors with chains and compasses marched into the hinterlands, their eyes fixed on theodolites, their minds on metrics. They named every hill, every stream, every copse, until the land itself seemed to shrink beneath the weight of its own nomenclature. The Salt Court, in its wisdom, decreed that these names should be carved into stone tablets and placed at every crossroads, so that no traveler might lose his way—or his loyalty.
+
+** The Bureaucratic Faith
+#+begin_quote
+[Canon: FE-TA-B3-EDI-012 | Year: TA 005]
+By edict of the Seal-Keeper, all provincial governors must submit quarterly reports on road construction, toll collection, and population movement. Reports must be written in triplicate and sealed with the crimson wax of compliance.
+#+end_quote
+
+The Surface Doctrine was a faith of numbers. It held that the empire could be perfected if only every mile, every man, every coin were accounted for. The Seal-Keeper's office grew fat with scrolls, each one a testament to the empire's reach. But the land, vast and wild, resisted reduction. Rivers flooded, bridges collapsed, and bandits—those who refused to be counted—plundered the roads with impunity.
+
+** The Witness of the Hinterlands
+#+begin_quote
+[Canon: FE-TA-B3-WIT-027 | Year: TA 012]
+I saw a surveyor's chain snap in the mud, and the man wept. "This land is too big," he said. "It will never fit into our ledgers."
+#+end_quote
+
+In the hinterlands, the Iron Roads were met with suspicion. The hill folk, who had lived beyond the reach of banners for generations, saw the surveyors as harbingers of a new kind of conquest. They whispered that the roads were not for trade, but for troop movements, and that the numbers on the stone tablets were not names, but targets. When the first toll gate was raised at the mouth of the Dry Valley, the hill folk simply went around it, their paths winding through the rocks like the threads of an old song.
+
+** The Lament of the Toll Keeper
+#+begin_quote
+[Canon: FE-TA-B3-RIT-033 | Year: TA 018]
+Toll Keeper's Lament: "I stand at the gate from dawn to dusk, counting axles and collecting coin. But the land beyond is wild, and the men who pass through are wilder still. I dream of the sea, where the salt is clean and the numbers mean nothing."
+#+end_quote
+
+The toll keepers, those who manned the gates of the Iron Roads, became the unwitting priests of the Surface Doctrine. They stood at their posts, counting and collecting, their lives reduced to the rhythm of axles and coin. But in the quiet hours, when the roads were empty and the wind carried the scent of distant forests, they dreamed of a world beyond the grid, where the land was not a problem to be solved, but a mystery to be lived.
+
+** The Fracture of the Surface
+#+begin_quote
+[Canon: FE-TA-B3-ANN-044 | Year: TA 023]
+In the year of the broken chain, the Surveyor-General was found dead in his tent, his maps scattered and his compass shattered. The hill folk claimed he had been taken by the land itself, his body returned to the soil from which it came.
+#+end_quote
+
+By the twenty-third year of the Iron Roads, the Surface Doctrine began to crack. The surveyors, once so confident in their grids, now spoke in hushed tones of places that refused to be measured. The hill folk, emboldened by the Surveyor-General's death, took to the roads in greater numbers, their paths a mockery of the straight lines the empire had imposed. And in the Mast-City, the Salt Court grew uneasy, for the numbers no longer added up.
+
+** The Road-Wardens' Reckoning
+#+begin_quote
+[Canon: FE-TA-B3-WIT-051 | Year: TA 027]
+I saw the Road-Wardens ride out in force, their banners snapping in the wind. But the land swallowed them whole, and by dusk, only a handful returned, their faces pale with the knowledge that the empire's reach had limits.
+#+end_quote
+
+The Road-Wardens, those who patrolled the Iron Roads, were the last to hold faith in the Surface Doctrine. They rode out in force, their banners a promise of order, their swords a threat of violence. But the land was vast, and the bandits were many. The Road-Wardens returned with tales of ambushes and disappearances, of roads that led nowhere and bridges that had never been built. The empire's reach, it seemed, had limits, and those limits were written in blood.
+
+** The End of the Grid
+#+begin_quote
+[Canon: FE-TA-B3-ANN-060 | Year: TA 030]
+In the thirtieth year, the Salt Court decreed that the Iron Roads should be abandoned, their stones left to the mercy of the land. "Let the land be wild," they said, "for a wild land is a free land."
+#+end_quote
+
+And so, in the thirtieth year, the Iron Roads were abandoned. The surveyors packed their chains and compasses, the toll keepers locked their gates, and the Road-Wardens rode back to the Mast-City, their banners tattered and their faith broken. The land, vast and wild, reclaimed its own, and the empire, for all its metrics and measures, was left to wonder what it had truly conquered.
+
+** Canon References
+- FE-TA-B3-ANN-001: The Surveyor-General's decree
+- FE-TA-B3-EDI-012: The Seal-Keeper's edict on reports
+- FE-TA-B3-WIT-027: The witness of the hinterlands
+- FE-TA-B3-RIT-033: The Toll Keeper's Lament
+- FE-TA-B3-ANN-044: The Surveyor-General's death
+- FE-TA-B3-WIT-051: The Road-Wardens' reckoning
+- FE-TA-B3-ANN-060: The abandonment of the Iron Roads
+
+* Arc 2: The Two Famines
+The harvest failure of TA 1247 was no mere drought; it was a rupture in the covenant between the Banner-Lord and the soil. The Road-Wardens, once proud bearers of grain from valley to valley, found their carts empty while the Salt Courts hoarded salt and silver. In the winter of TA 1248, the wagons ceased to roll, and the roads grew cold with silence.
+
+#+begin_quote
+[Canon: FE-TA-B3-ANN-121 | Year: TA 1247]
+In the month of frosted roots the Fifth Banner ordered all surplus to be stored in the Mast-City granaries, yet the granaries remained half-empty by winter's end.
+#+end_quote
+
+The First Famine began in the lowlands, where the river had shrunk to a thread. Peasants whispered that the Banner-Lord had forgotten the old rites, that the cloth no longer spoke to the earth. By TA 1248, the whispers turned to shouts, and the shouts to the tramp of boots on frozen ground.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-132 | Reliability: R4 | Locale: FE-LOC-B3-056]
+I saw a woman exchange her child's woolen hood for a single loaf; the baker wept but could not spare more. The cloth on the Banner-Lord's mast was limp that day, as if ashamed.
+#+end_quote
+
+The Road-Wardens, once the sinews of the empire, now became its undoing. Their wagons, once laden with tribute and trade, stood idle by the roadside. In the month of iron winds, TA 1248, a company of Wardens abandoned their posts, taking with them the last of the grain.
+
+#+begin_quote
+[Canon: FE-TA-B3-ANN-144 | Year: TA 1248]
+The Road-Wardens of the Eastern March mutinied, seizing three granaries and declaring the Banner-Lord's justice void. No banner flew over their camps that winter.
+#+end_quote
+
+The Second Famine followed, more cruel for being man-made. The Salt Courts, fearing the loss of their monopolies, tightened their grip. Tolls were raised, roads were blockaded, and the starving were turned back at every bridge. The Banner-Lord, isolated in his Mast-City, issued decrees that no one could hear.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-167 | Reliability: R3 | Locale: FE-LOC-B3-089]
+The Salt Court's men stood at the river crossing, demanding crystal for passage. A mother with two hollow-eyed children could not pay; they were sent back into the hills. By morning, the children were gone, and the mother's wailing echoed off the cliffs.
+#+end_quote
+
+In the valleys, the old rituals were revived in secret. Cloth was dyed in river water, salt was buried in the furrows, and the names of forgotten Banner-Lords were spoken aloud. The people remembered that the cloth had once been theirs, not the property of courts or cities.
+
+#+begin_quote
+[Canon: FE-TA-B3-RIT-178 | Reliability: R2 | Locale: FE-LOC-B3-102]
+The rite of the three knots was performed at dusk, with each knot tied in a different color: blue for the sky, green for the field, red for the blood of the covenant. The officiant declared that the Banner-Lord had broken the thread, and the people must weave a new one.
+#+end_quote
+
+The Banner-Lord, hearing rumors of the rites, sent the Iron Host to the valleys. But the Host found empty villages and burned granaries. The people had vanished into the hills, taking their hunger and their hope with them. The roads, once the arteries of empire, now ran cold and silent.
+
+#+begin_quote
+[Canon: FE-TA-B3-ANN-189 | Year: TA 1249]
+The Iron Host returned from the Eastern March with no captives, only tales of empty hearths and vanished folk. The Banner-Lord's counselors whispered of rebellion, but none dared speak it aloud.
+#+end_quote
+
+By the spring of TA 1250, the two famines had merged into one great hunger that gnawed at the heart of the empire. The Salt Courts, seeing their power slip away, began to hoard not just salt, but the very memory of plenty. They forbade the telling of old stories, the singing of harvest songs, the weaving of cloth that was not theirs.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-201 | Reliability: R5 | Locale: FE-LOC-B3-115]
+In the last days before the city fell, the Salt Court's men went from house to house, seizing all cloth that bore the old colors. They said it was to prevent unrest, but we knew it was to erase the past. When they came to our door, my mother gave them a blanket woven by her grandmother. They took it, and her tears fell like rain.
+#+end_quote
+
+The Banner-Lord, now a shadow in his own Mast-City, issued a final edict. He declared that the two famines were a test, that the people must endure and the empire would be reborn. But the edict was written on paper so thin it tore at the touch, and the ink was faded as an old memory.
+
+#+begin_quote
+[Canon: FE-TA-B3-EDI-212 | Reliability: R3 | Locale: FE-LOC-B3-001]
+By decree of the Banner-Lord, all who hoard grain or salt shall be declared enemies of the cloth. Let the Iron Host ride, and let the Salt Courts be broken. This is the will of the Banner.
+#+end_quote
+
+But the will of the Banner was no longer enough. The people, scattered and starving, no longer looked to the Mast-City for salvation. They looked to each other, to the old rites, to the memory of a time when the cloth had meant something more than the whim of a distant lord.
+
+The two famines, having done their work, left behind a land divided. The Salt Courts clung to their cities, the Banner-Lord to his mast, and the people to their hunger. The roads, once the glory of the empire, now ran silent and cold, bearing only the ghosts of wagons and the whispers of a covenant broken.
+
+#+begin_quote
+[Canon: FE-TA-B3-WIT-220 | Reliability: R4 | Locale: FE-LOC-B3-090]
+I saw three banners over one gate before noon, and none by dusk; men swore they had always been loyal to whichever cloth still flew. But the cloth was thin, and the wind tore at it, and in the end, there was nothing left but the wind itself.
+#+end_quote
+
+Thus ended the age of the two famines, and the empire that had once stretched from valley to valley was now a memory, a story told by the fireside, a cloth that had unraveled in the wind.
+
+* Arc 3: Lantern Riots to Border Fires
+[ Years: LA 124 - LA 134 ]
+
+** The Flame of Lawlessness
+
+#+begin_quote
+[Canon: FE-LA-B3-ANN-001 | Year: LA 124]
+On the first night of the Lantern Feast, five lanterns were found unlit in the eastern quarter; by dawn, every gate to the Salt Docks had been broken and the stores set aflame.
+#+end_quote
+
+The lanterns of the Feast had always been more than ritual. They marked the passage from the old year to the new, and their lighting was said to bind the city's debts to the sea. When five failed to burn in the quarter known as the Dry Steps, the omission was not ignored. By the second watch, men had gathered in the market square, whispering that the Seal-Keeper had withheld the sacred oil as punishment for unpaid harbor dues. The rumor spread through the alleys faster than fire, and by the time the lantern-lighters returned with fresh wicks, the crowd had armed itself with oars and net-weights.
+
+The first stones fell at the gate of the Salt Court. The second volley shattered the glass of the ledger house. Within the hour, the ledgers themselves were dragged into the street and burned, their pages curling like black tongues. The banner above the court was torn down, and a new cloth—white with a single red stripe—was hoisted in its place. No one knew who had sewn it, but all understood its meaning: the old law was dead, and a new one would be made from the ashes.
+
+The Banner-Lord's guard arrived at dawn, but the streets were already empty. The rioters had vanished into the city, leaving only the smell of burning paper and the silence of a law that no longer held.
+
+** The Council of Three Waters
+
+#+begin_quote
+[Canon: FE-LA-B3-ANN-015 | Year: LA 125]
+Three men met at the confluence of the Black River and the Salt Fork: one carried a banner, one a ledger, and one a blade. They agreed that no banner would fly, no debt be called, and no blade be drawn until the new year.
+#+end_quote
+
+In the weeks that followed, the city did not fall into chaos, but into a strange quiet. The Banner-Lord remained in his hall, but his orders were no longer carried out. The Salt Courts sat empty, their clerks dismissed or fled. The only authority that remained was the one that walked the streets in plain clothes, carrying no seal and no sword, only a small red lantern that marked them as neutral.
+
+From this vacuum rose the Council of Three Waters. The name came from the place where they first met: the point where the Black River met the Salt Fork, a place sacred to no one and claimed by all. The three men who formed the council were not nobles, nor were they merchants. They were a lantern-lighter, a dockworker, and a former guard who had thrown down his sword rather than fire on the rioters.
+
+Their first act was to declare a moratorium on all debts. Their second was to order the reopening of the docks, but without tariffs. Their third was to send a message to the Banner-Lord: the city would govern itself until a new banner could be agreed upon by all.
+
+The Banner-Lord did not reply. Instead, he sent his guard to arrest the council. They were taken at dawn, as they met at the river confluence. But when the guard arrived, they found not three men, but three hundred. The people had come to protect their council, and the guard, seeing the size of the crowd, lowered their weapons and withdrew.
+
+** The Banner of the People
+
+#+begin_quote
+[Canon: FE-LA-B3-ANN-027 | Year: LA 126]
+The banner raised above the city hall was not the Banner-Lord's, nor was it the Salt Court's. It was a simple white cloth with a single red stripe, sewn by the lantern-lighters of the Dry Steps. No decree made it so; the people simply began to salute it.
+#+end_quote
+
+The banner of the people was not raised in ceremony. It appeared one morning, sewn from scraps of old sails and dyed with the red clay of the riverbank. It had no emblem, no motto, no history. It was simply a white cloth with a single red stripe, and it flew above the city hall because the people who worked there chose to raise it.
+
+At first, the Banner-Lord's guard tried to tear it down. But each time they did, it reappeared the next morning, a little higher, a little larger. The people began to bring their own scraps of cloth to add to it, and soon it was no longer a single banner, but a patchwork of a thousand small ones, each representing a street, a guild, a family.
+
+The Banner-Lord sent messengers to demand its removal, but the messengers returned empty-handed, saying that no one would take it down. He sent soldiers, but they refused to fire on the crowd that gathered to protect it. He sent his own banner to be raised beside it, but the people cut the pole down and threw the banner into the river.
+
+In the end, the Banner-Lord did nothing. He remained in his hall, surrounded by his guard, while the city outside governed itself under the banner of the people. The Salt Courts remained closed, the harbor tolls were forgotten, and the lanterns of the Feast burned every night, whether the oil was paid for or not.
+
+** The Fires at the Edge
+
+#+begin_quote
+[Canon: FE-LA-B3-ANN-044 | Year: LA 128]
+The first fire was seen at the edge of the eastern plain, where the road meets the dry hills. It was not a single fire, but many, scattered like stars. The watchmen said they had seen men moving between them, but no banners, no standards, no sign of who they were.
+#+end_quote
+
+As the city settled into its new order, the world beyond its walls began to change. To the east, on the dry plains where the road wound toward the mountains, fires began to appear at night. At first, they were dismissed as the work of shepherds or travelers, but soon it became clear that they were something else.
+
+The fires were too many, too regular. They formed lines and patterns, as if marking a boundary or a path. The watchmen who rode out to investigate found no one, only the remains of fires and the tracks of many feet. But they also found something else: the bodies of traders who had been ambushed on the road, their goods stolen and their throats cut.
+
+The Council of Three Waters sent a message to the Banner-Lord, asking for his guard to patrol the roads. But the Banner-Lord, still isolated in his hall, did not reply. Instead, he sent a messenger to the council, demanding that they surrender the city to his rule. The messenger was turned away at the gates, and the council sent back a message of their own: the city would not be ruled by any banner but its own.
+
+The fires on the plain continued to spread, and soon they were no longer just on the edge of the city's territory. They appeared in the hills to the north, in the forests to the west, and along the riverbanks to the south. The people of the city began to speak of them in whispers, calling them the fires of the lost, the fires of the forgotten, the fires of those who had no banner and no law.
+
+** The Last Year
+
+#+begin_quote
+[Canon: FE-LA-B3-ANN-089 | Year: LA 133]
+In the last year, the fires reached the city walls. They came not as an army, but as a tide, flowing over the fields and through the forests, leaving nothing but ash in their wake. The people of the city watched from the walls, but no one fired a shot, no one raised a banner. They simply waited for the end.
+#+end_quote
+
+The last year began with a fire on the eastern plain that did not go out. It burned for days, and when it finally died, it left behind a blackened scar that stretched to the horizon. The people of the city watched it from the walls, but they did not fear it. They had seen too many fires by then, and they had learned that fire did not always bring destruction. Sometimes, it brought renewal.
+
+But this fire was different. It did not stop at the plain. It moved through the hills, through the forests, through the villages that lay between the city and the mountains. It burned the granaries and the barns, the mills and the bridges. It left the people who lived there with nothing but the clothes on their backs and the ashes of their homes.
+
+The Council of Three Waters met for the last time at the river confluence. They did not bring a banner, nor a ledger, nor a blade. They brought only their lanterns, and they lit them in the darkness. They spoke of the fires, of the people who had lost everything, of the Banner-Lord who had done nothing. They spoke of the city that had tried to govern itself, and of the world that had refused to let it.
+
+When they were done, they put out their lanterns and went their separate ways. The city did not need a council anymore. It needed only to survive.
+
+The fires reached the city walls in the autumn of the last year. They came not as an army, but as a tide, flowing over the fields and through the forests, leaving nothing but ash in their wake. The people of the city watched from the walls, but no one fired a shot, no one raised a banner. They simply waited for the end.
+
+And when the end came, it was not with a fire, but with a silence. The fires had burned themselves out, and the world beyond the walls was nothing but a wasteland of ash and smoke. The city stood alone, its banner still flying, its people still alive, but its future gone.
+
+The last year ended with the city still standing, but the world around it was gone. The fires had taken everything, and the people of the city knew that they could not rebuild what had been lost. They could only wait for the next fire, and the next, until there was nothing left to burn.
+
+** Witness Fragments
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-112 | Reliability: R4 | Locale: FE-LOC-B3-089]
+I saw the first fire on the plain, and I thought it was a star that had fallen to earth. But then I saw the others, and I knew that it was not a star, but a sign. A sign that the world was ending, and that we were all going to die.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-117 | Reliability: R3 | Locale: FE-LOC-B3-091]
+The council met for the last time at the river, and I was there. I saw them light their lanterns, and I heard them speak of the fires and the people and the Banner-Lord. But I did not understand what they meant. I only knew that the world was changing, and that I did not know how to change with it.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-124 | Reliability: R5 | Locale: FE-LOC-B3-095]
+The fires came to the city walls, and I watched them from the top of the tower. I saw the people on the walls, and I saw that they were afraid. But they did not run, and they did not fight. They simply waited, and when the fires reached them, they did not scream. They simply disappeared into the smoke.
+#+end_quote
+
+* The Last Year
+** Arc 4: Dissolution
+*** Month of Weeping (First Month of the Last Year)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-131 | Year: LA 1]
+By decree of the Interim Council, all banners in the eastern provinces are to be brought down before sunset. Any cloth found hoisted thereafter shall be seized and burned in the public square.
+#+end_quote
+
+The first month of the Last Year opened not with a single catastrophic blow, but with the slow, methodical unwinding of a fabric long frayed. The Interim Council, hastily convened from remnants of the Salt Courts and Road-Wardens, had issued the first dissolution decree in the dead of night. Dawn found the eastern provinces already in motion—banners lowered, masts unstepped, cloth folded and catalogued.
+
+In Kharad Tines, the process was anything but orderly. Witnesses report that the city's main square became a theater of competing claims. Three banners—green, crimson, and gold—were lowered in succession, each accompanied by a different chorus of voices. The green was taken down by the Salt Court's own hands, the crimson by a group calling themselves the "Loyal Mast-Men," and the gold by a mob that dispersed as quickly as it had formed.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-221 | Reliability: R4 | Locale: FE-LOC-B3-090]
+I saw three banners over one gate before noon, and none by dusk; men swore they had always been loyal to whichever cloth still flew.
+#+end_quote
+
+The dissolution was not merely symbolic. In the port city of Flagartha, the Salt Courts ordered the seizure of all vessels bearing the old standard. Ships were repainted overnight, their masts stripped of the familiar green-and-gold. Merchants who had once sworn allegiance to the Banner-Lord now pledged themselves to the "Free Tide," a new mercantile association with no clear hierarchy.
+
+*** Month of Rust (Second Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-145 | Year: LA 1]
+The Road-Wardens are hereby dissolved. Their stations shall be garrisoned by local militias until further notice. All tolls collected from this date forward are to be remitted to the nearest Salt Court.
+#+end_quote
+
+The dissolution of the Road-Wardens marked the true beginning of the empire's fragmentation. For centuries, these disciplined corps had maintained the arteries of trade and communication. Now, their stations were left to the mercy of local strongmen. In some regions, the transition was peaceful; in others, it sparked violence.
+
+In the western highlands, a Road-Warden captain named Eron the Red refused to disband his men. Instead, he declared the highlands a "Free March," independent of any Salt Court or Banner-Lord. His proclamation was met with mixed reactions—some hailed him as a liberator, others as a bandit.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-233 | Reliability: R3 | Locale: FE-LOC-B3-112]
+Eron the Red stood upon the old watchtower, his men behind him. He raised a banner of his own making—a red field with a white saltire. "This is the flag of the Free March," he said. "No Salt Court shall tax us, no Banner-Lord shall command us."
+#+end_quote
+
+The Salt Courts, already stretched thin, could do little to contest such declarations. Their authority was further undermined by the rise of local tribunals, often little more than armed gangs with a veneer of legitimacy. In Flagistan, the Crescent Council attempted to assert control, but their reach was limited to the coastal cities.
+
+*** Month of Ash (Third Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-158 | Year: LA 1]
+All archives belonging to the Banner-Lord's Chancery are to be sealed. No document may be removed without the express permission of the Interim Council. Violation shall be punishable by death.
+#+end_quote
+
+The sealing of the archives was a desperate attempt to control the narrative of the empire's fall. Documents that might incriminate the old regime were locked away, while those that cast the Interim Council in a favorable light were copied and distributed. Yet the act of sealing the archives only fueled rumors and conspiracy theories.
+
+In the Mast-City, the Seal-Keeper, a woman named Lirael, was tasked with overseeing the process. She worked tirelessly, cataloging and sealing thousands of documents. But even she could not prevent the loss of some records. Fires broke out in the Chancery's storerooms, and though they were quickly extinguished, not all the damage could be undone.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-245 | Reliability: R5 | Locale: FE-LOC-B3-001]
+The fires in the Chancery were no accident. I saw men with torches, moving with purpose. They carried away armfuls of parchment, their faces hidden beneath hoods. When the flames were put out, many records were lost forever.
+#+end_quote
+
+The loss of these records would have profound consequences for the memory politics of the Last Year. Without a clear historical record, competing factions could shape the narrative to suit their own ends. The Seal-Keeper's efforts to preserve the truth were noble, but ultimately futile.
+
+*** Month of Silence (Fourth Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-169 | Year: LA 1]
+All public gatherings are hereby prohibited. Any assembly of more than five persons shall be dispersed by force. Violators shall be subject to summary execution.
+#+end_quote
+
+The prohibition of public gatherings was the Interim Council's response to the growing unrest. In the cities, people whispered in corners and met in secret. In the countryside, villages fortified themselves against bandits and marauders. The empire, once bound by roads and trade, was unraveling into a patchwork of isolated communities.
+
+In Flagartha, the prohibition was enforced with particular brutality. The city's militia, now loyal to the Free Tide, patrolled the streets with clubs and cudgels. Those caught in groups were beaten and imprisoned. Yet even this harsh measure could not entirely suppress the people's desire to gather and mourn.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-257 | Reliability: R4 | Locale: FE-LOC-B3-045]
+In the dead of night, we gathered in the old square. No banners flew, no drums beat. We stood in silence, each of us remembering what had been lost. The militia came, but they did not disperse us. Perhaps they, too, understood the need for this quiet vigil.
+#+end_quote
+
+The silence of the fourth month was not just the absence of sound, but the absence of hope. The empire's dissolution was no longer a process to be managed, but a reality to be endured. And as the months wore on, it became clear that the Last Year would be remembered not for its battles or decrees, but for its silence.
+
+*** Month of Thorns (Fifth Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-180 | Year: LA 1]
+The Interim Council declares a state of emergency. All able-bodied men are to report for militia duty. Failure to comply shall result in the confiscation of property and imprisonment.
+#+end_quote
+
+The declaration of a state of emergency was the Interim Council's final attempt to maintain control. But it was too little, too late. The empire's dissolution had reached a point of no return. In the eastern provinces, local militias had already formed, each with its own agenda. In the west, Eron the Red's Free March was gaining strength. And in the south, the Crescent Council was consolidating its power.
+
+The conscription decree was met with resistance. In many regions, men hid in the hills or fled to the cities. Those who did report for duty often deserted at the first opportunity. The Interim Council's authority was crumbling, and with it, the last vestiges of the old order.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-269 | Reliability: R3 | Locale: FE-LOC-B3-078]
+My brother went to report for militia duty. He never returned. We heard he had deserted, joined a band of outlaws in the hills. The Council's decree meant nothing to him. He had seen what the empire had become, and he wanted no part of it.
+#+end_quote
+
+The fifth month was a time of thorns, of sharp and painful reminders of the empire's decline. The roads, once safe and well-maintained, were now fraught with danger. Travelers were preyed upon by bandits, and even the cities were not safe from violence. The empire's dissolution was no longer a distant threat, but a daily reality.
+
+*** Month of Rust and Bone (Sixth Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-191 | Year: LA 1]
+The Interim Council hereby dissolves itself. All authority is to be returned to the local jurisdictions. The Banner-Lord's seal is to be broken and the pieces scattered to the four winds.
+#+end_quote
+
+The dissolution of the Interim Council was the final act of the Last Year. With no central authority to hold it together, the empire fragmented into a collection of warring states. The Banner-Lord's seal, once a symbol of unity, was now broken and scattered. Each piece was claimed by a different faction, each asserting its own legitimacy.
+
+In the Mast-City, the Seal-Keeper Lirael watched as the pieces of the seal were distributed. She had done all she could to preserve the truth, but now even that was lost. The empire's memory was fractured, its history rewritten by those who held power.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-281 | Reliability: R5 | Locale: FE-LOC-B3-001]
+I saw the pieces of the Banner-Lord's seal being carried away. Each faction claimed to have the true piece, the one that would restore the empire. But I knew it was a lie. The seal was broken, and with it, the empire's soul.
+#+end_quote
+
+The sixth month was a time of rust and bone, of decay and death. The empire that had once spanned continents was now a collection of warring states, each vying for control. The Last Year had ended, but its legacy would endure for generations to come.
+
+*** Month of Memory (Seventh Month)
+#+begin_quote
+[Canon: FE-LA-B3-EDI-200 | Year: LA 1]
+Let it be known that the empire is no more. Let each province govern itself as it sees fit. Let the banners of old be remembered, but let new ones rise in their place.
+#+end_quote
+
+The seventh month was a time of memory, of reflection and remembrance. The empire was gone, but its memory lived on. In the cities, people gathered to tell stories of the old days, of the Banner-Lord and the Salt Courts. In the countryside, villages held festivals to honor the ancestors who had built the empire.
+
+Yet even as they remembered, the people of the Last Year looked to the future. New banners were raised, new leaders emerged. The empire was gone, but its spirit endured. And though the road ahead was uncertain, the people of the Last Year faced it with courage and hope.
+
+#+begin_quote
+[Canon: FE-LA-B3-WIT-293 | Reliability: R4 | Locale: FE-LOC-B3-112]
+In the highlands, Eron the Red raised a new banner—a red field with a white saltire. "This is the flag of the Free March," he said. "Let it be a symbol of our freedom, our independence. Let it remind us of what we have lost, and what we have gained."
+#+end_quote
+
+The seventh month was a time of memory, but also a time of new beginnings. The empire was gone, but its legacy lived on. And though the Last Year had ended, its story was far from over.
+

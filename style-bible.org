@@ -1,0 +1,83 @@
+* Style Bible of the Banner Annals
+
+** Purpose
+This codex governs diction, cadence, chronology, and referential method for the Flag-Empires corpus. The tone is high chronicle, grave but lucid, with periodic lyrical expansion. Every chapter shall move between three registers: annal, witness, and lament.
+
+** Core Register
+- Prefer long, rolling sentences for historical sweep.
+- Break into short, hard clauses for battle, famine, betrayal, and decree.
+- Keep names consistent by canonical form.
+- Use archaic flavor sparingly; clarity is law.
+
+** Temporal Architecture
+The history is divided into numbered Ages and Year-Counts.
+- DA: Dawn Age, before imperial calendars.
+- FA: First Age of Raising Banners.
+- SA: Second Age of Salt and Coin.
+- TA: Third Age of Iron Roads.
+- LA: Last Age, ending in the Last Year.
+
+All narrative events must include a Canon ID and at least one date mark in one of these systems.
+
+** Canon ID Syntax
+Format: FE-<AGE>-<BOOK>-<SERIES>-<ITEM>
+Example: FE-SA-B2-ANN-044
+Where:
+- AGE: DA, FA, SA, TA, LA
+- BOOK: B0 (meta), B1, B2, B3
+- SERIES: ANN (annal), EDI (edict), WIT (witness), MAP, LIN, RIT
+- ITEM: three-digit index
+
+** Required Sections per Major Chapter
+1. Heading with year-span.
+2. Annals snippet block.
+3. Narrative prose.
+4. Optional witness fragments.
+5. Canon references list.
+
+** Annals Snippet Form
+Use fixed pattern:
+#+begin_quote
+[Canon: FE-SA-B2-ANN-044 | Year: SA 233]
+In the month of westward dust the Fifth Banner crossed the Dry Seam, and no bell was rung in greeting.
+#+end_quote
+
+** On Peoples and Polities
+Avoid caricature. Every polity must contain factions, internal memory, and contradictory virtues.
+
+** Lexicon Standards
+- Use “Banner-Lord” for supreme military ruler.
+- Use “Seal-Keeper” for civil archivist authority.
+- Use “Mast-City” for fortified capital.
+- Use “Salt Courts” for mercantile tribunals.
+- Use “Road-Wardens” for imperial logistics corps.
+
+** Refrains and Recurring Images
+Approved motifs:
+- Cloth in wind as omen of legitimacy.
+- Salt as covenant and corruption.
+- Lantern smoke as persistence of memory.
+- River mouths as thresholds of empire.
+
+** Prohibitions
+- No placeholder markers.
+- No modern slang.
+- No unexplained retcons.
+- No chapter without at least three Canon IDs.
+
+** Editorial Coherence Rules
+- When uncertain between two dates, record both in annal dispute note.
+- Distinguish between archive fact and witness belief.
+- Preserve contradictory testimony; reconcile only with evidence.
+
+** Pronunciation and Orthography Guide
+- Flagartha: FLAH-gar-tha.
+- Flagistan: FLAH-jis-tan.
+- Surfacers: SUR-fay-sers.
+- Kharad Tines: KHA-rad TEENS.
+
+** End Matter Standard
+Each book ends with:
+- Roll of reigning houses.
+- Disputed entries.
+- Losses uncounted.

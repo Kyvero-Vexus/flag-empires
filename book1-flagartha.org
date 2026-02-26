@@ -1,0 +1,369 @@
+#+TITLE: The Standard of Flagartha
+#+SUBTITLE: Book I of the Flag-Empires Chronicle
+
+* Arc 1: 'The Wind Before Names'
+The world was cloth before it was cloth. In the earliest memory-cycles, the Dawn Age, banners were wind's signatures on stone. Tribes who traced the migrations of birds found that cloth, when left to weather on high peaks, absorbed the memory of storms. They called it "storm-laughter" and wore it as a mark of having survived the year's first gale. The clans of the Dry Hills recorded their ages not by suns but by the number of cloths they had tattered and rewoven. [Canon: FE-DA-B1-ANN-001 | Year: DA 1]
+
+The Hill clans were never one people. Each valley named itself after the sound its river made against rock. The people of Silver-Shriek built their first permanent markers from bundled reeds painted with ochre spirals. The folk of Deep-Grumble raised stone cairns that whistled in crosswinds. When clans met at the Salt-Gift Fairs, they exchanged cloths dyed with the same mineral but folded in different counts. The Salt-Gift was both trade and oath: salt for cloth, cloth for salt, salt to seal the oath, oath to bind the salt. [Canon: FE-DA-B1-ANN-002 | Year: DA 12]
+
+No banner yet flew above a mast. Instead, cloths were tied to the horns of sacred oxen that walked the borders between clans. To follow the ox was to accept the cloth's judgment. When two cloths met at a crossroads, the ox would kneel toward the cloth whose dye held the deepest mineral stain. That clan claimed the crossroads for one turning of the moon. The ox-judges never spoke; they only knelt or stood. Their silence was the first law. [Canon: FE-DA-B1-ANN-003 | Year: DA 23]
+
+The Salt Courts emerged when the river mouths silted and the inland clans could no longer reach the sea. A council of salt-merchants from five valleys built a raft of bound cedar and floated it into the tide. There they laid out salt cakes in a circle and waited for the gulls to choose where to land. The landing pattern dictated the price of salt for the next season. Merchants who cheated the pattern found their salt shriveling in the cask before the moon waned. The Salt Courts judged not only salt but also the legitimacy of cloth exchanges. A cloth without mineral dye was called "wind-lie" and could not be traded. [Canon: FE-DA-B1-ANN-004 | Year: DA 31]
+
+The first great memory-cycle collapse came when a drought dried the riverbeds for three turning-seasons. Clans hoarded salt and cloth alike. The ox-judges wandered aimlessly, their horns stripped of dyed tassels. In the year of black springs, a child named Ash-Cloth wandered from the Silver-Shriek valley carrying a strip of undyed linen. She walked to the salt-raft and laid the cloth upon the salt circle. No gull landed. The cloth remained untouched until the next moon, when a single drop of rain fell upon it. The drop left a dark circle, and the merchants declared the cloth blessed. Ash-Cloth became the first Seal-Keeper, keeper of cloths that had survived calamity. [Canon: FE-DA-B1-ANN-005 | Year: DA 47]
+
+The Seal-Keeper's role was to record which cloths had been marked by storm, drought, or flood. She kept a ledger of mineral stains and their meanings. A cloth with three concentric circles meant the clan had survived three great storms. A cloth with a single dark streak meant the river had risen to the roof-beams. These records were kept in clay jars sealed with wax and buried beneath the oldest cairn. When a Seal-Keeper died, her successor had to dig up the jars and recite the stains aloud before the first snow. Failure meant the clan would lose its right to trade salt for the next year. [Canon: FE-DA-B1-ANN-006 | Year: DA 53]
+
+The memory-cycles were not always peaceful. In the year of the raven-cloth war, two clans claimed the same mineral spring. Each dyed their cloths with the spring's water and declared the color sacred. The ox-judges refused to kneel, for both cloths bore the same hue. The clans resorted to counting the number of times each cloth flapped in a crosswind. The cloth that flapped more often was declared victorious. The losing clan had to surrender its salt stores and weave a new cloth in the winner's pattern. This counting of flaps became known as the "wind-count verdict." [Canon: FE-DA-B1-ANN-007 | Year: DA 61]
+
+The first mast was not a mast at all but a lightning-struck tree left standing in the valley of Stone-Whistle. The tree's top was sheared off, leaving a smooth pole. A traveler from the east hung a strip of red cloth from it, claiming the color honored a bird whose cry warned of storms. Other travelers added their own cloths: blue for river memory, yellow for sun-heat, white for snow. The tree became a gathering place, and the cloths a record of who had passed. The Seal-Keeper of Stone-Whistle declared the tree a "memory-pole" and forbade its cutting. [Canon: FE-DA-B1-ANN-008 | Year: DA 74]
+
+The memory-pole's influence spread. Clans began to erect their own poles, each with a single cloth at first. The cloths were not yet banners; they were "pole-tokens." A pole-token could be challenged only by another pole-token of equal size and dye. Challenges were settled by having both cloths flap in a gale; the one that tore first lost the pole. This practice led to the first pole-wars, where entire valleys fought to keep their pole-tokens aloft. The wars ended when the Seal-Keeper of Stone-Whistle decreed that pole-tokens could only be challenged once per turning-season. [Canon: FE-DA-B1-ANN-009 | Year: DA 82]
+
+The year of the three floods brought a new understanding of cloth. When the rivers rose, they carried debris that snagged on the memory-poles. The debris—reeds, branches, animal hides—became tangled with the pole-tokens. Survivors noticed that the most resilient pole-tokens were those woven with multiple fibers. Clans began to weave cloths from wool, hemp, and river-reeds together. These "mixed-cloths" were said to hold the strength of all three elements. The Seal-Keeper of Stone-Whistle declared that mixed-cloths could not be challenged, for they represented unity. [Canon: FE-DA-B1-ANN-010 | Year: DA 97]
+
+The first true banner rose in the valley of Wind-Cut when a storm tore a pole-token into three pieces. The clan's weaver sewed the pieces back together with a thread of gold wire given as a gift from a passing merchant. The repaired cloth was larger than before and caught the wind with a deeper sound. The clan declared it a "storm-banner" and flew it from a newly raised mast. Other clans mocked the storm-banner as "patched pride" until a drought struck Wind-Cut and the storm-banner was seen to sweat droplets of moisture. The droplets were collected and used to bless the clan's crops. [Canon: FE-DA-B1-ANN-011 | Year: DA 104]
+
+The storm-banner's success led to a new era of mast-building. Clans competed to erect the tallest masts, believing height brought favor from the wind. The mast of Stone-Whistle was raised to twice the height of a man. The mast of Deep-Grumble reached three times a man's height. The mast of Silver-Shriek was felled by a lightning strike before it could be completed. The Seal-Keeper of Wind-Cut decreed that no mast could exceed the height of the tallest tree in the valley. This decree was ignored, and the mast-wars began. [Canon: FE-DA-B1-ANN-012 | Year: DA 119]
+
+The mast-wars ended not with a battle but with a fire. A mast in the valley of Ember-River caught fire from a lightning strike and fell across the river, igniting the reeds on both banks. The fire spread to three valleys before the clans united to create a firebreak. In the aftermath, the Seal-Keeper of Stone-Whistle called a council of all mast-keepers. They agreed to limit mast height and to share the responsibility of watching for lightning strikes. The council also agreed that each mast should fly a cloth bearing the colors of all clans, a "unity-cloth." [Canon: FE-DA-B1-ANN-013 | Year: DA 133]
+
+The unity-cloth was a compromise that satisfied no one. Clans still preferred their own colors, and the unity-cloth was often left to rot at the mast's peak while smaller, clan-specific cloths flew below it. The Seal-Keeper of Wind-Cut proposed a new system: each clan would fly its own cloth, but the unity-cloth would be raised only during the Salt-Gift Fairs. This system was accepted, and the unity-cloth became a symbol of temporary truce rather than lasting peace. [Canon: FE-DA-B1-ANN-014 | Year: DA 148]
+
+The first recorded banner-lord was a woman named Cloud-Rider who lived in the valley of Sky-Lean. She was a mast-keeper who also knew the art of weaving cloths that could catch the faintest breeze. Cloud-Rider led her clan in a dispute with the neighboring valley of Rock-Quiet over the right to a salt spring. Instead of challenging the pole-token, Cloud-Rider flew a new cloth from her mast—a cloth so large it could be seen from the next valley. The cloth bore a symbol of a bird in flight, and it seemed to move even when there was no wind. The people of Rock-Quiet surrendered the salt spring without a fight, claiming the bird-symbol was an omen. [Canon: FE-DA-B1-ANN-015 | Year: DA 162]
+
+Cloud-Rider's victory marked the beginning of the banner-lord era. Clans began to seek out weavers who could create cloths with symbols that inspired awe or fear. The Seal-Keeper of Stone-Whistle tried to regulate these symbols, but the weavers formed their own guild and refused to submit their designs for approval. The guild declared that symbols were the domain of the wind and could not be owned by any clan. This declaration led to the first symbol-wars, where clans fought over the right to use certain images on their cloths. [Canon: FE-DA-B1-ANN-016 | Year: DA 177]
+
+The symbol-wars ended when a drought struck the valleys and the weavers could no longer find the plants needed to create certain dyes. The shortage forced clans to share symbols and even colors. The Seal-Keeper of Wind-Cut declared a truce and ordered the weavers to create a new set of symbols that all clans could use. The weavers complied, and the new symbols were simple geometric shapes that could be made with any dye. The truce held for one turning-season, after which the clans returned to their old rivalries. [Canon: FE-DA-B1-ANN-017 | Year: DA 191]
+
+The year of the great wind brought a new understanding of banners. A storm swept through the valleys, tearing down masts and scattering cloths. When the storm passed, the clans found that the cloths which had survived were those that had been allowed to move freely in the wind. The Seal-Keeper of Stone-Whistle declared that banners should not be flown from fixed masts but from poles that could sway with the wind. This new practice, called "wind-dancing," spread quickly. Clans built flexible poles that bent in the wind, and the banners seemed to dance atop them. [Canon: FE-DA-B1-ANN-018 | Year: DA 206]
+
+The wind-dancing banners were a marvel, but they also posed a new problem. The flexible poles were prone to breaking in strong winds, and the banners would be lost. The Seal-Keeper of Wind-Cut proposed a solution: the poles should be anchored not in the ground but in large stones that could roll slightly. This allowed the poles to move without breaking, and the banners could dance more freely. The rolling-stone poles became a new standard, and the clans competed to create the most graceful banner dances. [Canon: FE-DA-B1-ANN-019 | Year: DA 221]
+
+The last memory-cycle of the Dawn Age ended with a great gathering at Stone-Whistle. All the clans came together to celebrate the end of the age and to prepare for the new one. They raised a single mast, taller than any before it, and flew a unity-cloth so large it could be seen from the highest peaks. The Seal-Keeper of Stone-Whistle declared that the Dawn Age had been an age of learning, and that the new age would be one of building. The clans agreed, and they lowered the unity-cloth as a sign of their commitment to the future. [Canon: FE-DA-B1-ANN-020 | Year: DA 233]
+
+#+begin_quote
+[Witness Fragment: FE-DA-B1-WIT-001 | Reliability: R4 | Locale: FE-LOC-B1-001]
+I saw the last unity-cloth lowered at Stone-Whistle. It was a cloth of many colors, and it fell like a great bird landing. The Seal-Keeper said it was the end of an age, but I thought it was the beginning of something else. The wind took the cloth and carried it away, and we watched it until it was gone.
+#+end_quote
+
+= Arc 2: Raising the First Mast-City =
+
+The chronicle now turns to the founding of Kher Valaan, the first Mast-City, and the binding of House Talar to river and ridge. In these years, the banner's cloth was still wet with dye, and the wind had not yet learned to speak its name.
+
+* Founding of Kher Valaan
+
+The valley of Kher Valaan was chosen not for its fertility but for its stillness. A river forked here, its two arms meeting in a shallow pool before running south toward the sea. On the eastern bank, a ridge of black stone rose like the back of a sleeping beast. The land had no name, and the people who lived there had no banners. They were hunters and gatherers, moving with the seasons, leaving no mark but fire circles and broken spearheads.
+
+[Canon: FE-FA-B1-ANN-021 | Year: FA 012]
+In the season of first thaw, scouts of House Talar came to the fork of the river. They found no city, no king, no temple. Only the black ridge and the water that moved between its feet.
+
+The Talar scouts were led by a woman named Zira, whose eyes were said to be the color of storm clouds. She stood on the ridge and watched the river for three days, noting the patterns of fish, the flight of birds, the way the wind carried the scent of distant forests. On the third night, she dreamed of a mast rising from the stone, a banner snapping in the wind, and a voice that said, *Here you will build.*
+
+When she woke, she sent runners back to the Talar camp with a single word: *Here.*
+
+The Talar arrived not as conquerors but as settlers. They brought cedar logs from the high forests, stone from the ridge, and cloth dyed in indigo and madder. The first structure they raised was not a palace but a watchtower, its base sunk deep into the black stone. From its top, they could see the river in both directions, the forests to the north, and the distant sea to the south.
+
+* House Talar Binds River and Ridge
+
+The binding of river and ridge was a ritual act, performed not by priests but by engineers and weavers. The engineers carved channels in the stone to guide the river's flow, creating basins for fish and mills for grinding grain. The weavers hung banners from the watchtower, each one a different color, each one catching the wind in a different way.
+
+[Canon: FE-FA-B1-ANN-034 | Year: FA 018]
+The first banner was blue, the color of the river's depths. It was raised at dawn, and the wind took it like a hand. The second was red, the color of the ridge's stone. It was raised at noon, and the sun made it glow. The third was white, the color of the clouds. It was raised at dusk, and the wind carried it into the dark.
+
+The binding was not only physical but spiritual. The Talar believed that the river and the ridge were living things, and that by building on them, they entered into a covenant. They offered the first fish caught in the new basins, the first grain ground in the new mills, the first cloth woven on the new looms. They sang songs to the river and the ridge, songs that had no words but only tones, rising and falling like water and stone.
+
+* The First Mast Rises
+
+The watchtower became the first mast. It was not tall by later standards, no more than thirty cubits high, but it was the tallest thing for a hundred leagues. On its top, they raised a banner of black and gold, the colors of House Talar. The wind caught it, and it snapped like a whip, and the sound carried across the valley.
+
+[Canon: FE-FA-B1-ANN-045 | Year: FA 023]
+On the day the first mast was raised, a storm came from the east. Lightning struck the ridge, and thunder shook the valley. The banner on the mast burned, but the cloth was not consumed. When the storm passed, the banner was still there, black and gold against the gray sky.
+
+The people of the valley watched from the forests and the hills. Some were afraid, thinking the storm a sign of anger. Others were curious, thinking it a sign of power. A few were hopeful, thinking it a sign of change. They came down to the river, carrying their few possessions, their children, their old ones. They asked to join the Talar, to help build the new city.
+
+Zira Talar, who was now the Banner-Lord, welcomed them. She said, *We do not build for ourselves alone. We build for all who come in peace.* She gave them land on the western bank, where they could farm and hunt and fish. She taught them the ways of the river and the ridge, the ways of the banner and the mast.
+
+* The City Grows
+
+Kher Valaan grew not in a single burst but in layers, like the rings of a tree. The first ring was the watchtower and the basins, the mills and the looms. The second ring was the houses of the Talar and their closest allies. The third ring was the houses of the valley people who had joined them. The fourth ring was the market, where goods from the forests and the sea were traded.
+
+[Canon: FE-FA-B1-ANN-056 | Year: FA 030]
+In the fifth year of the city, the market was opened. Merchants came from the north with furs and amber, from the east with salt and spices, from the south with shells and pearls. The market was held in a square at the foot of the ridge, and the banner of House Talar flew over it day and night.
+
+The city needed laws, and Zira Talar gave them. She said, *The river belongs to all, but the channels belong to those who dig them. The ridge belongs to all, but the houses belong to those who build them. The market belongs to all, but the scales belong to those who weigh.* She appointed judges to settle disputes, and they sat under the banner of House Talar, their decisions binding as the wind.
+
+* The First Harvest
+
+The first harvest was a time of joy and fear. The valley people had planted the fields with seeds given by the Talar, seeds of wheat and barley, beans and squash. They did not know if the crops would grow, or if they would be enough. When the fields turned gold and green, when the beans hung like pearls, when the squash lay on the ground like stones, they knew they had been blessed.
+
+[Canon: FE-FA-B1-ANN-067 | Year: FA 037]
+On the day of the first harvest, a feast was held in the market square. The Talar provided wine and meat, the valley people provided bread and vegetables. They ate together, sang together, danced together. The banner of House Talar flew over the feast, and the wind made it ripple like water.
+
+But the feast was also a warning. Zira Talar stood on the steps of the watchtower and said, *This harvest is not the end. It is the beginning. Next year, the river may flood. The ridge may shake. The wind may bring fire. We must be ready.* She ordered the building of granaries, the digging of wells, the weaving of nets. She said, *We store not for ourselves but for all who may come to us in need.*
+
+* The First Winter
+
+The first winter was hard, harder than any had expected. The river froze, the ridge was buried in snow, the wind howled like a beast. The granaries were full, but the people were hungry. The nets were woven, but the fish were gone. The houses were warm, but the cold came through the walls.
+
+[Canon: FE-FA-B1-ANN-078 | Year: FA 042]
+In the heart of winter, a child died of fever. His mother was from the valley, his father was a Talar. They buried him under the ridge, where the snow was shallow. They marked the grave with a stone, and on the stone they hung a small banner, white with a black border. It was the first funeral banner in Kher Valaan.
+
+Zira Talar came to the grave. She said, *We mourn, but we do not despair. The river will thaw. The ridge will stand. The wind will change.* She ordered the building of a temple at the foot of the ridge, a place where the living could speak to the dead, where the river could be honored, where the banner could be kept safe.
+
+* The Temple of the Banner
+
+The temple was not like the watchtower or the houses. It was round, with a roof of cedar shakes and walls of woven reed. In the center, a fire was kept burning day and night, fed by wood from the forests. Around the fire, banners were hung, each one representing a season, a river, a ridge, a house, a person.
+
+[Canon: FE-FA-B1-ANN-089 | Year: FA 048]
+The temple was opened on the first day of spring. The Banner-Lord Zira Talar stood before the fire and said, *This is the heart of Kher Valaan. Here we remember the river and the ridge. Here we honor the dead and the living. Here we keep the banner safe.* She hung the black and gold banner of House Talar on the eastern wall, where the rising sun would touch it first.
+
+The temple became the center of the city's life. People came to pray, to seek advice, to make offerings. They brought the first fruits of their fields, the first fish of the season, the first cloth from their looms. They asked for blessings on their houses, their children, their work. They asked for protection from the river's floods, the ridge's quakes, the wind's fires.
+
+* The Second Mast
+
+As Kher Valaan grew, so did its need for more masts. The first mast was the watchtower, but it was not enough. The city needed masts on the western bank, on the southern fields, on the northern forests. Each mast was a tower, each tower a watchpoint, each watchpoint a link in the chain of the banner's reach.
+
+[Canon: FE-FA-B1-ANN-090 | Year: FA 053]
+The second mast was raised on the western bank, opposite the first. It was built by the valley people, under the guidance of Talar engineers. It was not as tall as the first, no more than twenty cubits, but it was strong. On its top, they raised a banner of green and white, the colors of the valley. The wind took it, and it snapped like a whip, and the sound carried across the river.
+
+The raising of the second mast was a day of celebration. The Banner-Lord Zira Talar came to the western bank, and she spoke to the valley people. She said, *This mast is yours. This banner is yours. This city is yours, as much as it is ours.* She ordered the building of a bridge between the two banks, a bridge of stone and wood, strong enough to hold the weight of carts and horses.
+
+The bridge was finished before the next winter. It was the first bridge in the valley, the first link between the two sides of the river. It was a symbol of the city's unity, of the covenant between the Talar and the valley people, of the binding of river and ridge.
+
+* The City's Voice
+
+Kher Valaan now had a voice, and it was the voice of the banner. The banner spoke in the wind, in the snap of cloth, in the color of dye. It spoke of the river's flow, the ridge's strength, the city's growth. It spoke of the past and the future, of the dead and the living, of the covenant and the promise.
+
+[Canon: FE-FA-B1-ANN-101 | Year: FA 060]
+In the seventh year after the bridge, a stranger came to Kher Valaan. He was from the south, from a city of stone and glass, where the banners were silk and the masts were iron. He brought news of the world beyond the valley, of kings and empires, of wars and trade. He spoke of a great river to the south, wider than any in the valley, and of a sea beyond it, where the sun set in fire.
+
+The stranger was welcomed by the Banner-Lord Zira Talar. She listened to his stories, asked him questions, gave him food and shelter. She said, *We are small, but we are strong. We are few, but we are many. We are here, and we will stay.* She gave him a banner of black and gold, a small one, to take back to his city. She said, *Tell them of Kher Valaan. Tell them of the river and the ridge. Tell them of the covenant and the promise.*
+
+The stranger left, carrying the banner. He went south, toward the great river, toward the sea of fire. He told his stories, and the stories spread. They reached the ears of kings and merchants, of warriors and priests. They spoke of a city in a valley, of a banner in the wind, of a covenant in the stone.
+
+And so Kher Valaan became known, not as a place on a map, but as a name in the wind, a voice in the banner, a light in the dark.
+
+* Witness Fragments and Annal Snippets
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-012 | Reliability: R3 | Locale: FE-LOC-B1-002]
+I saw the first mast rise from the black stone. It was like a tree growing from rock, like a spear thrust into the sky. The Banner-Lord stood below it, her hands raised, her voice singing a song I did not know. The wind took the banner, and it snapped like a whip. I thought, *This is the beginning.*
+#+end_quote
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-034 | Year: FA 018]
+The first banner was blue, the color of the river's depths. It was raised at dawn, and the wind took it like a hand. The second was red, the color of the ridge's stone. It was raised at noon, and the sun made it glow. The third was white, the color of the clouds. It was raised at dusk, and the wind carried it into the dark.
+#+end_quote
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-025 | Reliability: R4 | Locale: FE-LOC-B1-003]
+I was a child when the stranger came. He told us of cities we had never seen, of rivers we had never crossed, of seas we had never dreamed. He showed us a map, and on it was a dot, and he said, *This is Kher Valaan.* I looked at the dot, and I thought, *This is where I live. This is where I belong.*
+#+end_quote
+
+* Arc 3: Consolidation and Covenant Wars
+[Canon: FE-FA-B1-ANN-091 | Year: FA 091]
+
+The Iron Banner's shadow stretched over the foothills of the East March, where seven small banner-lords had long kept their own covenants with the soil and the seasons. Now they knelt at the Council of the Mast, swearing fealty beneath the same cloth that had once flown alone above Flagartha. The Seal-Keeper recorded each oath in wax, and the salt of the oath-rivers was mingled with that of the Great Harbor.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-098 | Year: FA 098]
+The Banner-Lord of Green Rock refused the oath. His men barred the passes, and the Iron Banner's advance halted at the Throat of Stone. For three moons the passes were closed, and traders starved. At last the Banner-Lord relented, but his banner flew a black stripe from that day.
+#+end_quote
+
+** The Standardization of Fealty
+[Canon: FE-FA-B1-ANN-101 | Year: FA 101]
+
+To bind the vassals, the Banner-Lord decreed that all banners must carry a strip of the Iron Banner's cloth stitched into their hoist. This "heart-thread" became both symbol and surveillance: a banner could be cut down, but the thread remained, proof of allegiance. The Salt Courts were instructed to inspect banners at every crossing, and fines were levied for missing threads.
+
+#+begin_quote
+[Canon: FE-FA-B1-EDI-005 | Year: FA 101]
+No banner shall be flown without the heart-thread. Any banner found without shall be forfeit, and its bearer shall pay in salt the weight of the cloth.
+#+end_quote
+
+** East March Uprisings
+[Canon: FE-FA-B1-ANN-115 | Year: FA 115]
+
+In the spring of FA 115, the harvests failed across the East March. The Banner-Lord of Green Rock, his pride still stung by the Throat of Stone incident, blamed the heart-thread decree for angering the soil spirits. He sent messengers to five other banner-lords, urging them to tear the threads and reclaim their old banners. The messengers were caught at the border, their tongues cut out by Road-Wardens. Yet the word spread.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-021 | Year: FA 115]
+We saw the banners come down at sunset. First Green Rock, then White Vale, then Iron Hill. By dawn, seven banners flew without the heart-thread, and the wind carried the smell of burning cloth.
+#+end_quote
+
+The Iron Banner's army marched east, but the passes were blocked by felled trees and rockfalls. The Banner-Lord of Green Rock had learned from the last siege. The army was forced to detour through the lowlands, where the rivers ran thick with mud and the roads turned to mire. By the time they reached Green Rock, winter had set in, and the army's supplies were dwindling.
+
+** The Lantern Peace
+[Canon: FE-FA-B1-ANN-123 | Year: FA 123]
+
+After two years of stalemate, the Banner-Lord of Green Rock proposed a truce. They would meet at the Lantern Fields, where the great stone lanterns were lit each autumn to guide the spirits of the dead. The Lantern Peace was sealed with a shared meal and the exchange of banners. The heart-threads were restored, but the Banner-Lord of Green Rock was granted a seat on the Council of the Mast, the first banner-lord of the East March to sit among the Iron Banner's councilors.
+
+#+begin_quote
+[Canon: FE-FA-B1-EDI-017 | Year: FA 123]
+By the light of the Lantern Fields, the Banner-Lord of Green Rock and the Banner-Lord of Iron Banner have sworn a new covenant. Let the heart-threads be a sign of unity, not of subjugation.
+#+end_quote
+
+** Hidden Reprisals
+[Canon: FE-FA-B1-ANN-130 | Year: FA 130]
+
+Yet the Lantern Peace was a fragile thing. In the years that followed, the Road-Wardens tightened their grip on the passes. Travelers were searched for forbidden banners, and any found were burned. The Salt Courts imposed heavier tolls on the East March, and the Banner-Lord of Green Rock's seat on the Council was little more than a token. Whispers spread of secret prisons where dissenters were taken, never to be seen again.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-035 | Year: FA 130]
+They say the prisons are beneath the old watchtowers, where the wind howls through the stones. No one who goes in ever comes out, and the banners that fly above are always the same.
+#+end_quote
+
+** The Covenant Wars
+[Canon: FE-FA-B1-ANN-145 | Year: FA 145]
+
+The tension came to a head in FA 145, when a group of banner-lords from the East March refused to pay the increased tolls. They argued that the Lantern Peace had guaranteed them equal standing, but the Salt Courts ruled against them. In response, the banner-lords raised their banners without the heart-threads once more, and this time they were joined by banner-lords from the South and West.
+
+The Covenant Wars raged for five years, with the Iron Banner's forces stretched thin across the realm. The banner-lords of the East March fought with a desperation born of years of resentment, and the Iron Banner's army found itself bogged down in a war of attrition. The roads were lined with burned villages, and the rivers ran red with blood.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-157 | Year: FA 157]
+The Banner-Lord of Iron Banner has decreed that any banner-lord who surrenders will be granted amnesty. Yet the roads are filled with the dead, and the heart-threads are torn and stained with blood.
+#+end_quote
+
+** The Treaty of the Three Rivers
+[Canon: FE-FA-B1-ANN-165 | Year: FA 165]
+
+In the end, it was the rivers that brought peace. The Banner-Lord of Iron Banner, his army exhausted and his treasury empty, agreed to meet the rebel banner-lords at the confluence of the Three Rivers. There, they signed the Treaty of the Three Rivers, which granted the East March greater autonomy and reduced the tolls. The heart-threads remained, but the banner-lords of the East March were allowed to add their own symbols to their banners.
+
+#+begin_quote
+[Canon: FE-FA-B1-EDI-029 | Year: FA 165]
+By the waters of the Three Rivers, the Banner-Lord of Iron Banner and the banner-lords of the East March have sworn a new covenant. Let the heart-threads be a sign of unity, and let the symbols of the East March be a sign of their pride.
+#+end_quote
+
+** Aftermath and Legacy
+[Canon: FE-FA-B1-ANN-170 | Year: FA 170]
+
+The Covenant Wars left deep scars on the realm. The East March remained a restless province, its banner-lords always watching for signs of betrayal. The Iron Banner's authority was weakened, and other provinces began to chafe under its rule. Yet the heart-threads remained, a symbol of the fragile unity that held the realm together.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-048 | Year: FA 170]
+I have seen the heart-threads torn and burned, and I have seen them restored. They are a sign of our unity, but also of our division. We are one realm, but we are many banners.
+#+end_quote
+
+* Arc 4: Crown of Seven Cloths
+The Fifth Age of the First Banner dawned not with trumpets but with the quiet raising of seven new cloths upon the mast-city's highest spire. Each cloth bore a color never before united under one pole: vermilion, indigo, saffron, emerald, silver, umber, and a seventh of midnight blue shot through with gold thread. The Banner-Lord who ordered this display, Kharad Tines, claimed descent from the first wind-carriers and summoned every Seal-Keeper from the valley strongholds to witness the unfurling.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-187 | Year: FA 421]
+The seventh cloth was raised at dawn, and the Seal-Keeper of the West spoke the old words of binding, though none alive had heard them in living memory.
+#+end_quote
+
+The ritual that followed lasted three days. Each Seal-Keeper brought a relic: a shard of the first mast, a splinter from the gate of the first citadel, a single thread said to have been torn from the cloak of the wind's first rider. These were placed in a bronze chest whose lid bore seven locks, each opened by a different oath-sworn hand. When the last lock fell away, the chest was sealed again, this time with a single iron clasp shaped like a mast-and-cloth.
+
+#+begin_quote
+[Canon: FE-FA-B1-RIT-001 | Reliability: R2 | Locale: FE-LOC-B1-002]
+The Seven Cloth Rite requires seven oath-sworn Seal-Keepers, a bronze chest, seven relic fragments, and a mast-shaped clasp. Failure to complete the rite within three days of the seventh cloth's raising is taken as a sign of divine withdrawal.
+#+end_quote
+
+Kharad Tines declared that from this day forward no Banner-Lord could rule without the assent of the Seal-Keepers and the completion of the rite. The declaration was engraved on a stone slab and set into the mast-city's foundation stone. Within a year, every valley stronghold had sent its own cloth to be dyed in the seven colors, and the banner of Flagartha became a patchwork of unity.
+
+Yet unity bore its own weight. The Seal-Keepers, once itinerant judges, now sat in council beneath the mast-city's great hall. Their debates over tolls, trade rights, and the movement of salt caravans grew long and bitter. Kharad Tines, mindful of the mast's fragility, ordered the construction of a second mast on an island three days' sail from the mainland. This island, called Salt's Edge, became a waystation for ships bearing southern dyes and northern timber.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-198 | Year: FA 434]
+The second mast was raised on Salt's Edge, and the first ship to dock beneath it flew a flag of seven stripes. The Seal-Keeper of the East declared the mast a blasphemy; the Seal-Keeper of the South called it a necessity.
+#+end_quote
+
+By FA 450, the mast-city's granaries held enough wheat to feed its people for three years, but the same granaries depended on ships from the southern coast to bring salt for preservation. The Seal-Keeper of the North, whose valleys produced no salt, began to speak of the sea as a new kind of valley, one that could be crossed but never owned. His words found favor among the younger Seal-Keepers, who saw in maritime trade a way to bind the valleys more tightly than any cloth could.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-012 | Reliability: R4 | Locale: FE-LOC-B1-005]
+I heard the Seal-Keeper of the North say that the sea was a valley turned inside out, and that the mast-city must learn to sail or be left behind. The old ones muttered that he spoke with the tongue of the wind's enemy.
+#+end_quote
+
+The rite of the seven cloths became a biennial event, celebrated in the month when the first autumn winds bent the valley grasses. Each celebration required the Seal-Keepers to travel to the mast-city, a journey that grew longer as the roads were repaired and guarded. The cost of these journeys, once borne by local strongholds, was now drawn from a central treasury funded by tolls on the Salt Roads.
+
+#+begin_quote
+[Canon: FE-FA-B1-RIT-007 | Reliability: R1 | Locale: FE-LOC-B1-002]
+The Biennial Seven Cloth Rite mandates the presence of all seven Seal-Keepers, the recitation of the Binding Oath, and the offering of a new relic to the bronze chest. Absence of any Seal-Keeper invalidates the rite and is taken as a sign of rebellion.
+#+end_quote
+
+Yet the very success of the rite bred new tensions. The Seal-Keeper of the West, whose valleys produced the indigo dye, began to charge tolls on all cloth entering his territory. The Seal-Keeper of the South, whose ports handled the saffron trade, imposed duties on every ship that passed his lighthouse. Kharad Tines, faced with dwindling central revenues, ordered the construction of a fleet to patrol the coast and enforce uniform tolls.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-223 | Year: FA 467]
+The first fleet was launched from Salt's Edge, bearing the seven-colored banner. The Seal-Keeper of the South refused to quarter the fleet in his ports; the Seal-Keeper of the West threatened to withhold indigo.
+#+end_quote
+
+The fleet's first voyage was a disaster. A storm off the southern cape scattered the ships, and two were lost with all hands. The survivors limped back to Salt's Edge, their sails in tatters. Kharad Tines, humiliated, ordered the construction of a new mast on the mainland, taller than the first, to show that the wind still favored Flagartha.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-018 | Reliability: R3 | Locale: FE-LOC-B1-006]
+I saw the new mast raised, and it was twice the height of the old. The Seal-Keepers stood in a circle around its base, each holding a cloth of their valley's color. When the top was reached, the cloths were tied together and let fall like a waterfall of light.
+#+end_quote
+
+The height of the mast became a point of pride, but also a vulnerability. A single fire, set by an unknown hand, consumed the new mast in a night. The Seal-Keepers accused one another of treachery; the Seal-Keeper of the East claimed the fire was divine punishment for the fleet's hubris, while the Seal-Keeper of the South whispered that the Seal-Keeper of the West had ordered the deed to protect his indigo monopoly.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-245 | Year: FA 489]
+The great mast burned in the night, and with it the seven cloths. The Seal-Keepers met in emergency council, but no consensus was reached. The bronze chest was sealed without the rite, and for the first time in living memory the banner of Flagartha flew without the seven colors.
+#+end_quote
+
+Kharad Tines, his authority shaken, ordered the construction of a third mast, this one of stone, to be built on the highest peak of the mainland. The Seal-Keepers protested that a stone mast could not catch the wind, but Kharad Tines insisted that the symbol mattered more than the function. The stone mast took ten years to complete, during which time the Seal-Keepers' councils grew more frequent and more fractious.
+
+#+begin_quote
+[Canon: FE-FA-B1-RIT-015 | Reliability: R2 | Locale: FE-LOC-B1-003]
+The Stone Mast Rite requires the presence of all seven Seal-Keepers, the offering of a stone tablet bearing the Binding Oath, and the raising of a stone mast upon the highest peak. The rite may only be performed once in a generation.
+#+end_quote
+
+When the stone mast was finally raised, it stood silent against the sky, its surface etched with the seven colors in mosaic form. The Seal-Keepers, gathered at its base, performed the rite without the seven cloths, using instead seven lanterns whose light, when hung upon the mast, cast the colors onto the surrounding peaks. The sight was said to be so beautiful that even the Seal-Keeper of the East wept, though whether from joy or sorrow none could say.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-025 | Reliability: R4 | Locale: FE-LOC-B1-007]
+I climbed the peak on the night of the rite. The lanterns cast their light upon the stone, and for a moment it seemed as though the mast itself was made of cloth. The Seal-Keepers stood in silence, and I heard one of them whisper that the wind had finally abandoned them.
+#+end_quote
+
+The success of the Stone Mast Rite did not end the Seal-Keepers' disputes. If anything, it made them more aware of their interdependence. The Seal-Keeper of the West, whose indigo trade had suffered from the loss of the cloth mast, began to experiment with new dyes that could withstand the sea air. The Seal-Keeper of the South, whose ports had been damaged by the fleet's loss, invested in stronger ships and deeper harbors. The Seal-Keeper of the North, whose valleys produced no salt, began to trade timber for salt with the Seal-Keepers of the East and South.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-267 | Year: FA 512]
+The Seal-Keepers met in council and agreed to a new tariff schedule, one that would apply to all goods moving between the valleys and the sea. The agreement was sealed with the exchange of seven tokens, one from each valley.
+#+end_quote
+
+Kharad Tines, seeing the Seal-Keepers' growing autonomy, ordered the construction of a central archive in the mast-city, where all tariffs, trade agreements, and rite records would be kept. The archive was built of stone and iron, with a single entrance guarded by a bronze door bearing the seven colors. Only the Seal-Keepers and the Banner-Lord's most trusted clerks were allowed inside.
+
+#+begin_quote
+[Canon: FE-FA-B1-RIT-022 | Reliability: R1 | Locale: FE-LOC-B1-004]
+The Archive Rite requires the sealing of all trade and rite records within a stone archive, the placement of a bronze door bearing the seven colors, and the swearing of an oath by the Banner-Lord and all Seal-Keepers to preserve the archive's contents.
+#+end_quote
+
+The archive's creation marked the height of Flagarthan integration. For the first time, the valleys and the sea were bound not just by cloth and rite, but by a shared record of their agreements. Yet the very act of recording these agreements made them subject to dispute. The Seal-Keepers began to argue over the archive's interpretation, each claiming that their valley's interests were underrepresented.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-032 | Reliability: R3 | Locale: FE-LOC-B1-008]
+I was a clerk in the archive. I saw the Seal-Keepers come and go, each with their own copy of the records. They would argue over a single word, a single comma, as though the fate of the valleys depended on it.
+#+end_quote
+
+Kharad Tines, now an old man, saw the seeds of maritime dependency take root. The valleys, once self-sufficient, now relied on the sea for salt, dyes, and timber. The sea, in turn, relied on the valleys for grain, cloth, and iron. The balance was delicate, and Kharad Tines feared what would happen if it were disturbed.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-289 | Year: FA 535]
+The Banner-Lord ordered the construction of a new fleet, larger than the first, to protect the trade routes. The Seal-Keepers protested that the fleet would only encourage piracy, but Kharad Tines insisted that the sea was now as much a part of Flagartha as the valleys.
+#+end_quote
+
+The fleet's construction was completed just as Kharad Tines died. His son, Kharad the Younger, took the banner and the rite, but he did so without the full assent of the Seal-Keepers. The Seal-Keeper of the East, whose valleys had suffered from the new tariffs, refused to attend the rite. The Seal-Keeper of the South, whose ports had been damaged by the new fleet, declared that the sea was no longer a valley but a battlefield.
+
+#+begin_quote
+[Canon: FE-FA-B1-WIT-040 | Reliability: R4 | Locale: FE-LOC-B1-009]
+I saw the rite performed without the Seal-Keeper of the East. The Banner-Lord raised the seven cloths alone, and the wind tore them from his hands. The Seal-Keepers whispered that the wind had abandoned them, but I heard the Banner-Lord say that the wind had never been theirs to claim.
+#+end_quote
+
+The death of Kharad Tines and the incomplete rite marked the beginning of the end of the First Age of Banners. The valleys, once united by cloth and rite, now stood divided by tariffs and fleets. The sea, once a valley turned inside out, now loomed as a threat. The bronze chest, sealed with seven locks, remained in the mast-city, but its contents were forgotten, its keys lost.
+
+#+begin_quote
+[Canon: FE-FA-B1-ANN-301 | Year: FA 547]
+The bronze chest was opened by an unknown hand. The relics within were found to be nothing more than shards of glass, splinters of wood, and a single thread of common cloth. The Seal-Keepers declared the chest a forgery, but the Banner-Lord's clerks insisted that the relics had always been as they were found.
+#+end_quote
+
+The revelation of the chest's contents did not end the disputes, but it did end the faith in the rite. The Seal-Keepers, once bound by oath, now met only to argue over tariffs and trade. The Banner-Lord, once the master of the wind, now struggled to keep the valleys from tearing themselves apart. The cloth, once a symbol of unity, now hung in tatters from the mast.
+
+#+begin_quote
+[Canon: FE-FA-B1-LAM-001 | Reliability: R5 | Locale: FE-LOC-B1-010]
+I saw the last rite performed. The Seal-Keepers stood in a circle, but their faces were turned away from one another. The Banner-Lord raised the seven cloths, but the wind did not stir. When the rite was over, the Seal-Keepers left without a word, and the mast stood empty against the sky.
+#+end_quote
+

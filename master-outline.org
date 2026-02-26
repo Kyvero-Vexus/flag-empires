@@ -1,0 +1,81 @@
+* Master Outline of /Flag-Empires/
+
+** Global Span
+From the first cloth-signs above the basalt terraces to the administrative dissolution in the Last Year.
+
+** Book I: /Flagartha/
+*** Arc I — The Wind Before Names
+- DA memory cycles and proto-banners.
+- Hill clans and salt-gift compacts.
+- Canon set: FE-DA-B1-ANN-001..020
+
+*** Arc II — Raising the First Mast-City
+- Founding of Kher Valaan.
+- House Talar binds river and ridge.
+- Canon set: FE-FA-B1-ANN-021..090
+
+*** Arc III — Consolidation and Covenant Wars
+- Banner fealties standardized.
+- East March uprisings.
+- Lantern Peace and hidden reprisals.
+- Canon set: FE-FA-B1-ANN-091..170; FE-FA-B1-EDI-001..030
+
+*** Arc IV — Crown of Seven Cloths
+- Peak of Flagarthan integration.
+- Ritualization of succession.
+- Seeds of maritime dependency.
+- Canon set: FE-FA-B1-RIT-001..022
+
+** Book II: /Flagistan/
+*** Arc I — Crossing to the Crescent Coasts
+- Admirals granted semi-hereditary charter.
+- Founding of salt courts.
+- Canon set: FE-SA-B2-ANN-001..070
+
+*** Arc II — Coin, Grain, and Fracture
+- Trade boom and inequality.
+- Provincial military autonomy.
+- Canon set: FE-SA-B2-ANN-071..150; FE-SA-B2-EDI-031..080
+
+*** Arc III — The Hundred Harbors Crisis
+- Pirate leagues, embargo spirals.
+- Coup of the Fifth Ledger.
+- Canon set: FE-SA-B2-WIT-001..120
+
+*** Arc IV — The Quiet Partition
+- Administrative split masked as reform.
+- Child hostage treaties.
+- Canon set: FE-SA-B2-ANN-151..220
+
+** Book III: /Surface and Last Year/
+*** Arc I — Iron Roads and Surface Doctrine
+- TA expansion inland and upward.
+- Bureaucratic faith in metrics.
+- Canon set: FE-TA-B3-ANN-001..100
+
+*** Arc II — The Two Famines
+- Logistics success without food justice.
+- Mutiny of Road-Wardens.
+- Canon set: FE-TA-B3-WIT-121..220
+
+*** Arc III — Lantern Riots to Border Fires
+- Legitimacy collapse.
+- Provisional councils.
+- Canon set: FE-LA-B3-ANN-001..130
+
+*** Arc IV — The Last Year
+- Month-by-month unraveling.
+- Dissolution decrees.
+- Memory politics after the fall.
+- Canon set: FE-LA-B3-EDI-131..200; FE-LA-B3-WIT-221..320
+
+** Cross-Book Thematic Threads
+- Salt as treasury and wound.
+- Banner symbolism and changing sovereignty.
+- Archive integrity versus propaganda.
+- Infrastructure as promise, then burden.
+
+** Appendix Plan
+- Reigning Houses roll by Age.
+- Canon index by reliability.
+- Map notes and toponym changes.
